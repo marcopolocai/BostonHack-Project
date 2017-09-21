@@ -1,0 +1,1763 @@
+calciustech	8.0	4.9	2089	Internet Marketing	0.44	Marketing	0.13	SEO	0.12	Sales	0.09	Link Building	0.07	Other Skills	0.15
+WhizPool	30.0	5.0	77	iPhone	0.17	Mobile Phone	0.13	PHP	0.12	Android	0.1	Objective C	0.06	Other Skills	0.42
+ShamilS	120.0	5.0	188	Software Architecture	0.26	Software Testing	0.21	MySQL	0.17	.NET	0.07	C# Programming	0.04	Other Skills	0.25
+technosystem	20.0	4.8	244	Website Design	0.23	PHP	0.16	Graphic Design	0.11	HTML	0.07	Logo Design	0.05	Other Skills	0.38
+marjanahmed13	130.0	5.0	3054	Facebook Marketing	0.33	Social Networking	0.21	Internet Marketing	0.13	Twitter	0.07	SEO	0.06	Other Skills	0.2
+sanjay2004	20.0	4.9	1651	Website Design	0.27	Graphic Design	0.17	PHP	0.14	Flash	0.06	Logo Design	0.04	Other Skills	0.32
+salmanaim	35.0	4.8	352	Video Services	0.21	Animation	0.18	Flash	0.1	After Effects	0.07	Graphic Design	0.07	Other Skills	0.36
+xazoo	25.0	4.9	434	Academic Writing	0.28	Report Writing	0.09	Technical Writing	0.09	Accounting	0.07	Articles	0.06	Other Skills	0.41
+mmozammil8	15.0	5.0	590	Facebook Marketing	0.51	Social Networking	0.16	Internet Marketing	0.16	Twitter	0.07	Marketing	0.04	Other Skills	0.05
+myzealit	10.0	5.0	26	Website Design	0.2	PHP	0.18	Graphic Design	0.17	HTML	0.17	Android	0.04	Other Skills	0.24
+linuxfreak1985	12.0	4.9	583	Linux	0.17	PHP	0.13	Email Marketing	0.1	Bulk Marketing	0.08	System Admin	0.07	Other Skills	0.45
+IndyaInfo	6.0	4.8	639	Link Building	0.31	SEO	0.3	Internet Marketing	0.21	Marketing	0.06	Advertising	0.02	Other Skills	0.1
+BRD11	25.0	4.9	231	Translation	0.36	English (US)	0.09	German	0.07	English (UK)	0.07	Transcription	0.04	Other Skills	0.36
+mariadesigns78	30.0	4.9	42	Logo Design	0.35	Graphic Design	0.26	Corporate Identity	0.1	Illustrator	0.06	Photoshop	0.05	Other Skills	0.17
+deviphoneipad	25.0	4.9	202	iPhone	0.37	Mobile Phone	0.24	iPad	0.15	Objective C	0.13	Android	0.07	Other Skills	0.03
+kchg	25.0	4.9	138	PHP	0.14	MySQL	0.08	Javascript	0.07	HTML	0.05	HTML5	0.05	Other Skills	0.6
+OShuqair	35.0	5.0	102	.NET	0.34	C# Programming	0.24	SQL	0.09	ASP	0.08	Visual Basic	0.07	Other Skills	0.18
+sonuinfy	35.0	5.0	322	PHP	0.2	Wordpress	0.15	HTML	0.11	CSS	0.1	Website Design	0.08	Other Skills	0.37
+rony47	10.0	4.9	1825	Facebook Marketing	0.41	Social Networking	0.16	Internet Marketing	0.09	Twitter	0.08	Advertising	0.03	Other Skills	0.23
+NetzPro	15.0	5.0	395	PHP	0.19	Software Testing	0.18	MySQL	0.17	Website Testing	0.11	Website Management	0.1	Other Skills	0.25
+ambar	10.0	5.0	201	PHP	0.33	Drupal	0.15	.NET	0.12	Javascript	0.06	Software Architecture	0.06	Other Skills	0.28
+theDesignerz	25.0	5.0	322	Graphic Design	0.38	Logo Design	0.2	Photoshop	0.06	Brochure Design	0.05	Banner Design	0.03	Other Skills	0.28
+programerstreet	20.0	5.0	73	PHP	0.22	Codeigniter	0.18	Yii	0.11	CakePHP	0.1	Wordpress	0.06	Other Skills	0.32
+SQUAREPIXEL	20.0	5.0	146	Video Services	0.24	Animation	0.19	After Effects	0.18	3D Animation	0.16	3D Rendering	0.09	Other Skills	0.14
+appstudiozsl	22.0	4.8	11	Mobile Phone	0.38	iPhone	0.38	iPad	0.08	Objective C	0.08	PHP	0.04	Other Skills	0.04
+esolzsales	15.0	4.8	561	Website Design	0.16	PHP	0.15	Graphic Design	0.15	Logo Design	0.07	MySQL	0.06	Other Skills	0.41
+Thoughtfulwrites	50.0	5.0	138	Articles	0.19	Copywriting	0.15	Ghostwriting	0.11	Technical Writing	0.1	Article Rewriting	0.08	Other Skills	0.38
+nbnminds	20.0	4.9	112	PHP	0.16	MySQL	0.15	Software Architecture	0.14	Software Testing	0.13	Website Testing	0.09	Other Skills	0.32
+designcreative1	25.0	4.8	206	Magento	0.14	PHP	0.14	Website Design	0.13	HTML	0.07	Flash	0.06	Other Skills	0.46
+infoway	12.0	4.8	168	Website Design	0.17	PHP	0.16	Graphic Design	0.15	HTML	0.12	Wordpress	0.11	Other Skills	0.29
+omsoftware	16.0	4.8	180	PHP	0.21	Website Design	0.19	HTML	0.1	Graphic Design	0.08	SEO	0.08	Other Skills	0.34
+eSignWebServices	5.0	4.9	410	SEO	0.37	Link Building	0.22	Internet Marketing	0.22	Marketing	0.11	SEM / Adwords	0.02	Other Skills	0.06
+wroom7	50.0	5.0	89	Video Services	0.26	Animation	0.24	After Effects	0.15	Flash	0.06	3D Animation	0.06	Other Skills	0.23
+ukrainarts	65.0	4.9	253	Voice Talent	0.22	Animation	0.14	Video Services	0.13	Audio Services	0.09	Flash	0.09	Other Skills	0.33
+mikehurley	15.0	4.9	448	Link Building	0.33	SEO	0.32	Internet Marketing	0.2	Marketing	0.07	Data Entry	0.02	Other Skills	0.05
+jeweljitu	6.0	4.9	426	Data Entry	0.25	Excel	0.14	Web Search	0.11	Web Scraping	0.1	Photoshop	0.08	Other Skills	0.33
+LikesFacebook	100.0	4.9	344	Facebook Marketing	0.33	Social Networking	0.2	Twitter	0.13	Internet Marketing	0.13	YouTube	0.07	Other Skills	0.15
+timedsgn	95.0	4.9	24	Logo Design	0.73	Stationery Design	0.07	Photoshop	0.07	Poster Design	0.03	Covers &amp; Packaging	0.03	Other Skills	0.07
+zainy01	20.0	5.0	96	PHP	0.22	jQuery / Prototype	0.22	Javascript	0.13	HTML	0.1	AJAX	0.08	Other Skills	0.24
+cheapexcell	15.0	5.0	318	Software Architecture	0.16	PHP	0.12	Web Scraping	0.11	Excel	0.08	Data Entry	0.06	Other Skills	0.47
+danchoe2011	35.0	4.9	93	iPhone	0.33	Mobile Phone	0.23	iPad	0.12	Objective C	0.12	Android	0.05	Other Skills	0.15
+Narfo	30.0	4.7	38	.NET	0.25	Software Architecture	0.17	PHP	0.14	C# Programming	0.13	Web Scraping	0.1	Other Skills	0.23
+Auksin	12.0	4.8	197	Video Services	0.18	Animation	0.16	3D Animation	0.1	After Effects	0.09	Graphic Design	0.08	Other Skills	0.39
+gregorybair	40.0	4.9	244	Business Plans	0.31	Business Analysis	0.16	Finance	0.1	Marketing	0.06	Accounting	0.04	Other Skills	0.32
+lancerboy1206	50.0	5.0	2789	Facebook Marketing	0.43	Social Networking	0.18	Internet Marketing	0.12	Twitter	0.09	SEO	0.03	Other Skills	0.15
+rajat07me	6.0	4.8	844	Articles	0.35	Article Rewriting	0.13	Copywriting	0.13	Blog	0.1	Ghostwriting	0.1	Other Skills	0.19
+WebsiteFast	28.0	4.7	365	Website Design	0.21	Graphic Design	0.2	HTML	0.15	CSS	0.1	Wordpress	0.07	Other Skills	0.27
+Webcont247365	8.0	4.9	1171	Copywriting	0.31	Articles	0.17	SEO	0.12	Translation	0.07	Blog	0.06	Other Skills	0.28
+orchidseo	8.0	4.9	348	Link Building	0.35	SEO	0.32	Internet Marketing	0.21	Marketing	0.08	Copywriting	0.01	Other Skills	0.03
+pinky	25.0	5.0	2694	Graphic Design	0.32	Logo Design	0.25	Banner Design	0.09	Flash	0.08	Website Design	0.06	Other Skills	0.2
+scientificwebs	15.0	4.5	451	Graphic Design	0.31	Logo Design	0.22	Website Design	0.12	Banner Design	0.06	Photoshop	0.04	Other Skills	0.25
+ProWriterHalDog	18.0	5.0	210	Proofreading	0.21	Copywriting	0.13	Article Rewriting	0.12	Editing	0.1	Academic Writing	0.09	Other Skills	0.35
+Djdesign	15.0	4.9	3237	Graphic Design	0.28	Logo Design	0.28	Photoshop	0.13	Banner Design	0.06	Illustrator	0.05	Other Skills	0.21
+wanggil	35.0	5.0	18	iPhone	0.18	Mobile Phone	0.16	Android	0.15	iPad	0.09	Javascript	0.07	Other Skills	0.35
+creator9	15.0	5.0	96	Website Design	0.28	Graphic Design	0.19	PHP	0.11	HTML	0.09	Wordpress	0.09	Other Skills	0.24
+taganherbord	20.0	5.0	29	Graphic Design	0.33	Logo Design	0.3	Photoshop	0.1	Illustrator	0.09	Business Cards	0.06	Other Skills	0.12
+Maestros	25.0	4.8	175	PHP	0.23	Website Design	0.2	Graphic Design	0.05	Flash	0.05	Javascript	0.05	Other Skills	0.42
+rinsadsl	15.0	4.9	425	PHP	0.38	MySQL	0.17	Javascript	0.08	Software Architecture	0.07	Wordpress	0.05	Other Skills	0.25
+KatrinaQ	45.0	5.0	1242	Anything Goes	0.15	PHP	0.14	HTML	0.06	Wordpress	0.06	CSS	0.05	Other Skills	0.54
+crea8ivedesign	10.0	4.7	1907	Logo Design	0.38	Graphic Design	0.3	Photoshop	0.07	Website Design	0.06	Banner Design	0.04	Other Skills	0.16
+Rstanjim	10.0	4.9	551	Facebook Marketing	0.34	Social Networking	0.21	Twitter	0.17	Internet Marketing	0.14	YouTube	0.06	Other Skills	0.09
+elshahat	10.0	4.9	7	Graphic Design	0.5	Website Design	0.21	Logo Design	0.14	Banner Design	0.14
+leadconcept	30.0	5.0	55	PHP	0.13	MySQL	0.11	Software Architecture	0.09	Software Testing	0.08	Engineering	0.07	Other Skills	0.52
+softwareweaver	30.0	4.9	65	iPhone	0.29	Mobile Phone	0.21	iPad	0.14	Android	0.14	Objective C	0.11	Other Skills	0.11
+anirbanbanerjee	12.0	4.9	73	PHP	0.22	HTML	0.15	Graphic Design	0.13	Website Design	0.13	MySQL	0.09	Other Skills	0.28
+triyama	16.0	4.8	133	PHP	0.23	MySQL	0.23	Software Architecture	0.19	Web Hosting	0.15	Javascript	0.07	Other Skills	0.14
+webville	12.0	4.9	106	Animation	0.3	Video Services	0.17	3D Animation	0.11	After Effects	0.1	Videography	0.09	Other Skills	0.24
+jummachangezi	50.0	4.9	25	Logo Design	0.43	Graphic Design	0.41	Photoshop	0.07	Illustrator	0.05	Icon Design	0.02	Other Skills	0.02
+hanzhen18	40.0	4.9	80	iPhone	0.32	Mobile Phone	0.26	Objective C	0.14	iPad	0.11	Cocoa	0.06	Other Skills	0.11
+britishyip	15.0	4.3	145	PHP	0.22	Website Design	0.15	MySQL	0.11	Graphic Design	0.09	SEO	0.04	Other Skills	0.38
+graphicaa	9.0	4.8	301	PHP	0.19	HTML	0.14	Website Design	0.11	Graphic Design	0.07	Wordpress	0.07	Other Skills	0.42
+trying2w	30.0	5.0	37	Graphic Design	0.37	Logo Design	0.24	Photoshop	0.1	Illustrator	0.07	Banner Design	0.06	Other Skills	0.17
+websree	20.0	4.9	226	PHP	0.39	Website Design	0.2	HTML	0.13	Graphic Design	0.1	MySQL	0.08	Other Skills	0.1
+opu00	4.0	4.9	301	Data Entry	0.35	Excel	0.25	Web Search	0.12	Web Scraping	0.11	Data Processing	0.11	Other Skills	0.08
+puneetjaini	530.0	4.9	1914	PHP	0.39	MySQL	0.33	CSS	0.12	Graphic Design	0.03	Photoshop	0.03	Other Skills	0.11
+samitXI	25.0	4.9	257	Java	0.17	Mathematics	0.11	PHP	0.1	C++ Programming	0.08	C Programming	0.05	Other Skills	0.49
+writingcompany87	20.0	4.9	292	Articles	0.35	Copywriting	0.15	Article Rewriting	0.13	Blog	0.11	Ghostwriting	0.06	Other Skills	0.2
+EMCALLISTER	50.0	5.0	75	iPhone	0.38	iPad	0.36	Objective C	0.18	Cocoa	0.08
+enamulraju	7.0	4.9	232	Data Entry	0.2	Excel	0.17	Web Search	0.13	Web Scraping	0.12	Data Processing	0.11	Other Skills	0.26
+drubo999	20.0	4.9	818	Facebook Marketing	0.23	Social Networking	0.17	Twitter	0.14	Internet Marketing	0.14	Marketing	0.04	Other Skills	0.26
+masum894	30.0	5.0	134	Graphic Design	0.36	Logo Design	0.27	Photoshop	0.1	Illustrator	0.06	Banner Design	0.04	Other Skills	0.17
+zainy64	40.0	4.9	135	Video Services	0.25	Videography	0.21	Animation	0.17	Graphic Design	0.09	3D Animation	0.08	Other Skills	0.2
+javed1705	30.0	4.9	225	Accounting	0.22	Finance	0.21	Business Analysis	0.11	Academic Writing	0.11	Financial Research	0.08	Other Skills	0.28
+samzinc	25.0	4.9	97	PHP	0.25	Wordpress	0.21	CSS	0.15	HTML	0.13	MySQL	0.08	Other Skills	0.17
+raheelah	30.0	5.0	407	Graphic Design	0.34	Logo Design	0.29	Photoshop	0.09	Website Design	0.08	Illustrator	0.07	Other Skills	0.15
+seekdeveloper	45.0	4.8	68	PHP	0.26	HTML	0.18	Wordpress	0.08	Javascript	0.05	eCommerce	0.05	Other Skills	0.37
+WangJinHao	20.0	4.9	67	Mobile Phone	0.21	iPhone	0.19	Android	0.15	iPad	0.08	Objective C	0.07	Other Skills	0.29
+Brsoft1	12.0	5.0	51	Website Design	0.16	PHP	0.11	HTML	0.1	HTML5	0.08	iPhone	0.07	Other Skills	0.48
+dizajnline	20.0	4.9	81	Graphic Design	0.23	Website Design	0.23	Photoshop	0.1	Photoshop Design	0.06	InDesign	0.06	Other Skills	0.31
+wordsindustry	30.0	5.0	308	Copywriting	0.17	Academic Writing	0.13	Article Rewriting	0.11	Blog	0.09	Legal	0.07	Other Skills	0.44
+webmestro	40.0	4.8	160	Graphic Design	0.19	HTML	0.16	Website Design	0.14	PHP	0.11	CSS	0.1	Other Skills	0.3
+Jaimaasantoshi	10.0	4.9	51	SEO	0.56	Internet Marketing	0.17	Copywriting	0.08	Academic Writing	0.08	Website Management	0.05	Other Skills	0.06
+theislanders	16.0	4.8	36	Graphic Design	0.27	Photoshop	0.09	Logo Design	0.08	Banner Design	0.07	Illustrator	0.05	Other Skills	0.44
+ValueCoders	20.0	4.9	148	PHP	0.28	MySQL	0.2	SQL	0.07	.NET	0.07	HTML	0.06	Other Skills	0.32
+USAGraphicPR0	45.0	4.8	143	Website Design	0.33	Graphic Design	0.11	PHP	0.09	HTML	0.06	Flash	0.04	Other Skills	0.37
+logotrak	30.0	4.8	2179	Logo Design	0.44	Graphic Design	0.31	Photoshop	0.09	Banner Design	0.05	Website Design	0.04	Other Skills	0.07
+lbear9090	30.0	5.0	80	iPhone	0.21	Mobile Phone	0.18	C++ Programming	0.1	iPad	0.1	PHP	0.08	Other Skills	0.33
+LeadSoft	15.0	5.0	34	PHP	0.44	MySQL	0.38	CSS	0.12	HTML5	0.03	AJAX	0.01	Other Skills	0.01
+osmanbsd	45.0	5.0	116	Linux	0.32	System Admin	0.15	UNIX	0.1	Cisco	0.07	PHP	0.04	Other Skills	0.32
+FINGERRPRINT	10.0	4.9	165	Data Entry	0.42	Excel	0.19	Data Processing	0.1	Web Search	0.08	Web Scraping	0.06	Other Skills	0.15
+ferozstk	10.0	5.0	178	Facebook Marketing	0.4	Social Networking	0.2	Internet Marketing	0.14	Marketing	0.06	YouTube	0.05	Other Skills	0.14
+Quicketch	30.0	4.8	189	Graphic Design	0.36	Photoshop	0.15	Illustrator	0.07	Banner Design	0.07	Flyer Design	0.06	Other Skills	0.3
+khantek	15.0	5.0	368	PHP	0.16	MySQL	0.14	Software Architecture	0.14	Software Testing	0.14	Website Testing	0.09	Other Skills	0.32
+eclipsetechno	30.0	4.9	41	PHP	0.13	Website Design	0.12	HTML	0.1	Graphic Design	0.09	MySQL	0.06	Other Skills	0.5
+cromasolutions	15.0	4.9	76	Website Design	0.21	Graphic Design	0.2	PHP	0.14	CSS	0.09	Wordpress	0.09	Other Skills	0.27
+johnadel88	12.0	4.9	274	Graphic Design	0.35	Photoshop	0.15	Logo Design	0.11	Illustrator	0.11	Illustration	0.05	Other Skills	0.23
+re4ct0r	20.0	5.0	27	Android	0.39	Mobile Phone	0.25	PHP	0.09	MySQL	0.07	Software Architecture	0.05	Other Skills	0.14
+Emam9109	10.0	4.7	248	Articles	0.28	Article Rewriting	0.14	Ghostwriting	0.08	Blog	0.08	Academic Writing	0.07	Other Skills	0.35
+talarek	30.0	5.0	39	HTML	0.25	CSS	0.15	Website Design	0.13	HTML5	0.1	PHP	0.08	Other Skills	0.28
+sunsoftpro	20.0	4.8	87	Javascript	0.17	PHP	0.14	HTML	0.14	CSS	0.11	Website Design	0.07	Other Skills	0.36
+fifteenhex	25.0	5.0	102	Android	0.29	Linux	0.15	Embedded Software	0.15	C Programming	0.13	Electronics	0.07	Other Skills	0.22
+justsols	10.0	4.9	192	SEO	0.24	Facebook Marketing	0.17	Internet Marketing	0.13	Social Networking	0.11	Twitter	0.1	Other Skills	0.25
+BuDesign	20.0	5.0	28	Graphic Design	0.52	Logo Design	0.22	Illustrator	0.04	Website Design	0.04	Brochure Design	0.02	Other Skills	0.16
+xtremewebtech	18.0	4.9	27	PHP	0.19	Wordpress	0.19	HTML	0.17	Website Design	0.13	Graphic Design	0.1	Other Skills	0.22
+sherifnegm	25.0	4.8	84	PHP	0.18	MySQL	0.15	Software Architecture	0.15	Software Testing	0.14	Website Testing	0.1	Other Skills	0.28
+sukum	15.0	4.9	42	SugarCRM	0.4	PHP	0.23	MySQL	0.13	CRM	0.1	Software Architecture	0.06	Other Skills	0.08
+prithvi81	10.0	4.9	103	Academic Writing	0.28	Report Writing	0.17	Technical Writing	0.11	Articles	0.08	Business Analysis	0.07	Other Skills	0.29
+vietwebdev	10.0	4.9	118	HTML	0.17	Wordpress	0.16	Website Design	0.16	CSS	0.13	PHP	0.13	Other Skills	0.25
+xinjin8878	30.0	5.0	20	iPhone	0.53	Objective C	0.24	iPad	0.12	Android	0.06	Cocoa	0.03	Other Skills	0.03
+simplicityq88	25.0	4.9	278	Transcription	0.37	Translation	0.12	Data Entry	0.11	Excel	0.1	Virtual Assistant	0.06	Other Skills	0.25
+themexlx	35.0	4.8	157	Software Architecture	0.14	Software Testing	0.13	PHP	0.11	Web Hosting	0.1	Website Testing	0.1	Other Skills	0.42
+sunsoftpro	20.0	4.8	87	Javascript	0.17	PHP	0.14	HTML	0.14	CSS	0.11	Website Design	0.07	Other Skills	0.36
+web4myself	15.0	5.0	78	Illustrator	0.27	Illustration	0.21	Game Design	0.15	Photoshop	0.14	Animation	0.12	Other Skills	0.12
+fifteenhex	25.0	5.0	102	Android	0.29	Linux	0.15	Embedded Software	0.15	C Programming	0.13	Electronics	0.07	Other Skills	0.22
+xtremewebtech	18.0	4.9	27	PHP	0.19	Wordpress	0.19	HTML	0.17	Website Design	0.13	Graphic Design	0.1	Other Skills	0.22
+BeOnPage1	6.0	4.9	180	SEO	0.32	Link Building	0.23	Internet Marketing	0.19	Marketing	0.06	Articles	0.06	Other Skills	0.15
+sukum	15.0	4.9	42	SugarCRM	0.4	PHP	0.23	MySQL	0.13	CRM	0.1	Software Architecture	0.06	Other Skills	0.08
+vietwebdev	10.0	4.9	118	HTML	0.17	Wordpress	0.16	Website Design	0.16	CSS	0.13	PHP	0.13	Other Skills	0.25
+xinjin8878	30.0	5.0	20	iPhone	0.53	Objective C	0.24	iPad	0.12	Android	0.06	Cocoa	0.03	Other Skills	0.03
+adeelarshad	50.0	4.9	741	Website Design	0.21	PHP	0.18	Graphic Design	0.1	HTML	0.06	Wordpress	0.05	Other Skills	0.41
+leader3838	25.0	4.9	169	Articles	0.36	Article Rewriting	0.13	Copywriting	0.13	Ghostwriting	0.09	Blog	0.09	Other Skills	0.2
+ramscribbles	9.5	4.9	580	Articles	0.67	Copywriting	0.21	Blog	0.1	Press Releases	0.01	English (UK)	0.01	Other Skills	0.0
+AleksandarPers	40.0	4.9	31	Graphic Design	0.31	Illustrator	0.08	3D Rendering	0.06	Logo Design	0.06	3D Modelling	0.06	Other Skills	0.44
+maxinfos	35.0	4.9	444	Graphic Design	0.41	Banner Design	0.17	Website Design	0.14	Photoshop	0.08	Logo Design	0.07	Other Skills	0.14
+scriptphp87	20.0	4.7	132	PHP	0.24	HTML	0.1	Website Design	0.09	MySQL	0.08	CSS	0.05	Other Skills	0.44
+Teloquence	20.0	4.9	193	Excel	0.4	Data Processing	0.12	Data Entry	0.12	Photoshop	0.09	Visual Basic	0.08	Other Skills	0.18
+tomvnphp	20.0	4.9	264	PHP	0.27	eCommerce	0.11	Shopping Carts	0.09	HTML	0.07	Prestashop	0.06	Other Skills	0.39
+paxslg	20.0	4.9	29	Graphic Design	0.43	Logo Design	0.43	Illustrator	0.05	Photoshop	0.03	Business Cards	0.03	Other Skills	0.03
+MikroStar	50.0	4.9	76	Electrical Engineering	0.24	Matlab &amp; Mathematica	0.2	Electronics	0.15	PCB Layout	0.08	Microcontroller	0.07	Other Skills	0.26
+seopro212	20.0	4.9	143	PHP	0.22	Wordpress	0.2	HTML	0.19	CSS	0.17	Website Design	0.08	Other Skills	0.14
+philmakerz	25.0	5.0	309	Proofreading	0.17	Translation	0.14	Editing	0.11	Copywriting	0.11	Graphic Design	0.08	Other Skills	0.39
+rajeshsonisl	50.0	5.0	682	PHP	0.49	MySQL	0.19	Wordpress	0.09	Javascript	0.08	AJAX	0.03	Other Skills	0.12
+DoraKalesi	20.0	5.0	75	HTML	0.2	CSS	0.2	Joomla	0.17	PHP	0.16	Website Design	0.1	Other Skills	0.17
+sdc1978	20.0	5.0	122	Graphic Design	0.29	Photoshop	0.26	Illustrator	0.13	Logo Design	0.11	Illustration	0.07	Other Skills	0.14
+froiden07	20.0	4.9	193	PHP	0.28	HTML	0.17	Website Design	0.14	Graphic Design	0.08	CSS	0.07	Other Skills	0.26
+websky7	10.0	4.9	130	Website Design	0.23	HTML	0.18	Graphic Design	0.17	PHP	0.13	PSD to HTML	0.08	Other Skills	0.22
+vietcodepro	25.0	4.9	722	Joomla	0.33	PHP	0.22	HTML	0.09	CSS	0.08	Magento	0.06	Other Skills	0.23
+sharkTooth	25.0	5.0	78	PHP	0.32	MySQL	0.14	Website Design	0.11	HTML	0.07	Javascript	0.06	Other Skills	0.3
+iccheghuri	18.0	4.7	143	Graphic Design	0.25	Website Design	0.18	Logo Design	0.17	HTML	0.09	PHP	0.07	Other Skills	0.25
+pavi87june	20.0	4.8	168	Academic Writing	0.32	Technical Writing	0.18	Report Writing	0.15	Research	0.08	Articles	0.06	Other Skills	0.2
+itdv	16.0	4.7	204	Graphic Design	0.28	Website Design	0.1	Photoshop	0.1	Logo Design	0.07	HTML	0.07	Other Skills	0.38
+urmate	30.0	5.0	156	PHP	0.17	Java	0.16	MySQL	0.14	Software Architecture	0.12	C++ Programming	0.07	Other Skills	0.35
+sunblink	35.0	5.0	19	Android	0.21	Mobile Phone	0.14	PHP	0.11	Ruby on Rails	0.11	Java	0.11	Other Skills	0.32
+amvpdesign	25.0	5.0	115	Graphic Design	0.27	Logo Design	0.15	Photoshop	0.14	Advertisement Design	0.07	Arts &amp; Crafts	0.07	Other Skills	0.31
+MorphSystems	25.0	5.0	36	Flash	0.54	ActionScript	0.32	XML	0.11	Flash 3D	0.02	Flex	0.02
+futurenext1009	25.0	5.0	26	Mobile Phone	0.33	iPhone	0.28	Android	0.22	PHP	0.06	Anything Goes	0.06	Other Skills	0.06
+webpolis	15.0	4.9	411	Arts &amp; Crafts	0.15	Visual Arts	0.15	Graphic Design	0.14	Illustration	0.09	Photoshop	0.08	Other Skills	0.39
+manibaaba	15.0	4.9	55	HTML	0.26	Website Design	0.24	Wordpress	0.19	Graphic Design	0.13	CSS	0.07	Other Skills	0.1
+GetReal	50.0	5.0	334	PHP	0.16	Software Architecture	0.15	MySQL	0.14	Software Testing	0.14	Website Testing	0.06	Other Skills	0.35
+sdc1978	20.0	5.0	122	Graphic Design	0.29	Photoshop	0.26	Illustrator	0.13	Logo Design	0.11	Illustration	0.07	Other Skills	0.14
+froiden07	20.0	4.9	193	PHP	0.28	HTML	0.17	Website Design	0.14	Graphic Design	0.08	CSS	0.07	Other Skills	0.26
+websky7	10.0	4.9	130	Website Design	0.23	HTML	0.18	Graphic Design	0.17	PHP	0.13	PSD to HTML	0.08	Other Skills	0.22
+vietcodepro	25.0	4.9	722	Joomla	0.33	PHP	0.22	HTML	0.09	CSS	0.08	Magento	0.06	Other Skills	0.23
+sharkTooth	25.0	5.0	78	PHP	0.32	MySQL	0.14	Website Design	0.11	HTML	0.07	Javascript	0.06	Other Skills	0.3
+iccheghuri	18.0	4.7	143	Graphic Design	0.25	Website Design	0.18	Logo Design	0.17	HTML	0.09	PHP	0.07	Other Skills	0.25
+farmanahmed2007	30.0	5.0	24	Wordpress	0.15	Graphic Design	0.14	Website Design	0.1	Photoshop Design	0.08	HTML	0.08	Other Skills	0.44
+writer075	20.0	4.9	236	Articles	0.29	Copywriting	0.14	Article Rewriting	0.11	Ghostwriting	0.09	Blog	0.08	Other Skills	0.29
+pavi87june	20.0	4.8	168	Academic Writing	0.32	Technical Writing	0.18	Report Writing	0.15	Research	0.08	Articles	0.06	Other Skills	0.2
+itdv	16.0	4.7	204	Graphic Design	0.28	Website Design	0.1	Photoshop	0.1	Logo Design	0.07	HTML	0.07	Other Skills	0.38
+alwayswrite01	10.0	4.8	113	Research	0.16	Ghostwriting	0.1	Articles	0.09	eBooks	0.08	Copywriting	0.07	Other Skills	0.5
+customizedata	15.0	4.7	180	Software Architecture	0.25	Engineering	0.18	.NET	0.15	SQL	0.12	Visual Basic	0.12	Other Skills	0.18
+writer075	20.0	4.9	236	Articles	0.29	Copywriting	0.14	Article Rewriting	0.11	Ghostwriting	0.09	Blog	0.08	Other Skills	0.29
+pavi87june	20.0	4.8	168	Academic Writing	0.32	Technical Writing	0.18	Report Writing	0.15	Research	0.08	Articles	0.06	Other Skills	0.2
+mayanksm7	15.0	5.0	105	PHP	0.25	HTML	0.15	Website Design	0.11	Wordpress	0.07	MySQL	0.07	Other Skills	0.34
+sunblink	35.0	5.0	19	Android	0.21	Mobile Phone	0.14	PHP	0.11	Ruby on Rails	0.11	Java	0.11	Other Skills	0.32
+amvpdesign	25.0	5.0	115	Graphic Design	0.27	Logo Design	0.15	Photoshop	0.14	Advertisement Design	0.07	Arts &amp; Crafts	0.07	Other Skills	0.31
+MorphSystems	25.0	5.0	36	Flash	0.54	ActionScript	0.32	XML	0.11	Flash 3D	0.02	Flex	0.02
+adibutt	20.0	4.9	81	Website Design	0.11	Graphic Design	0.11	Articles	0.11	HTML	0.1	PHP	0.09	Other Skills	0.47
+futurenext1009	25.0	5.0	26	Mobile Phone	0.33	iPhone	0.28	Android	0.22	PHP	0.06	Anything Goes	0.06	Other Skills	0.06
+Pixaart	21.0	4.8	48	Graphic Design	0.19	Photoshop Design	0.11	Website Design	0.1	Concept Design	0.09	Photoshop	0.08	Other Skills	0.43
+johnhwardjr	35.0	4.9	20	MySQL	0.15	PHP	0.14	Software Architecture	0.13	Software Testing	0.1	ASP	0.07	Other Skills	0.41
+patzzVJSOFT	15.0	5.0	27	PHP	0.29	Wordpress	0.18	HTML	0.09	MySQL	0.09	CSS	0.07	Other Skills	0.28
+Yamnuska	15.0	4.9	33	InDesign	0.21	Graphic Design	0.21	Photoshop	0.11	Brochure Design	0.11	Format &amp; Layout	0.08	Other Skills	0.29
+webworldsolz	25.0	4.9	105	Anything Goes	0.21	Website Design	0.15	Graphic Design	0.11	PHP	0.1	HTML	0.09	Other Skills	0.34
+mmagr99	30.0	5.0	50	PHP	0.21	HTML	0.16	Website Design	0.12	CSS	0.09	Graphic Design	0.08	Other Skills	0.34
+SstatsC	75.0	5.0	50	Statistics	0.3	Mathematics	0.11	Education &amp; Tutoring	0.1	Analytics	0.08	Excel	0.08	Other Skills	0.33
+sudhakarsp	10.0	4.9	105	PHP	0.36	Zen Cart	0.15	HTML	0.14	OSCommerce	0.09	Shopping Carts	0.04	Other Skills	0.21
+WorkXpressPaaS	50.0	5.0	1	PHP	0.5	Software Architecture	0.5
+ploosesl	30.0	4.0	82	Mobile Phone	0.35	iPhone	0.27	Android	0.12	iPad	0.08	Graphic Design	0.08	Other Skills	0.1
+Gema75	10.0	4.9	158	Wordpress	0.39	PHP	0.2	Website Design	0.16	CSS	0.12	Blog	0.03	Other Skills	0.1
+matau88	25.0	5.0	160	Graphic Design	0.29	Photoshop	0.13	Illustrator	0.1	Brochure Design	0.07	Flyer Design	0.06	Other Skills	0.36
+NSExpert	30.0	5.0	52	Data Entry	0.18	Excel	0.09	Web Scraping	0.08	Facebook Marketing	0.06	SEO	0.05	Other Skills	0.54
+Olywebart	15.0	5.0	62	Graphic Design	0.37	Brochure Design	0.36	InDesign	0.11	Corporate Identity	0.05	Illustrator	0.03	Other Skills	0.08
+vikasjain06	25.0	4.9	35	3D Modelling	0.23	3D Animation	0.17	3D Rendering	0.16	3ds Max	0.13	Graphic Design	0.09	Other Skills	0.23
+Huiming324	33.0	5.0	85	iPhone	0.24	Mobile Phone	0.23	Android	0.14	iPad	0.07	Objective C	0.05	Other Skills	0.26
+ktmfreelancer	50.0	4.6	31	PHP	0.19	Website Design	0.16	HTML	0.15	Wordpress	0.14	Graphic Design	0.13	Other Skills	0.22
+WEBOWEB	13.0	4.9	120	Joomla	0.29	PHP	0.22	HTML	0.14	CSS	0.08	Website Design	0.08	Other Skills	0.19
+Oordosgoitia	15.0	5.0	65	Translation	0.3	Spanish	0.24	Data Entry	0.09	Articles	0.06	Copywriting	0.06	Other Skills	0.25
+Oordosgoitia	15.0	5.0	65	Translation	0.3	Spanish	0.24	Data Entry	0.09	Articles	0.06	Copywriting	0.06	Other Skills	0.25
+AveliyaDesign	25.0	4.9	36	Illustration	0.28	Graphic Design	0.13	Photoshop	0.13	Illustrator	0.13	T-Shirts	0.11	Other Skills	0.24
+shaouraav	150.0	5.0	61	PHP	0.16	CSS	0.16	Joomla	0.16	HTML	0.16	Website Design	0.12	Other Skills	0.24
+Kenara	11.0	4.8	149	Article Rewriting	0.16	Articles	0.15	Copywriting	0.13	Blog	0.12	Academic Writing	0.11	Other Skills	0.32
+Pixaart	21.0	4.8	48	Graphic Design	0.19	Photoshop Design	0.11	Website Design	0.1	Concept Design	0.09	Photoshop	0.08	Other Skills	0.43
+johnhwardjr	35.0	4.9	20	MySQL	0.15	PHP	0.14	Software Architecture	0.13	Software Testing	0.1	ASP	0.07	Other Skills	0.41
+patzzVJSOFT	15.0	5.0	27	PHP	0.29	Wordpress	0.18	HTML	0.09	MySQL	0.09	CSS	0.07	Other Skills	0.28
+malajka	20.0	5.0	65	Illustration	0.22	Graphic Design	0.2	Illustrator	0.15	Photoshop	0.09	Logo Design	0.08	Other Skills	0.25
+webworldsolz	25.0	4.9	105	Anything Goes	0.21	Website Design	0.15	Graphic Design	0.11	PHP	0.1	HTML	0.09	Other Skills	0.34
+pixelke	25.0	5.0	26	Graphic Design	0.36	Logo Design	0.13	HTML	0.09	PHP	0.09	Photoshop	0.09	Other Skills	0.23
+opengeek	16.0	4.6	173	Wordpress	0.21	PHP	0.19	HTML	0.15	Website Design	0.1	Web Security	0.07	Other Skills	0.28
+twhiting9275	45.0	5.0	45	PHP	0.28	MySQL	0.17	HTML	0.1	Linux	0.1	Wordpress	0.04	Other Skills	0.31
+elizabethjordan	35.0	5.0	34	Graphic Design	0.4	Brochure Design	0.3	Logo Design	0.04	Resumes	0.03	Illustrator	0.03	Other Skills	0.19
+Zhats	25.0	4.9	52	Mathematics	0.28	Matlab &amp; Mathematica	0.23	Statistics	0.13	Algorithm	0.1	Engineering	0.07	Other Skills	0.18
+cybersolutionvw	15.0	4.9	435	Virtual Assistant	0.17	PHP	0.13	Data Entry	0.13	Article Rewriting	0.1	Sales	0.09	Other Skills	0.39
+dworker88	25.0	5.0	180	Graphic Design	0.3	Photoshop	0.25	Illustrator	0.12	Logo Design	0.12	Photo Editing	0.03	Other Skills	0.17
+yamaas	20.0	5.0	26	PHP	0.35	HTML	0.15	Graphic Design	0.13	MySQL	0.07	Joomla	0.05	Other Skills	0.25
+pixholic	30.0	4.9	177	Graphic Design	0.26	Photoshop	0.2	Illustrator	0.12	Logo Design	0.09	Photo Editing	0.05	Other Skills	0.28
+GLZ	45.0	4.9	42	Video Services	0.44	Videography	0.13	After Effects	0.12	Video Broadcasting	0.06	Final Cut Pro	0.06	Other Skills	0.2
+moxdesigns	50.0	4.9	71	Wordpress	0.22	PHP	0.2	HTML	0.19	CSS	0.11	Website Design	0.1	Other Skills	0.19
+WebInfoQuest	18.0	4.9	39	Graphic Design	0.25	Website Design	0.18	HTML	0.13	PHP	0.1	Photoshop	0.05	Other Skills	0.29
+smnkayal	14.0	5.0	45	Website Design	0.2	Graphic Design	0.16	HTML	0.11	PSD to HTML	0.1	Wordpress	0.09	Other Skills	0.34
+innovative99	10.0	4.8	71	Logo Design	0.45	Graphic Design	0.42	Banner Design	0.02	Website Design	0.02	Business Cards	0.02	Other Skills	0.06
+burgeoning	5.0	4.9	137	Articles	0.36	Blog	0.12	Article Rewriting	0.12	Copywriting	0.1	SEO	0.08	Other Skills	0.23
+vonguyen	15.0	4.9	28	Android	0.4	Mobile Phone	0.33	iPhone	0.1	HTML5	0.04	Objective C	0.04	Other Skills	0.08
+hambaka90	15.0	5.0	43	3D Animation	0.17	Animation	0.13	After Effects	0.13	Video Services	0.11	3D Modelling	0.11	Other Skills	0.36
+Alcatraz87	16.0	4.8	61	Academic Writing	0.16	Excel	0.09	Data Processing	0.09	Data Entry	0.09	Proofreading	0.05	Other Skills	0.52
+zbsol	20.0	4.9	54	PHP	0.2	HTML	0.19	Website Design	0.17	Graphic Design	0.15	Joomla	0.03	Other Skills	0.24
+CreativePowerCo	20.0	5.0	38	Android	0.48	Java	0.22	HTML	0.14	Software Testing	0.08	C Programming	0.06	Other Skills	0.02
+niccroadniccroad	30.0	5.0	15	Graphic Design	0.33	Logo Design	0.33	Photoshop	0.17	Banner Design	0.1	Website Design	0.07
+lussaysl	25.0	5.0	303	PHP	0.32	CSS	0.13	Photoshop	0.12	Logo Design	0.11	Graphic Design	0.09	Other Skills	0.23
+harmonyinfotech	8.0	4.8	1033	PHP	0.22	MySQL	0.18	Web Hosting	0.15	Website Management	0.15	Flash	0.07	Other Skills	0.23
+creativeart08	10.0	4.8	149	Graphic Design	0.33	Logo Design	0.16	Photoshop	0.1	Icon Design	0.09	Flyer Design	0.06	Other Skills	0.28
+pyostrike	11.0	5.0	97	PHP	0.33	MySQL	0.17	Software Architecture	0.12	HTML	0.08	Linux	0.07	Other Skills	0.23
+aishfakahmed	20.0	5.0	142	Wordpress	0.22	Website Design	0.18	Web Hosting	0.15	CSS	0.14	HTML	0.11	Other Skills	0.19
+Asaffron	30.0	4.9	47	Articles	0.38	Copywriting	0.21	Blog	0.13	Reviews	0.06	Press Releases	0.05	Other Skills	0.17
+MaxDesigner	150.0	5.0	29	Graphic Design	0.37	Logo Design	0.29	Business Cards	0.09	Corporate Identity	0.08	Illustrator	0.05	Other Skills	0.12
+fancywwh	15.0	5.0	50	Web Scraping	0.35	Excel	0.19	Data Entry	0.18	Data Mining	0.16	Data Processing	0.11	Other Skills	0.01
+dannv	20.0	4.9	253	Magento	0.46	PHP	0.25	MySQL	0.12	HTML	0.1	Javascript	0.04	Other Skills	0.03
+timid	15.0	4.8	264	Website Design	0.22	Graphic Design	0.2	HTML	0.08	Photoshop	0.07	User Interface / IA	0.05	Other Skills	0.37
+aticul	20.0	4.9	122	Facebook Marketing	0.32	Social Networking	0.19	Internet Marketing	0.12	Twitter	0.1	Marketing	0.07	Other Skills	0.2
+RockStone435	12.0	4.9	350	PHP	0.31	.NET	0.11	ASP	0.1	SQL	0.09	C# Programming	0.08	Other Skills	0.33
+raju51279	8.0	4.4	72	PHP	0.15	Website Design	0.13	Flash	0.11	HTML	0.07	Graphic Design	0.07	Other Skills	0.47
+erinkennedy	10.0	4.9	56	Articles	0.21	Article Rewriting	0.15	Academic Writing	0.12	Copywriting	0.09	Ghostwriting	0.06	Other Skills	0.37
+aavatar2012	15.0	5.0	65	Wordpress	0.31	PHP	0.28	Magento	0.13	MySQL	0.12	CSS	0.11	Other Skills	0.05
+RockingExpert	7.0	4.8	1626	Facebook Marketing	0.22	YouTube	0.17	Social Networking	0.15	Internet Marketing	0.15	SEO	0.07	Other Skills	0.24
+webicent	15.0	4.7	33	PHP	0.17	Joomla	0.16	Website Design	0.14	HTML	0.13	Graphic Design	0.08	Other Skills	0.32
+MariaThereza	10.0	5.0	79	Translation	0.37	Portuguese (Brazil)	0.17	Data Entry	0.06	Article Rewriting	0.05	Proofreading	0.05	Other Skills	0.29
+momentumsoftware	10.0	4.8	115	PHP	0.19	Wordpress	0.18	HTML	0.16	Website Design	0.15	Graphic Design	0.12	Other Skills	0.2
+ExtraNet	10.0	5.0	100	Translation	0.36	Greek	0.15	English (UK)	0.11	Technical Writing	0.1	Editing	0.05	Other Skills	0.23
+BestSolutionForU	8.0	4.8	91	Prestashop	0.18	PHP	0.18	HTML	0.13	Website Design	0.11	CSS	0.07	Other Skills	0.34
+rotfor	15.0	5.0	89	PHP	0.2	Website Testing	0.18	Project Management	0.13	Python	0.11	Windows Desktop	0.11	Other Skills	0.26
+aerobace	25.0	5.0	4	Microsoft Access	0.38	Excel	0.25	MySQL	0.13	Powerpoint	0.13	Objective C	0.13
+troywhudson	40.0	4.9	20	Voice Talent	0.51	Audio Services	0.31	Video Services	0.08	Advertising	0.03	Post-Production	0.03	Other Skills	0.05
+spcinc	30.0	5.0	34	Objective C	0.14	C++ Programming	0.1	Mac OS	0.1	C Programming	0.07	iPhone	0.07	Other Skills	0.51
+dungnguyen2607	10.0	5.0	38	PHP	0.35	Wordpress	0.34	HTML	0.19	MySQL	0.05	CMS	0.03	Other Skills	0.03
+DesignOptimize	8.0	5.0	61	Website Design	0.24	HTML	0.18	Graphic Design	0.12	CSS	0.1	PSD to HTML	0.1	Other Skills	0.25
+muzzamilnoor	30.0	5.0	39	Technical Writing	0.17	Academic Writing	0.16	Computer Security	0.16	Web Security	0.14	Report Writing	0.08	Other Skills	0.29
+ExtraNet	10.0	5.0	100	Translation	0.36	Greek	0.15	English (UK)	0.11	Technical Writing	0.1	Editing	0.05	Other Skills	0.23
+mattfitznz	40.0	5.0	9	3D Modelling	0.25	3D Rendering	0.2	Video Services	0.1	CAD/CAM	0.1	3D Animation	0.1	Other Skills	0.25
+BestSolutionForU	8.0	4.8	91	Prestashop	0.18	PHP	0.18	HTML	0.13	Website Design	0.11	CSS	0.07	Other Skills	0.34
+rotfor	15.0	5.0	89	PHP	0.2	Website Testing	0.18	Project Management	0.13	Python	0.11	Windows Desktop	0.11	Other Skills	0.26
+aerobace	25.0	5.0	4	Microsoft Access	0.38	Excel	0.25	MySQL	0.13	Powerpoint	0.13	Objective C	0.13
+troywhudson	40.0	4.9	20	Voice Talent	0.51	Audio Services	0.31	Video Services	0.08	Advertising	0.03	Post-Production	0.03	Other Skills	0.05
+spcinc	30.0	5.0	34	Objective C	0.14	C++ Programming	0.1	Mac OS	0.1	C Programming	0.07	iPhone	0.07	Other Skills	0.51
+dungnguyen2607	10.0	5.0	38	PHP	0.35	Wordpress	0.34	HTML	0.19	MySQL	0.05	CMS	0.03	Other Skills	0.03
+DesignOptimize	8.0	5.0	61	Website Design	0.24	HTML	0.18	Graphic Design	0.12	CSS	0.1	PSD to HTML	0.1	Other Skills	0.25
+nenadf	12.0	4.9	26	3D Rendering	0.27	3D Modelling	0.21	Building Architecture	0.13	Interior Design	0.1	3D Animation	0.1	Other Skills	0.19
+muzzamilnoor	30.0	5.0	39	Technical Writing	0.17	Academic Writing	0.16	Computer Security	0.16	Web Security	0.14	Report Writing	0.08	Other Skills	0.29
+seoandwebdesigns	14.0	4.7	120	Link Building	0.35	SEO	0.33	Internet Marketing	0.23	Marketing	0.06	Advertising	0.02	Other Skills	0.02
+naef	15.0	4.9	75	Graphic Design	0.27	Photoshop	0.13	Photoshop Design	0.1	T-Shirts	0.09	Logo Design	0.08	Other Skills	0.32
+devbogdan111	20.0	5.0	14	PHP	0.41	MySQL	0.21	HTML	0.12	HTML5	0.09	jQuery / Prototype	0.06	Other Skills	0.12
+ritzdigitals	22.0	4.9	265	PHP	0.33	Graphic Design	0.22	Mac OS	0.12	Amazon Kindle	0.07	eBooks	0.06	Other Skills	0.2
+gokhanozbilen	45.0	5.0	34	HTML	0.22	Website Design	0.21	PHP	0.17	Joomla	0.13	MySQL	0.05	Other Skills	0.23
+binhnx	20.0	4.9	25	Mobile Phone	0.21	iPhone	0.21	PHP	0.14	HTML	0.11	MySQL	0.1	Other Skills	0.24
+softlinkage	10.0	4.9	69	PHP	0.29	HTML	0.18	Website Design	0.16	Wordpress	0.13	CSS	0.07	Other Skills	0.16
+almiradjo	20.0	4.9	60	AutoCAD	0.48	CAD/CAM	0.18	3D Modelling	0.13	Engineering	0.12	Civil Engineering	0.04	Other Skills	0.05
+imszone	23.0	5.0	215	Website Design	0.33	PHP	0.14	CSS	0.1	PSD to HTML	0.08	HTML	0.08	Other Skills	0.28
+chandanghosh	10.0	4.8	192	Facebook Marketing	0.39	Twitter	0.18	Social Networking	0.13	Internet Marketing	0.1	Google Plus	0.07	Other Skills	0.13
+dinastalb	100.0	4.7	35	Magento	0.21	eCommerce	0.15	Shopping Carts	0.12	Website Design	0.12	PHP	0.09	Other Skills	0.31
+deming723	30.0	5.0	6	iPhone	0.38	Mobile Phone	0.19	Objective C	0.13	Android	0.13	Mac OS	0.06	Other Skills	0.13
+bacujkov	15.0	4.9	33	T-Shirts	0.42	Graphic Design	0.37	Photoshop Design	0.18	Brochure Design	0.01	Arts &amp; Crafts	0.01
+forbestcoder	15.0	4.9	49	Website Design	0.31	Graphic Design	0.14	HTML	0.13	PHP	0.11	Photoshop	0.05	Other Skills	0.25
+tevuasohe	30.0	5.0	39	Wordpress	0.25	PHP	0.16	CSS	0.16	HTML	0.14	Website Design	0.09	Other Skills	0.21
+chenjing2579	35.0	5.0	12	iPhone	0.3	Objective C	0.15	Mobile Phone	0.15	iPad	0.11	Cocoa	0.07	Other Skills	0.22
+dotcomdotbd	25.0	5.0	43	Wordpress	0.32	PHP	0.24	HTML	0.17	Website Design	0.09	MySQL	0.09	Other Skills	0.09
+lindaprice	20.0	4.9	19	Proofreading	0.24	Academic Writing	0.16	Editing	0.14	Technical Writing	0.11	Research	0.08	Other Skills	0.27
+aduetratti	20.0	4.7	12	Logo Design	0.52	Graphic Design	0.48
+stniavla	10.0	4.8	13	Graphic Design	0.26	Photoshop	0.21	Website Design	0.12	HTML	0.09	Banner Design	0.06	Other Skills	0.26
+oswaldo	10.0	5.0	136	Translation	0.56	Spanish	0.09	Proofreading	0.08	Technical Writing	0.06	Editing	0.05	Other Skills	0.15
+Salah114	30.0	5.0	12	Translation	1.0
+jonijordder	10.0	4.9	126	Facebook Marketing	0.25	Social Networking	0.22	Twitter	0.19	Pinterest	0.12	Google Plus	0.06	Other Skills	0.16
+adilchang	15.0	5.0	64	Linux	0.26	MySQL	0.15	PHP	0.11	Web Hosting	0.11	System Admin	0.09	Other Skills	0.27
+flashbogdan	25.0	4.9	40	Translation	0.26	French	0.2	Articles	0.14	Article Rewriting	0.14	Blog	0.07	Other Skills	0.19
+MaxAdso	15.0	5.0	29	PHP	0.33	MySQL	0.17	HTML	0.13	Wordpress	0.1	HTML5	0.06	Other Skills	0.22
+SigmaVisual	25.0	4.8	323	PHP	0.36	MySQL	0.09	Website Design	0.05	XML	0.04	Web Scraping	0.03	Other Skills	0.42
+johanmak	10.0	4.9	12	Logo Design	0.39	Graphic Design	0.32	Website Design	0.1	Photoshop	0.1	Banner Design	0.06	Other Skills	0.03
+saadrashad	20.0	5.0	39	Wordpress	0.25	PHP	0.14	Website Design	0.11	HTML	0.11	CSS	0.09	Other Skills	0.31
+mohsenshilivw	30.0	5.0	78	Linux	0.28	System Admin	0.15	PHP	0.12	MySQL	0.07	Apache	0.05	Other Skills	0.33
+seoface	20.0	5.0	145	Social Networking	0.17	YouTube	0.16	Facebook Marketing	0.15	Google Plus	0.13	SEO	0.1	Other Skills	0.29
+desarrollos720	22.0	5.0	129	Website Design	0.22	CSS	0.16	PHP	0.13	HTML	0.12	Photoshop	0.08	Other Skills	0.3
+jerrypro	20.0	4.9	219	PHP	0.27	HTML	0.13	Website Design	0.09	MySQL	0.09	Wordpress	0.08	Other Skills	0.34
+fbdiamond	10.0	4.9	180	Facebook Marketing	0.36	Social Networking	0.21	Twitter	0.13	Internet Marketing	0.13	Marketing	0.05	Other Skills	0.13
+Instantsolutions	15.0	4.9	106	PHP	0.36	HTML	0.28	Drupal	0.19	Wordpress	0.16	Magento	0.02
+stniavla	10.0	4.8	13	Graphic Design	0.26	Photoshop	0.21	Website Design	0.12	HTML	0.09	Banner Design	0.06	Other Skills	0.26
+Salah114	30.0	5.0	12	Translation	1.0
+jonijordder	10.0	4.9	126	Facebook Marketing	0.25	Social Networking	0.22	Twitter	0.19	Pinterest	0.12	Google Plus	0.06	Other Skills	0.16
+smadit	25.0	4.9	11	CSS	0.15	Joomla	0.15	Wordpress	0.1	PHP	0.1	CMS	0.07	Other Skills	0.42
+MissClaire	9.0	5.0	53	Photoshop	0.37	Photo Editing	0.27	Graphic Design	0.09	Photoshop Design	0.05	Website Design	0.04	Other Skills	0.18
+loufyla	20.0	5.0	29	PHP	0.49	Javascript	0.24	jQuery / Prototype	0.1	HTML5	0.05	MySQL	0.05	Other Skills	0.07
+tazkiahtech	10.0	4.9	62	PHP	0.2	HTML	0.15	Website Design	0.15	Graphic Design	0.09	Wordpress	0.09	Other Skills	0.31
+theincredible	12.0	4.5	132	PHP	0.27	Javascript	0.15	MySQL	0.09	Java	0.08	CSS	0.06	Other Skills	0.34
+superior5	43.0	3.7	243	PHP	0.22	MySQL	0.08	Website Design	0.08	SEO	0.08	Graphic Design	0.06	Other Skills	0.48
+saykor	25.0	5.0	67	.NET	0.26	C# Programming	0.25	ASP	0.15	Windows 8	0.05	WPF	0.04	Other Skills	0.25
+BenFF	20.0	5.0	12	Translation	0.36	Korean	0.29	Copywriting	0.14	Medical	0.07	English (US)	0.07	Other Skills	0.07
+dnagyelek	15.0	5.0	32	Wordpress	0.31	PHP	0.23	HTML	0.11	CSS	0.1	MySQL	0.09	Other Skills	0.16
+gertone	50.0	5.0	32	XML	0.49	XSLT	0.32	HTML	0.07	Data Entry	0.05	Data Processing	0.03	Other Skills	0.03
+indiawrites	5.0	4.8	61	Data Entry	0.23	Excel	0.13	Web Search	0.12	Articles	0.08	Web Scraping	0.08	Other Skills	0.36
+Amel90	17.0	5.0	50	Photoshop	0.29	Graphic Design	0.28	Logo Design	0.08	Illustrator	0.07	Photoshop Design	0.06	Other Skills	0.2
+lilianagomes	10.0	4.8	39	Translation	0.84	Graphic Design	0.04	Photoshop	0.04	Website Design	0.02	Illustrator	0.02	Other Skills	0.02
+vernequeneto	10.0	4.9	14	Graphic Design	0.39	Logo Design	0.39	Illustrator	0.09	Website Design	0.06	Banner Design	0.06
+mrroberto	60.0	4.9	260	PHP	0.35	MySQL	0.16	Script Install	0.07	Shopping Carts	0.06	Javascript	0.06	Other Skills	0.3
+novaemp	20.0	4.9	71	PHP	0.29	HTML	0.17	MySQL	0.1	Javascript	0.05	Wordpress	0.05	Other Skills	0.33
+EEarningBD	20.0	4.7	79	Facebook Marketing	0.36	Social Networking	0.2	Internet Marketing	0.15	Marketing	0.08	Twitter	0.05	Other Skills	0.17
+IDGDesign	20.0	5.0	38	Graphic Design	0.39	Logo Design	0.1	Photoshop	0.09	Brochure Design	0.07	Banner Design	0.06	Other Skills	0.29
+AliChorov	20.0	5.0	159	Logo Design	0.2	Graphic Design	0.19	Arts &amp; Crafts	0.11	Photoshop	0.11	Illustration	0.08	Other Skills	0.3
+etechnodroid1515	16.0	4.6	20	Magento	0.6	PHP	0.08	Wordpress	0.08	HTML	0.08	CSS	0.04	Other Skills	0.12
+elagid	10.0	5.0	73	Translation	0.62	French	0.13	Arabic	0.1	Proofreading	0.07	Academic Writing	0.03	Other Skills	0.04
+hossainart	10.0	5.0	72	Graphic Design	0.33	Photoshop	0.28	Illustrator	0.14	Logo Design	0.05	Illustration	0.05	Other Skills	0.14
+bsubramaniam1234	15.0	4.9	18	PHP	0.32	Wordpress	0.16	CSS	0.13	Website Design	0.11	HTML	0.08	Other Skills	0.21
+medsoftngo	25.0	4.5	43	Software Architecture	0.32	Windows Desktop	0.29	PHP	0.19	C# Programming	0.07	Web Scraping	0.06	Other Skills	0.07
+megainfodz	25.0	4.9	26	PHP	0.32	Wordpress	0.22	HTML	0.2	Javascript	0.08	MySQL	0.08	Other Skills	0.11
+waqasdeveloperz	8.0	4.8	121	HTML	0.22	Website Design	0.18	CSS	0.17	PSD to HTML	0.14	Graphic Design	0.09	Other Skills	0.2
+ambreen2010	15.0	5.0	141	PHP	0.26	Wordpress	0.21	HTML	0.14	CSS	0.14	Data Entry	0.07	Other Skills	0.18
+gasparandreii	20.0	5.0	67	Illustration	0.27	Graphic Design	0.19	Illustrator	0.16	Caricature &amp; Cartoons	0.11	Photoshop	0.1	Other Skills	0.16
+fattahaabdul	50.0	5.0	22	Java	0.14	Software Architecture	0.13	Javascript	0.09	HTML5	0.07	HTML	0.07	Other Skills	0.5
+Pauleta	15.0	4.6	5	Unity 3D	0.83	Android	0.17
+rimskik	21.0	4.9	6	Graphic Design	0.38	Logo Design	0.19	Photoshop	0.13	Business Cards	0.06	Illustrator	0.06	Other Skills	0.19
+vectorhashib	15.0	4.9	26	After Effects	0.2	3D Animation	0.2	Animation	0.18	Video Services	0.08	Photoshop	0.07	Other Skills	0.27
+DannyBSP	35.0	5.0	4	Mobile Phone	0.29	Facebook Marketing	0.14	HTML5	0.14	iPhone	0.14	PHP	0.14	Other Skills	0.14
+adesousa	25.0	4.7	5	Android	0.71	Mobile Phone	0.29
+Balakabd	5.0	5.0	164	Data Entry	0.26	Facebook Marketing	0.11	Internet Marketing	0.1	Data Processing	0.09	Excel	0.09	Other Skills	0.36
+shineiron0708	35.0	4.8	13	Mobile Phone	0.23	Android	0.2	Objective C	0.2	iPhone	0.2	iPad	0.17
+simplesshh	25.0	5.0	41	iPhone	0.33	Mobile Phone	0.22	iPad	0.15	Objective C	0.08	Android	0.07	Other Skills	0.16
+bfgreyling	20.0	5.0	24	Excel	0.21	Financial Markets	0.19	Visual Basic for Apps	0.17	Finance	0.17	Software Architecture	0.08	Other Skills	0.19
+shinydgn	10.0	5.0	56	PHP	0.2	Website Design	0.2	HTML	0.14	Wordpress	0.14	Graphic Design	0.14	Other Skills	0.19
+ilirjant	10.0	4.9	41	Web Scraping	0.24	Data Mining	0.23	Excel	0.13	Web Search	0.13	Data Entry	0.1	Other Skills	0.17
+tzo	20.0	5.0	325	Software Architecture	0.21	PHP	0.19	MySQL	0.15	Web Hosting	0.11	Perl	0.06	Other Skills	0.29
+gazzillo	12.0	4.9	80	Translation	0.19	Italian	0.08	System Admin	0.07	Cisco	0.06	Software Architecture	0.04	Other Skills	0.56
+cptechnology	10.0	4.8	39	HTML	0.34	PHP	0.3	MySQL	0.13	Shopping Carts	0.07	Javascript	0.07	Other Skills	0.09
+artist2082	125.0	5.0	461	Graphic Design	0.79	Logo Design	0.13	Illustration	0.03	Photoshop	0.01	Illustrator	0.01	Other Skills	0.03
+utrejak	10.0	5.0	7	Graphic Design	0.47	Logo Design	0.47	Photoshop	0.07
+PROtechSoft	25.0	5.0	27	PHP	0.19	Website Design	0.15	Magento	0.13	Javascript	0.08	Wordpress	0.08	Other Skills	0.37
+elmalak	25.0	5.0	156	Wordpress	0.37	Graphic Design	0.25	Website Design	0.22	HTML	0.07	CSS	0.06	Other Skills	0.02
+Mindon	20.0	4.9	129	Perl	0.23	PHP	0.21	MySQL	0.12	Script Install	0.07	Linux	0.05	Other Skills	0.32
+wattabass	25.0	5.0	15	Customer Support	0.33	Music	0.28	Audio Services	0.17	Voice Talent	0.11	Ghostwriting	0.06	Other Skills	0.06
+jenifa2008	10.0	4.9	67	Data Entry	0.24	Excel	0.12	Web Search	0.12	Web Scraping	0.09	Data Processing	0.09	Other Skills	0.35
+MattShadowwing	10.0	5.0	39	Graphic Design	0.29	Brochure Design	0.2	Photoshop	0.12	Flyer Design	0.09	Illustrator	0.07	Other Skills	0.23
+elboukharimu	30.0	4.8	35	MySQL	0.22	SQL	0.19	Database Administration	0.14	PHP	0.06	Oracle	0.04	Other Skills	0.35
+csimmons	15.0	4.8	54	Business Plans	0.23	Research	0.1	Business Analysis	0.08	Marketing	0.07	Report Writing	0.06	Other Skills	0.45
+MoleLR	20.0	5.0	32	Joomla	0.32	Virtuemart	0.15	PHP	0.15	MySQL	0.14	Website Design	0.08	Other Skills	0.15
+wabdesigner	20.0	4.9	182	Graphic Design	0.3	Website Design	0.24	Photoshop	0.13	User Interface / IA	0.1	Photoshop Design	0.04	Other Skills	0.19
+elMancha	14.0	5.0	43	Excel	0.38	Data Entry	0.22	Data Processing	0.16	Word	0.05	Copy Typing	0.04	Other Skills	0.14
+Mohsen6558	10.0	5.0	31	PHP	0.3	Joomla	0.17	MySQL	0.12	CSS	0.08	Website Design	0.05	Other Skills	0.28
+shanikhan786	10.0	5.0	57	Graphic Design	0.32	Illustrator	0.18	Logo Design	0.13	Illustration	0.12	Photoshop	0.11	Other Skills	0.14
+expertlogodesign	25.0	5.0	73	Graphic Design	0.43	Logo Design	0.34	Banner Design	0.11	Website Design	0.05	Corporate Identity	0.01	Other Skills	0.06
+jitendraparmar07	15.0	4.8	67	Metatrader	0.17	C++ Programming	0.12	C Programming	0.11	Web Scraping	0.11	Software Architecture	0.09	Other Skills	0.4
+jeffreymarks	25.0	5.0	7	eBooks	0.26	Ghostwriting	0.22	Book Writing	0.22	Research	0.13	Editing	0.09	Other Skills	0.09
+abupabuya	8.0	4.9	67	Data Mining	0.17	Web Scraping	0.15	PHP	0.11	Data Entry	0.1	Leads	0.07	Other Skills	0.4
+DanielDEE	20.0	5.0	957	Flash	0.36	Photoshop	0.19	Graphic Design	0.17	Logo Design	0.08	Videography	0.06	Other Skills	0.14
+skysap	25.0	5.0	31	PHP	0.18	Objective C	0.11	iPhone	0.1	AJAX	0.08	jQuery / Prototype	0.07	Other Skills	0.46
+perm	55.0	5.0	25	Mac OS	0.57	iPhone	0.14	Cocoa	0.11	Objective C	0.07	FileMaker	0.04	Other Skills	0.07
+eWestsiders	3.0	5.0	97	Website Design	0.21	HTML	0.17	PHP	0.15	Graphic Design	0.1	Wordpress	0.08	Other Skills	0.29
+zo0r	40.0	5.0	22	PHP	0.2	Joomla	0.2	CSS	0.1	HTML	0.08	Javascript	0.08	Other Skills	0.34
+DrTech76	40.0	4.9	397	PHP	0.35	MySQL	0.12	Javascript	0.1	HTML	0.08	Wordpress	0.07	Other Skills	0.28
+Caramelpros	40.0	5.0	3	Video Services	0.2	3D Animation	0.2	Voice Talent	0.2	Animation	0.2	Audio Services	0.2
+AllanFreelancer	20.0	4.9	82	Graphic Design	0.35	Photoshop	0.12	Brochure Design	0.09	Illustrator	0.08	Photoshop Design	0.07	Other Skills	0.29
+newnel4tle	15.0	4.7	57	CSS	0.17	PHP	0.17	HTML	0.16	Website Design	0.14	Wordpress	0.09	Other Skills	0.27
+Ezinewriters	5.0	4.6	41	Academic Writing	0.24	Research	0.11	Articles	0.1	Technical Writing	0.09	Report Writing	0.07	Other Skills	0.39
+ranjitsingh90	15.0	5.0	52	PHP	0.31	Web Scraping	0.15	HTML	0.12	MySQL	0.12	Wordpress	0.06	Other Skills	0.25
+matharpa	20.0	4.8	162	Metatrader	0.42	PHP	0.2	C Programming	0.16	Software Architecture	0.09	SQL	0.04	Other Skills	0.1
+RWSteeds	25.0	4.9	52	Articles	0.22	Copywriting	0.19	Ghostwriting	0.14	Research	0.13	Report Writing	0.07	Other Skills	0.26
+irenicus	30.0	5.0	31	PHP	0.46	HTML	0.09	Facebook Marketing	0.09	AJAX	0.08	jQuery / Prototype	0.06	Other Skills	0.22
+ashishicfai	30.0	4.9	30	PHP	0.17	MySQL	0.12	Android	0.1	HTML	0.07	iPhone	0.07	Other Skills	0.46
+kvadhel	10.0	4.7	280	Photoshop	0.42	Graphic Design	0.18	Photo Editing	0.18	Photoshop Design	0.06	Illustrator	0.05	Other Skills	0.12
+asankacoder	20.0	4.7	32	Software Architecture	0.47	PHP	0.3	C++ Programming	0.13	Matlab &amp; Mathematica	0.03	Mac OS	0.03	Other Skills	0.05
+panfreelancer	10.0	5.0	90	Excel	0.13	Data Entry	0.13	Web Scraping	0.12	Data Mining	0.09	Data Processing	0.09	Other Skills	0.43
+theproper	25.0	5.0	17	Software Architecture	0.24	.NET	0.13	Windows Desktop	0.13	C Programming	0.13	C# Programming	0.11	Other Skills	0.26
+moustafaa	15.0	4.8	82	Articles	0.17	Article Rewriting	0.09	Academic Writing	0.09	Translation	0.07	Copywriting	0.07	Other Skills	0.51
+AlexMillerDev	15.0	4.9	21	Wordpress	0.27	HTML	0.24	PHP	0.18	Graphic Design	0.14	CSS	0.08	Other Skills	0.1
+nikhilcoolstuff	40.0	4.3	7	iPhone	0.28	Mobile Phone	0.22	iPad	0.22	Objective C	0.17	Cocoa	0.06	Other Skills	0.06
+pablotorres	15.0	5.0	114	PHP	0.25	MySQL	0.22	Wordpress	0.1	HTML	0.07	Software Architecture	0.06	Other Skills	0.3
+RONo0dle	30.0	5.0	15	Graphic Design	0.47	Logo Design	0.42	Photoshop	0.11
+btnetworks1	4.0	4.8	80	Articles	0.33	Copywriting	0.18	Blog	0.18	Article Rewriting	0.14	Technical Writing	0.07	Other Skills	0.09
+sboterod	15.0	5.0	5	Illustration	0.44	Caricature &amp; Cartoons	0.44	Illustrator	0.11
+sverigekreativ	25.0	5.0	3	PHP	0.33	HTML5	0.11	Joomla	0.11	Magento	0.11	CMS	0.11	Other Skills	0.22
+DarkUD	10.0	5.0	18	PHP	0.29	Drupal	0.22	HTML	0.17	AJAX	0.12	CSS	0.1	Other Skills	0.1
+Simplesphere	6.0	5.0	43	HTML	0.38	Graphic Design	0.24	PHP	0.23	Wordpress	0.11	Bootstrap	0.03	Other Skills	0.01
+bluecoded	15.0	4.9	21	iPad	0.21	Mobile Phone	0.21	iPhone	0.21	Android	0.16	HTML5	0.08	Other Skills	0.13
+muhammedjaved	15.0	4.9	14	HTML	0.23	Website Design	0.21	Graphic Design	0.18	PHP	0.1	eCommerce	0.08	Other Skills	0.21
+VONeS	30.0	5.0	127	Software Architecture	0.49	Engineering	0.32	Windows Desktop	0.12	.NET	0.03	C# Programming	0.03	Other Skills	0.0
+sanjoy2prosenjit	10.0	4.9	23	PHP	0.35	HTML	0.3	Website Design	0.22	eCommerce	0.08	Graphic Design	0.05
+carivera	25.0	5.0	10	Excel	0.26	PHP	0.21	Visual Basic	0.16	CSS	0.11	Web Scraping	0.11	Other Skills	0.16
+Nickymartin	25.0	5.0	16	Data Entry	0.25	Research	0.13	Article Rewriting	0.08	Virtual Assistant	0.08	English (US)	0.08	Other Skills	0.38
+kauserkhan	50.0	4.9	226	Photoshop	0.33	Graphic Design	0.24	PHP	0.12	CSS	0.06	Website Design	0.06	Other Skills	0.18
+Zapnet	10.0	5.0	11	Software Architecture	0.21	Linux	0.17	Software Development	0.17	C++ Programming	0.17	Android	0.13	Other Skills	0.17
+monoLancer	30.0	5.0	13	PHP	0.31	Mobile Phone	0.1	iPhone	0.1	Python	0.07	Android	0.07	Other Skills	0.34
+Katherinelobo	10.0	4.9	16	Illustration	0.31	Illustrator	0.2	Graphic Design	0.2	Caricature &amp; Cartoons	0.13	Photoshop	0.11	Other Skills	0.04
+zicmedia	20.0	4.7	4	HTML	0.43	User Interface / IA	0.14	Shopping Carts	0.14	PHP	0.14	eCommerce	0.14
+suriyant	20.0	5.0	55	Python	0.35	MySQL	0.11	Software Architecture	0.1	Java	0.07	PHP	0.07	Other Skills	0.32
+b4rni	30.0	5.0	14	Linux	0.52	System Admin	0.26	Web Hosting	0.07	Computer Security	0.04	Shell Script	0.04	Other Skills	0.07
+wavyline	50.0	5.0	6	Graphic Design	0.55	Logo Design	0.45
+artxpro	20.0	4.6	9	Video Services	0.25	After Effects	0.25	Animation	0.19	Video Broadcasting	0.06	Typography	0.06	Other Skills	0.19
+Dokins	10.0	4.9	19	Graphic Design	0.5	Logo Design	0.32	Photoshop	0.06	Illustrator	0.06	Illustration	0.03	Other Skills	0.03
+mgliviu	10.0	5.0	21	Graphic Design	0.34	Logo Design	0.17	HTML	0.09	Microsoft Access	0.09	Newsletters	0.06	Other Skills	0.26
+ajdezignz	10.0	4.9	49	Graphic Design	0.33	Logo Design	0.28	Photoshop	0.1	Illustrator	0.08	Banner Design	0.03	Other Skills	0.17
+jacekphp	30.0	5.0	22	PHP	0.28	Script Install	0.11	HTML	0.07	Wordpress	0.07	Website Design	0.07	Other Skills	0.39
+webkriti	10.0	4.8	614	Articles	0.48	Graphic Design	0.2	Blog	0.14	Copywriting	0.13	Press Releases	0.02	Other Skills	0.02
+MnemonicPunk	31.0	5.0	17	Translation	0.38	Javascript	0.19	Article Rewriting	0.15	HTML5	0.08	Book Writing	0.08	Other Skills	0.12
+mahindaranil	13.0	5.0	5	MySQL	0.31	PHP	0.23	Software Development	0.15	Database Administration	0.15	Data Processing	0.08	Other Skills	0.08
+AsiaMobile	20.0	5.0	16	iPhone	0.37	Mobile Phone	0.34	Android	0.12	iPad	0.1	AJAX	0.02	Other Skills	0.05
+Jintiantian	25.0	5.0	17	Android	0.44	Mobile Phone	0.37	iPhone	0.19
+eltorozzz	10.0	4.9	10	Logo Design	0.23	Graphic Design	0.23	Photoshop	0.15	T-Shirts	0.08	Photoshop Design	0.08	Other Skills	0.23
+mohanchauhan	15.0	4.8	17	PHP	0.29	MySQL	0.14	HTML	0.12	Wordpress	0.08	Website Design	0.08	Other Skills	0.29
+mydZnecoz	10.0	5.0	14	Graphic Design	0.79	Banner Design	0.14	Logo Design	0.07
+bellal	10.0	4.9	131	Facebook Marketing	0.26	Social Networking	0.11	Internet Marketing	0.09	Article Rewriting	0.07	Twitter	0.07	Other Skills	0.41
+Majkan	15.0	5.0	62	.NET	0.27	C# Programming	0.25	Windows Desktop	0.16	C++ Programming	0.11	Visual Basic	0.08	Other Skills	0.13
+afdesignz	15.0	4.9	165	Graphic Design	0.28	Logo Design	0.14	Photoshop	0.11	Poster Design	0.09	Website Design	0.05	Other Skills	0.32
+redundantdesigns	40.0	5.0	85	Graphic Design	0.61	Website Design	0.17	Photoshop	0.14	Illustrator	0.04	Illustration	0.02	Other Skills	0.02
+k7vin	20.0	5.0	4	Flash	0.5	Animation	0.33	3D Animation	0.17
+codeindiadigital	22.0	5.0	38	.NET	0.26	C# Programming	0.15	Visual Basic	0.11	SQL	0.09	HTML	0.08	Other Skills	0.32
+priyamohan24	20.0	4.9	26	Academic Writing	0.46	Articles	0.15	Report Writing	0.13	Ghostwriting	0.09	Copywriting	0.04	Other Skills	0.13
+selmaper	18.0	4.9	15	Illustration	0.37	Creative Design	0.21	Illustrator	0.16	Fashion Design	0.11	Caricature &amp; Cartoons	0.05	Other Skills	0.11
+rob022	35.0	5.0	11	PHP	0.41	MySQL	0.32	HTML	0.14	Linux	0.05	Bitcoin	0.05	Other Skills	0.05
+rabiasagi	4.0	5.0	47	Data Entry	0.38	Excel	0.12	Virtual Assistant	0.1	Web Scraping	0.09	Research	0.08	Other Skills	0.23
+zeb593	15.0	4.5	65	Graphic Design	0.31	Logo Design	0.16	Photoshop	0.13	Powerpoint	0.06	Photoshop Design	0.05	Other Skills	0.29
+abrahmatan	15.0	5.0	13	Illustration	0.36	Graphic Design	0.21	Illustrator	0.18	Caricature &amp; Cartoons	0.18	Photoshop	0.03	Other Skills	0.03
+zhunyingli	25.0	5.0	9	iPhone	0.36	Mobile Phone	0.24	Android	0.2	iPad	0.12	PHP	0.04	Other Skills	0.04
+AndreCoWorks	9.0	5.0	8	3D Modelling	0.36	3D Rendering	0.36	Graphic Design	0.14	Photoshop Design	0.07	Photoshop	0.07
+kultech	15.0	4.9	74	CSS	0.18	HTML	0.18	Website Design	0.11	ASP	0.09	PHP	0.07	Other Skills	0.38
+Max2010	8.0	5.0	22	Translation	0.41	Data Entry	0.15	Excel	0.09	Web Search	0.09	Research	0.06	Other Skills	0.21
+marxconsuegra	7.0	5.0	2	Graphic Design	0.4	Logo Design	0.4	Photoshop	0.2
+Naseem065	17.0	4.9	352	Graphic Design	0.29	Flash	0.16	Logo Design	0.11	Website Design	0.11	PHP	0.07	Other Skills	0.25
+bijay1234	30.0	5.0	60	PHP	0.3	Website Design	0.16	MySQL	0.12	Wordpress	0.11	Magento	0.11	Other Skills	0.2
+cowlickbros	20.0	4.9	10	Illustration	0.63	Graphic Design	0.38
+gabrielasaenz	15.0	5.0	38	Graphic Design	0.44	Logo Design	0.19	Photoshop	0.08	3D Rendering	0.06	Interior Design	0.04	Other Skills	0.19
+nomi2009	20.0	4.9	16	Graphic Design	0.33	Logo Design	0.26	Photoshop	0.18	T-Shirts	0.08	Creative Design	0.05	Other Skills	0.1
+Menul	30.0	4.8	2	Graphic Design	0.33	Logo Design	0.33	Photoshop	0.22	Illustrator	0.11
+jvencilao	10.0	5.0	9	Graphic Design	0.4	Logo Design	0.2	Photoshop	0.15	Illustrator	0.1	Banner Design	0.1	Other Skills	0.05
+binarygeotech	15.0	4.8	38	PHP	0.28	HTML	0.11	MySQL	0.09	Javascript	0.08	Website Design	0.08	Other Skills	0.36
+PHPsoldier	10.0	4.6	77	PHP	0.31	MySQL	0.15	HTML	0.12	AJAX	0.09	eCommerce	0.06	Other Skills	0.27
+davimarz	10.0	5.0	28	Graphic Design	0.36	Logo Design	0.22	Photoshop	0.11	Brochure Design	0.05	Photoshop Design	0.04	Other Skills	0.22
+infozenith	15.0	5.0	177	Windows Desktop	0.28	Delphi	0.2	MySQL	0.18	PHP	0.17	C Programming	0.03	Other Skills	0.14
+fawadnsrsl	28.0	4.7	15	Android	0.32	iPhone	0.32	Social Networking	0.09	SQL	0.05	Wordpress	0.05	Other Skills	0.18
+arnelmation	10.0	4.7	14	3D Modelling	0.28	3D Animation	0.25	3D Rendering	0.22	Animation	0.09	After Effects	0.06	Other Skills	0.09
+akmal181	20.0	4.9	16	Cisco	0.39	System Admin	0.17	Windows Server	0.13	Microsoft	0.04	Software Architecture	0.04	Other Skills	0.22
+abusayed2004	50.0	4.9	35	VoIP	0.32	Asterisk PBX	0.3	Linux	0.13	System Admin	0.05	MySQL	0.05	Other Skills	0.14
+gopal2k6	10.0	5.0	117	Flash	0.43	PHP	0.12	Website Design	0.1	Wordpress	0.07	Graphic Design	0.06	Other Skills	0.21
+Sandiyaseo	10.0	4.6	49	Link Building	0.51	SEO	0.27	Internet Marketing	0.21	PHP	0.01
+NicolasFragnito	10.0	4.8	11	Graphic Design	0.47	Photoshop	0.16	Logo Design	0.16	Photoshop Design	0.11	T-Shirts	0.11
+Drtranslation	7.0	4.9	26	Translation	0.44	Arabic	0.31	Transcription	0.04	Editing	0.04	Audio Services	0.04	Other Skills	0.13
+debiaus	10.0	4.8	17	Academic Writing	0.2	Article Rewriting	0.12	Research	0.08	Technical Writing	0.08	Ghostwriting	0.06	Other Skills	0.46
+Midlander	29.0	4.7	23	Powerpoint	0.71	Excel	0.17	Data Entry	0.13
+annaleesalas	9.0	4.7	48	Building Architecture	0.34	AutoCAD	0.28	Home Design	0.22	Interior Design	0.09	CAD/CAM	0.06	Other Skills	0.01
+adaytay	25.0	4.8	11	Microsoft Access	0.59	Visual Basic	0.18	Database Administration	0.12	SQL	0.06	Visual Basic for Apps	0.06
+freelance200	5.0	4.6	40	Article Rewriting	0.21	Articles	0.15	Ghostwriting	0.09	Academic Writing	0.09	Proofreading	0.07	Other Skills	0.4
+jaideepmishra	15.0	4.8	8	Graphic Design	0.38	Fashion Design	0.13	Photoshop	0.13	Logo Design	0.13	InDesign	0.06	Other Skills	0.19
+robinsjp	80.0	5.0	8	Web Scraping	0.19	Excel	0.14	Data Entry	0.14	PHP	0.1	MySQL	0.1	Other Skills	0.33
+wangping1126	49.0	5.0	6	iPhone	0.5	Mobile Phone	0.25	iPad	0.17	Objective C	0.08
+Tamara098	25.0	4.9	21	Graphic Design	0.43	Photoshop	0.19	Advertisement Design	0.14	Banner Design	0.14	Business Cards	0.05	Other Skills	0.05
+thindo	10.0	4.9	5	Data Entry	0.33	Zen Cart	0.33	Javascript	0.11	MySQL	0.11	ASP	0.11
+codedivine	25.0	5.0	60	Joomla	0.21	PHP	0.16	Website Design	0.13	Wordpress	0.07	CSS	0.07	Other Skills	0.36
+delphi429	18.0	4.9	14	Graphic Design	0.2	Banner Design	0.14	Photoshop	0.09	Logo Design	0.09	Brochure Design	0.09	Other Skills	0.39
+LearningNew	50.0	5.0	11	Visual Basic	0.2	.NET	0.2	SQL	0.1	MVC	0.07	AJAX	0.07	Other Skills	0.37
+mortgy	25.0	5.0	6	iPhone	0.33	Mobile Phone	0.33	Objective C	0.17	iPad	0.08	Cocoa	0.08
+zakir375	20.0	5.0	63	Link Building	0.34	SEO	0.31	PHP	0.07	Website Design	0.06	Google Adsense	0.04	Other Skills	0.16
+ourwebteam	25.0	4.7	99	Website Design	0.29	Graphic Design	0.19	PHP	0.17	Flash	0.06	Copywriting	0.06	Other Skills	0.23
+NayaPakistan	10.0	4.8	43	PHP	0.49	Software Architecture	0.11	C Programming	0.08	Wordpress	0.06	Linux	0.05	Other Skills	0.22
+softxpress	10.0	4.7	156	Academic Writing	0.36	Technical Writing	0.13	Report Writing	0.13	Articles	0.13	Research	0.11	Other Skills	0.14
+writetransedit	5.0	5.0	35	Transcription	0.62	Editing	0.13	Articles	0.09	Copy Typing	0.06	Proofreading	0.04	Other Skills	0.06
+NoLogo	20.0	4.8	61	Graphic Design	0.35	Logo Design	0.22	Photoshop	0.13	Banner Design	0.08	Business Cards	0.05	Other Skills	0.17
+Meagan26	16.0	4.8	35	PHP	0.35	HTML	0.22	Wordpress	0.19	CSS	0.13	Graphic Design	0.09	Other Skills	0.03
+groundpro	80.0	4.8	18	HTML	0.28	Website Design	0.26	Graphic Design	0.21	Joomla	0.1	CSS	0.08	Other Skills	0.08
+CasteloGD	25.0	4.9	6	Graphic Design	0.55	Logo Design	0.45
+viktorbublic	15.0	5.0	6	Banner Design	1.0
+programsmith	25.0	4.9	57	Software Architecture	0.48	C Programming	0.14	Visual Basic	0.09	Microsoft Access	0.07	SQL	0.06	Other Skills	0.16
+shaukatali91	10.0	5.0	15	Android	0.32	PHP	0.2	iPhone	0.12	HTML	0.12	Javascript	0.08	Other Skills	0.16
+katepesic	5.0	4.9	38	Data Entry	0.39	Excel	0.25	Data Processing	0.19	Copy Typing	0.05	Web Scraping	0.03	Other Skills	0.08
+webconsultants1	12.0	4.6	25	SEO	0.36	Internet Marketing	0.18	Wordpress	0.09	Google Analytics	0.07	Website Design	0.05	Other Skills	0.25
+willianslino	8.0	4.8	33	Video Services	0.43	After Effects	0.21	Animation	0.1	Videography	0.07	Graphic Design	0.07	Other Skills	0.12
+solutionsauzlx	60.0	5.0	44	MySQL	0.48	Microsoft Access	0.43	Visual Basic	0.04	.NET	0.03	Visual Basic for Apps	0.01
+cucgachvn	13.0	3.9	8	Graphic Design	0.33	Logo Design	0.17	Photoshop	0.11	Business Cards	0.11	Print	0.06	Other Skills	0.22
+MimiFL	10.0	5.0	28	Excel	0.25	Javascript	0.17	HTML5	0.1	Visual Basic	0.1	PHP	0.1	Other Skills	0.27
+astica	45.0	4.8	15	Graphic Design	0.46	Logo Design	0.43	Corporate Identity	0.04	Icon Design	0.04	Stationery Design	0.04
+JinJingRi	25.0	4.9	26	iPhone	0.27	Mobile Phone	0.25	iPad	0.18	Android	0.06	PhoneGap	0.04	Other Skills	0.2
+pbobek	16.0	5.0	17	Prestashop	0.29	PHP	0.23	HTML	0.13	Internet Marketing	0.08	SEO	0.08	Other Skills	0.19
+pbobek	16.0	5.0	17	Prestashop	0.29	PHP	0.23	HTML	0.13	Internet Marketing	0.08	SEO	0.08	Other Skills	0.19
+smileitsolu	12.0	3.8	30	HTML	0.4	CSS	0.28	AJAX	0.16	HTML5	0.08	Graphic Design	0.04	Other Skills	0.04
+kshdesigns	25.0	5.0	105	Graphic Design	0.32	Banner Design	0.22	Logo Design	0.21	Website Design	0.14	HTML	0.03	Other Skills	0.08
+jmurphree	100.0	5.0	5	Wordpress	0.27	Website Design	0.18	Graphic Design	0.09	HTML	0.09	Internet Marketing	0.09	Other Skills	0.27
+nima	25.0	4.9	81	PHP	0.38	Website Design	0.18	HTML	0.1	Wordpress	0.1	CSS	0.06	Other Skills	0.18
+ouyongbin	30.0	5.0	16	Mathematics	0.48	Algorithm	0.28	Statistics	0.12	C++ Programming	0.04	Matlab &amp; Mathematica	0.04	Other Skills	0.04
+brylu	40.0	5.0	31	Linux	0.29	System Admin	0.14	MySQL	0.12	UNIX	0.1	Web Hosting	0.04	Other Skills	0.32
+eyrieteck	12.0	4.9	332	Website Design	0.32	Graphic Design	0.27	PHP	0.09	Banner Design	0.08	HTML	0.07	Other Skills	0.18
+BalbinoMartinez	40.0	5.0	7	Product Design	0.38	Creative Design	0.19	Furniture Design	0.19	3D Rendering	0.13	Industrial Design	0.13
+crpenna	48.0	5.0	7	CAD/CAM	0.31	Solidworks	0.23	3D Rendering	0.15	Product Design	0.08	Mechanical Engineering	0.08	Other Skills	0.15
+Vagtepes	10.0	5.0	22	Data Entry	0.28	Web Search	0.21	Excel	0.15	Data Processing	0.15	Web Scraping	0.15	Other Skills	0.05
+sweetytrips	10.0	4.9	18	Academic Writing	0.23	Article Rewriting	0.23	Technical Writing	0.2	Research	0.09	Ghostwriting	0.08	Other Skills	0.18
+goldmaster88	30.0	5.0	19	iPhone	0.25	Mobile Phone	0.18	iPad	0.14	PHP	0.09	Android	0.09	Other Skills	0.25
+Webtronix1	15.0	5.0	13	HTML	0.21	Website Design	0.21	PHP	0.17	Wordpress	0.08	jQuery / Prototype	0.04	Other Skills	0.29
+solidussnake	15.0	5.0	25	Graphic Design	0.33	Banner Design	0.1	Brochure Design	0.08	Logo Design	0.08	Advertisement Design	0.08	Other Skills	0.32
+exxarts	10.0	4.7	55	Graphic Design	0.39	Logo Design	0.26	Banner Design	0.09	Photoshop	0.09	Website Design	0.03	Other Skills	0.14
+nana123	7.0	5.0	5	Twitter	0.17	Translation	0.17	Facebook Marketing	0.17	Social Networking	0.17	Academic Writing	0.08	Other Skills	0.25
+amienaeem	20.0	4.2	10	AutoCAD	0.18	Engineering	0.18	Engineering Drawing	0.12	Manufacturing Design	0.12	Manufacturing	0.12	Other Skills	0.29
+davidamoros	20.0	5.0	16	Website Design	0.22	HTML	0.22	PHP	0.2	Graphic Design	0.16	CSS	0.06	Other Skills	0.16
+EEmbedded	20.0	4.9	13	Electronics	0.42	Engineering	0.37	Microcontroller	0.16	Wireless	0.05
+liveatmontserrat	10.0	4.9	9	Photoshop	0.21	Photography	0.14	Copywriting	0.14	Excel	0.14	Data Entry	0.14	Other Skills	0.21
+Tadnyasahas	50.0	5.0	4	HTML	0.33	Javascript	0.22	AJAX	0.11	PHP	0.11	SEO	0.11	Other Skills	0.11
+M5L2764K	20.0	5.0	13	Python	0.42	C Programming	0.17	Software Architecture	0.13	Web Scraping	0.08	Linux	0.08	Other Skills	0.13
+haidumadrian	10.0	4.9	16	Academic Writing	0.5	Article Rewriting	0.17	Research	0.13	Articles	0.08	Copy Typing	0.04	Other Skills	0.08
+edyy	9.9	4.8	2	HTML	1.0
+christarasar	25.0	4.8	13	eBooks	0.21	Ghostwriting	0.14	Book Writing	0.14	Editing	0.14	Articles	0.11	Other Skills	0.25
+kirisofocles	15.0	5.0	6	InDesign	0.3	Brochure Design	0.2	Graphic Design	0.2	Format &amp; Layout	0.2	Banner Design	0.1
+nauman187	10.0	5.0	22	C++ Programming	0.34	Assembly	0.23	C Programming	0.17	Matlab &amp; Mathematica	0.09	Engineering	0.09	Other Skills	0.09
+gr8creations	35.0	5.0	29	Voice Talent	0.31	Audio Services	0.23	Ghostwriting	0.1	Book Writing	0.08	Music	0.06	Other Skills	0.23
+MinaMakar	10.0	5.0	7	3D Rendering	0.29	3D Modelling	0.24	Graphic Design	0.19	3ds Max	0.1	Illustrator	0.1	Other Skills	0.1
+A1Writing	10.0	5.0	19	Articles	0.35	Article Rewriting	0.17	Blog	0.13	Copywriting	0.08	Academic Writing	0.06	Other Skills	0.21
+Conderella	15.0	5.0	6	Web Scraping	0.56	Data Entry	0.44
+ognjen011	15.0	5.0	10	Matlab &amp; Mathematica	0.42	Algorithm	0.16	Mathematics	0.16	Academic Writing	0.11	Electrical Engineering	0.05	Other Skills	0.11
+ammari1230	10.0	4.9	5	Logo Design	0.5	Graphic Design	0.38	Illustrator	0.13
+tanjidatuba	4.0	4.9	37	Photoshop	0.49	Photo Editing	0.13	Illustrator	0.1	Illustration	0.07	Photoshop Design	0.07	Other Skills	0.15
+kangian	15.0	4.7	6	3D Animation	0.5	Animation	0.5
+momodaro	30.0	5.0	13	iPhone	0.33	Mobile Phone	0.25	iPad	0.13	Python	0.13	Android	0.13	Other Skills	0.04
+harrisonsj1	20.0	5.0	30	PHP	0.3	HTML	0.16	CSS	0.14	Javascript	0.11	jQuery / Prototype	0.08	Other Skills	0.22
+thercdude	15.0	5.0	24	Mathematics	0.44	Matlab &amp; Mathematica	0.26	Algorithm	0.09	Statistics	0.09	C Programming	0.06	Other Skills	0.06
+Pradeepj5061	10.0	4.7	10	Database Administration	0.12	HTML	0.12	Data Entry	0.12	Java	0.12	Graphic Design	0.06	Other Skills	0.47
+idleswell	32.0	4.9	177	PHP	0.18	MySQL	0.18	Software Testing	0.18	Software Architecture	0.18	Perl	0.11	Other Skills	0.17
+Josh7984	25.0	5.0	2	Website Design	1.0
+JamieBuck	97.0	5.0	27	Voice Talent	0.48	Audio Services	0.29	Music	0.1	Video Services	0.06	Video Broadcasting	0.04	Other Skills	0.04
+seodealers	12.0	5.0	24	Link Building	0.19	SEO	0.17	Internet Marketing	0.16	Marketing	0.1	Magento	0.09	Other Skills	0.3
+SiMka85	25.0	5.0	50	PHP	0.3	CSS	0.2	HTML	0.19	Wordpress	0.14	Photoshop	0.05	Other Skills	0.13
+GeorgeBouris	25.0	5.0	1	User Interface / IA	1.0
+Sascha84	12.0	4.9	15	Translation	0.29	German	0.29	Catch Phrases	0.13	Slogans	0.13	Product Descriptions	0.1	Other Skills	0.06
+umerr2000	10.0	5.0	48	Graphic Design	0.23	Photoshop	0.19	Logo Design	0.09	Illustrator	0.07	Flyer Design	0.06	Other Skills	0.34
+therofree	20.0	5.0	64	Magento	0.34	PHP	0.17	Website Design	0.13	HTML	0.12	CSS	0.07	Other Skills	0.17
+taher040404	10.0	4.9	13	Wordpress	0.22	HTML	0.22	Website Design	0.2	CSS	0.16	eCommerce	0.12	Other Skills	0.08
+Starmer	20.0	5.0	22	Copywriting	0.26	Proofreading	0.13	Product Descriptions	0.11	Articles	0.09	Academic Writing	0.09	Other Skills	0.34
+MDavidCrompton	25.0	4.9	33	Excel	0.31	Data Entry	0.18	Data Processing	0.15	Visual Basic	0.14	Microsoft Access	0.12	Other Skills	0.09
+ghazalpasha	18.0	4.9	13	Python	0.19	Excel	0.15	PHP	0.12	Data Processing	0.08	Web Scraping	0.08	Other Skills	0.38
+turaab	10.0	4.9	284	PHP	0.21	MySQL	0.16	Linux	0.15	Virtual Assistant	0.09	Graphic Design	0.09	Other Skills	0.3
+zfla	30.0	4.8	85	C Programming	0.23	Windows Desktop	0.12	Mobile Phone	0.07	PHP	0.07	C# Programming	0.06	Other Skills	0.46
+legol2s	15.0	4.9	4	Logo Design	0.4	Graphic Design	0.4	Website Design	0.1	Photoshop Design	0.1
+vladimirsozolins	15.0	5.0	5	Logo Design	0.57	Icon Design	0.29	Photoshop	0.14
+rudraraj	18.0	5.0	110	PHP	0.62	Website Design	0.12	Magento	0.11	Javascript	0.03	Linux	0.03	Other Skills	0.09
+studious	15.0	5.0	33	PHP	0.38	MySQL	0.12	CSS	0.1	Javascript	0.1	jQuery / Prototype	0.08	Other Skills	0.22
+GeenaTowne	30.0	5.0	20	Voice Talent	0.64	Audio Services	0.32	Photo Editing	0.04
+cooldesign3r	20.0	4.7	63	Graphic Design	0.33	Logo Design	0.21	Business Cards	0.12	Photoshop	0.08	Corporate Identity	0.04	Other Skills	0.23
+harlock1973	25.0	4.6	8	3D Rendering	0.24	3D Modelling	0.24	AutoCAD	0.12	3D Animation	0.12	Home Design	0.06	Other Skills	0.24
+ixanhermogino	5.0	5.0	6	Graphic Design	0.26	Logo Design	0.17	Photoshop	0.13	Photoshop Design	0.09	Banner Design	0.09	Other Skills	0.26
+strug	20.0	5.0	6	Graphic Design	0.4	Icon Design	0.2	Banner Design	0.1	Excel	0.1	Advertisement Design	0.1	Other Skills	0.1
+kovis	25.0	5.0	9	.NET	0.31	Windows Desktop	0.25	C Programming	0.19	C# Programming	0.13	Visual Basic	0.06	Other Skills	0.06
+khwajababa	52.0	4.9	81	Wordpress	0.26	PHP	0.13	Graphic Design	0.11	Website Design	0.11	Website Management	0.09	Other Skills	0.31
+DrawInDesign	30.0	5.0	12	Graphic Design	0.53	HTML	0.32	CSS	0.11	eCommerce	0.05
+anmoltech	15.0	4.9	21	PHP	0.36	HTML	0.11	jQuery / Prototype	0.11	CSS	0.09	MySQL	0.07	Other Skills	0.25
+sashikavidushan	50.0	5.0	5	Graphic Design	0.43	Website Design	0.29	Stationery Design	0.14	Logo Design	0.14
+eabuilder	20.0	5.0	9	Metatrader	0.54	Software Architecture	0.15	Algorithm	0.08	C++ Programming	0.08	C Programming	0.08	Other Skills	0.08
+DarkoMihajlovic	20.0	5.0	5	Brochure Design	0.6	Photoshop	0.2	Print	0.2
+wonnor	20.0	4.9	15	Java	0.56	Javascript	0.25	Python	0.13	Software Testing	0.06
+abushahama	15.0	4.8	6	CAD/CAM	0.25	Solidworks	0.25	3D Modelling	0.19	AutoCAD	0.19	Manufacturing Design	0.06	Other Skills	0.06
+timothygraue	10.0	4.7	49	Data Entry	0.26	Excel	0.12	HTML	0.08	Web Scraping	0.07	Website Design	0.06	Other Skills	0.41
+dnyakana	35.0	5.0	3	Graphic Design	0.6	Website Design	0.4
+skbirdi	18.0	5.0	10	Video Services	0.29	After Effects	0.21	Videography	0.14	Animation	0.14	3D Animation	0.07	Other Skills	0.14
+bgeorge	30.0	4.8	245	PHP	0.29	MySQL	0.27	Software Architecture	0.25	Linux	0.06	Database Administration	0.04	Other Skills	0.09
+afms90	15.0	4.9	11	Audio Services	0.21	Wikipedia	0.14	Translation	0.14	Articles	0.14	Voice Talent	0.14	Other Skills	0.21
+Evs1	10.0	5.0	23	Data Processing	0.43	Data Entry	0.17	Excel	0.11	Internet Marketing	0.09	SEO	0.06	Other Skills	0.14
+Evs1	10.0	5.0	23	Data Processing	0.43	Data Entry	0.17	Excel	0.11	Internet Marketing	0.09	SEO	0.06	Other Skills	0.14
+SebastianJones	10.0	0.0	0	PHP	1.0
+epuranviorel	10.0	4.8	17	Wordpress	0.27	PHP	0.18	HTML	0.18	Website Design	0.16	Graphic Design	0.09	Other Skills	0.13
+triharyoko	15.0	4.7	11	Graphic Design	0.31	T-Shirts	0.17	Photoshop	0.17	Photoshop Design	0.14	Covers &amp; Packaging	0.03	Other Skills	0.17
+dotnetsupercoder	24.0	4.8	37	.NET	0.35	Web Scraping	0.18	Visual Basic	0.18	C# Programming	0.1	C Programming	0.09	Other Skills	0.1
+willeckman	35.0	4.9	3	Graphic Design	0.43	Logo Design	0.43	Photoshop	0.14
+adaschevici	30.0	4.9	63	Python	0.67	PHP	0.08	Software Architecture	0.05	Algorithm	0.01	Web Scraping	0.01	Other Skills	0.17
+macarie	1.0	4.8	32	3D Rendering	0.29	3D Modelling	0.2	Building Architecture	0.16	AutoCAD	0.1	3D Animation	0.07	Other Skills	0.18
+setoja	30.0	4.9	11	PHP	0.11	Website Design	0.11	HTML	0.07	Graphic Design	0.07	Magento	0.07	Other Skills	0.56
+provideomaker	19.0	4.9	55	Video Services	0.53	Audio Services	0.12	Voice Talent	0.08	YouTube	0.07	Videography	0.05	Other Skills	0.15
+milanmartinjuk	6.0	5.0	15	Blog	0.18	Anything Goes	0.18	English (UK)	0.14	Articles	0.14	English (US)	0.14	Other Skills	0.23
+TSZDESIGNS	8.0	4.8	5	Graphic Design	0.29	Logo Design	0.21	T-Shirts	0.14	Photoshop	0.14	Photoshop Design	0.07	Other Skills	0.14
+freelancerj2ee	20.0	4.9	11	Java	0.23	Hadoop	0.14	MySQL	0.14	Apache Solr	0.09	UML Design	0.05	Other Skills	0.36
+Sampk2002	20.0	5.0	12	Web Scraping	0.24	Web Hosting	0.18	SEO	0.12	Excel	0.12	Magento	0.06	Other Skills	0.29
+adamraybicknell	25.0	5.0	13	Website Design	0.2	Wordpress	0.18	HTML	0.16	Graphic Design	0.13	PHP	0.11	Other Skills	0.22
+seooffpage	8.0	5.0	29	Internet Marketing	0.19	SEO	0.19	Link Building	0.14	Social Networking	0.11	Facebook Marketing	0.11	Other Skills	0.27
+Suygenneris	30.0	5.0	79	PHP	0.42	MySQL	0.18	Javascript	0.07	Script Install	0.06	Wordpress	0.06	Other Skills	0.21
+dzoyce	5.0	5.0	1	Customer Support	0.5	Virtual Assistant	0.5
+jorgovan	15.0	5.0	26	PHP	0.21	Software Architecture	0.17	Javascript	0.13	XML	0.09	CSS	0.07	Other Skills	0.33
+elepink	14.0	5.0	10	Translation	0.43	Korean	0.22	Copywriting	0.13	English (US)	0.13	English (UK)	0.09
+StoneArch	8.0	5.0	8	Graphic Design	0.35	Logo Design	0.3	Banner Design	0.2	Illustrator	0.1	Jewellery	0.05
+arkac	30.0	5.0	19	Linux	0.3	PHP	0.16	Apache	0.14	MySQL	0.11	UNIX	0.07	Other Skills	0.23
+richardwall	15.0	5.0	3	After Effects	0.5	Graphic Design	0.25	3D Animation	0.25
+marijoing	28.0	5.0	6	Graphic Design	0.71	Photography	0.14	Advertisement Design	0.14
+GauthierC	35.0	5.0	4	Translation	0.5	French	0.13	Academic Writing	0.13	English (UK)	0.13	Copywriting	0.13
+ivmolina	15.0	5.0	5	Graphic Design	0.27	Logo Design	0.27	Illustrator	0.18	Wordpress	0.09	Blog Design	0.09	Other Skills	0.09
+nittilegupta	15.0	4.9	9	PHP	0.16	Software Architecture	0.16	Website Design	0.11	ASP	0.11	Android	0.11	Other Skills	0.37
+SteveP495	25.0	5.0	3	Excel	0.29	Finance	0.29	Format &amp; Layout	0.14	Visual Basic	0.14	Statistics	0.14
+APIss	20.0	4.8	11	PHP	0.29	Excel	0.14	Web Scraping	0.14	Data Entry	0.11	MySQL	0.07	Other Skills	0.25
+gravicap	20.0	5.0	37	Linux	0.39	System Admin	0.21	Windows Server	0.07	Script Install	0.07	UNIX	0.07	Other Skills	0.2
+thewebkings	10.0	5.0	12	Wordpress	0.33	HTML	0.18	Website Design	0.15	PHP	0.12	CSS	0.12	Other Skills	0.09
+wcrbrm	15.0	5.0	3	PHP	0.27	Javascript	0.18	HTML	0.18	AJAX	0.09	C Programming	0.09	Other Skills	0.18
+solafort	28.0	5.0	9	C++ Programming	0.2	Software Architecture	0.2	Flash	0.13	Flex	0.07	iPhone	0.07	Other Skills	0.33
+jessicaholom	20.0	5.0	9	Ghostwriting	0.3	Articles	0.15	Copywriting	0.11	eBooks	0.07	Article Rewriting	0.07	Other Skills	0.3
+superexpert007	20.0	5.0	9	C++ Programming	0.16	Website Design	0.16	Wordpress	0.11	HTML	0.11	Shopping Carts	0.05	Other Skills	0.42
+proMSPD	30.0	5.0	18	Music	0.55	Audio Services	0.45
+WillxD	15.0	5.0	95	Wordpress	0.29	CSS	0.14	PHP	0.14	HTML	0.09	Website Design	0.06	Other Skills	0.27
+omaricardot	15.0	5.0	20	Graphic Design	0.41	Logo Design	0.1	Illustrator	0.1	Banner Design	0.08	Brochure Design	0.08	Other Skills	0.23
+zlayo	20.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+lvgmaths	30.0	5.0	3	InDesign	0.27	Graphic Design	0.18	Illustrator	0.18	Photoshop	0.09	Brochure Design	0.09	Other Skills	0.18
+nanalexandru	25.0	4.7	3	Embedded Software	0.33	Microcontroller	0.22	C Programming	0.22	Electronics	0.22
+sathyanus	50.0	4.9	89	PHP	0.28	SQL	0.17	ASP	0.14	.NET	0.13	Windows Desktop	0.09	Other Skills	0.18
+ThomasSPV	50.0	5.0	6	HTML	0.33	Website Design	0.22	PHP	0.17	CSS	0.17	MySQL	0.06	Other Skills	0.06
+kjg197318	12.0	4.4	13	Android	0.23	Mobile Phone	0.23	Java	0.12	iPhone	0.08	Python	0.04	Other Skills	0.31
+Frackn	55.0	5.0	18	PHP	0.23	Website Design	0.23	HTML	0.2	Wordpress	0.15	Magento	0.1	Other Skills	0.1
+valerianmartin	20.0	5.0	6	Web Hosting	0.14	PHP	0.11	MySQL	0.11	System Admin	0.11	Database Administration	0.07	Other Skills	0.46
+Yankarter	10.0	5.0	2	Graphic Design	0.5	Logo Design	0.25	Banner Design	0.25
+HazelReeves	20.0	4.4	17	Graphic Design	0.41	Logo Design	0.41	Photoshop	0.13	T-Shirts	0.03	Photoshop Design	0.03
+fabidesign	22.0	5.0	2	Graphic Design	0.5	Advertisement Design	0.25	Photoshop	0.25
+RafaelPMarques	5.0	4.9	16	Translation	0.43	Portuguese	0.14	English (US)	0.14	Data Entry	0.07	Proofreading	0.04	Other Skills	0.18
+krokysl	18.0	5.0	30	Perl	0.55	MySQL	0.29	Javascript	0.1	AJAX	0.05	PostgreSQL	0.02
+egypro	11.0	4.9	49	Android	0.29	Mobile Phone	0.26	Java	0.17	C++ Programming	0.08	PHP	0.06	Other Skills	0.14
+MasterF	20.0	4.7	12	Video Services	0.3	Animation	0.2	Photoshop	0.1	After Effects	0.1	Graphic Design	0.05	Other Skills	0.25
+ActualWriter	30.0	5.0	40	Article Rewriting	0.19	Academic Writing	0.17	Copywriting	0.14	Translation	0.11	Technical Writing	0.1	Other Skills	0.3
+Zeay	6.0	4.9	200	Logo Design	0.18	Graphic Design	0.15	Photoshop	0.14	Arts &amp; Crafts	0.13	Illustration	0.11	Other Skills	0.3
+Almuqaddim	25.0	5.0	21	PHP	0.1	HTML	0.1	Internet Marketing	0.08	Website Design	0.06	Wordpress	0.06	Other Skills	0.59
+HosElectro	40.0	5.0	31	Arduino	0.25	Electronics	0.21	Microcontroller	0.17	C# Programming	0.13	Android	0.08	Other Skills	0.17
+drudev	12.0	4.8	39	HTML	0.19	Website Design	0.18	CSS	0.14	PHP	0.13	Wordpress	0.11	Other Skills	0.25
+qasimaslam95	20.0	5.0	40	Facebook Marketing	0.21	Social Networking	0.21	Internet Marketing	0.18	Google Plus	0.14	Twitter	0.13	Other Skills	0.13
+entroutweb	20.0	4.9	11	Website Design	0.29	Graphic Design	0.23	HTML	0.19	PHP	0.13	SEO	0.03	Other Skills	0.13
+entroutweb	20.0	4.9	11	Website Design	0.29	Graphic Design	0.23	HTML	0.19	PHP	0.13	SEO	0.03	Other Skills	0.13
+miceli	15.0	5.0	15	PCB Layout	0.33	Electronics	0.26	Electrical Engineering	0.21	Microcontroller	0.15	CAD/CAM	0.03	Other Skills	0.03
+CharlieCivil	20.0	5.0	20	PHP	0.21	MySQL	0.13	Linux	0.13	Website Testing	0.06	Web Hosting	0.06	Other Skills	0.4
+rubyonrailsdev21	10.0	4.9	20	Web Scraping	0.19	Data Entry	0.17	Ruby on Rails	0.14	PHP	0.12	MySQL	0.1	Other Skills	0.29
+texdevelopers	12.0	5.0	9	PHP	0.42	HTML	0.16	MySQL	0.16	Javascript	0.11	AJAX	0.05	Other Skills	0.11
+SneR85	10.0	4.9	12	Graphic Design	0.29	Photoshop	0.14	Logo Design	0.14	Caricature &amp; Cartoons	0.07	Illustration	0.07	Other Skills	0.29
+kamils	30.0	5.0	17	PHP	0.25	Flash	0.19	HTML	0.14	jQuery / Prototype	0.08	CSS	0.08	Other Skills	0.25
+RomaniaTeam	25.0	5.0	39	PHP	0.25	Wordpress	0.18	Website Design	0.15	Joomla	0.14	CSS	0.13	Other Skills	0.15
+safwatt88	20.0	4.9	26	Data Entry	0.24	Joomla	0.11	HTML	0.08	Wordpress	0.08	Social Networking	0.08	Other Skills	0.42
+askiba	25.0	4.9	45	PHP	0.5	Website Design	0.13	AJAX	0.09	Javascript	0.09	Wordpress	0.09	Other Skills	0.11
+SabreToothVision	60.0	4.6	5	Logo Design	0.83	Brochure Design	0.17
+netmanivw	5.0	4.9	9	PHP	0.28	Wordpress	0.22	CSS	0.17	HTML	0.11	Website Design	0.11	Other Skills	0.11
+cosminstan90	11.0	5.0	18	SEO	0.43	HTML	0.19	CSS	0.14	PHP	0.05	HTML5	0.05	Other Skills	0.14
+OwnersPride1	10.0	4.5	17	Articles	0.23	Copywriting	0.14	Technical Writing	0.11	Academic Writing	0.09	Reviews	0.09	Other Skills	0.34
+Mikozza	15.0	5.0	9	CSS	0.29	Javascript	0.29	HTML	0.18	HTML5	0.12	Czech	0.06	Other Skills	0.06
+AhiruDuck	10.0	5.0	5	Website Design	0.3	Graphic Design	0.3	HTML	0.1	Caricature &amp; Cartoons	0.1	Photoshop	0.1	Other Skills	0.1
+AJoudh	10.0	4.9	12	Graphic Design	0.32	Logo Design	0.28	Photoshop	0.2	Photoshop Design	0.08	Flyer Design	0.04	Other Skills	0.08
+titif67	10.0	4.4	1	Graphic Design	1.0
+zeeme	10.0	5.0	17	HTML	0.3	PHP	0.26	Javascript	0.13	C++ Programming	0.09	Engineering	0.09	Other Skills	0.13
+milesf01	20.0	4.9	156	Graphic Design	0.41	Photoshop	0.21	Logo Design	0.14	Illustrator	0.11	Manufacturing	0.03	Other Skills	0.1
+waleed89	30.0	4.9	7	C# Programming	0.12	jQuery / Prototype	0.12	CSS	0.12	ASP	0.12	HTML	0.12	Other Skills	0.41
+technicalhouse	10.0	4.8	10	3D Rendering	0.2	Interior Design	0.15	3D Modelling	0.15	Building Architecture	0.15	AutoCAD	0.15	Other Skills	0.2
+adamhernandez	25.0	5.0	3	Logo Design	0.33	Illustration	0.17	Caricature &amp; Cartoons	0.17	CSS	0.17	Graphic Design	0.17
+ivegotlost	10.0	5.0	5	Graphic Design	0.42	Logo Design	0.33	Illustrator	0.17	Photoshop	0.08
+johlanh	25.0	4.9	152	Graphic Design	0.31	Logo Design	0.14	Photoshop	0.1	Website Design	0.08	Banner Design	0.05	Other Skills	0.32
+sunsriinfosys	10.0	5.0	22	PHP	0.18	HTML	0.11	ASP	0.06	MySQL	0.06	CSS	0.05	Other Skills	0.54
+cintyapettersen	15.0	5.0	3	Photo Editing	0.6	Photoshop	0.4
+jongwan	30.0	5.0	5	iPhone	0.36	Mobile Phone	0.27	iPad	0.27	Android	0.09
+WaleedSolutions	85.0	4.9	2	HTML	0.29	Website Design	0.29	eCommerce	0.14	PHP	0.14	Wordpress	0.14
+WaleedSolutions	85.0	4.9	2	HTML	0.29	Website Design	0.29	eCommerce	0.14	PHP	0.14	Wordpress	0.14
+JankoCvirn	25.0	5.0	8	Mobile Phone	0.38	Android	0.38	MySQL	0.06	PHP	0.06	SQL	0.06	Other Skills	0.06
+Tsurugirl	15.0	4.8	3	Graphic Design	0.33	Photoshop	0.25	T-Shirts	0.17	Banner Design	0.08	Website Design	0.08	Other Skills	0.08
+Malek3D	12.0	4.9	7	3D Rendering	0.25	3ds Max	0.2	3D Animation	0.2	3D Modelling	0.15	Photoshop	0.1	Other Skills	0.1
+rovexera	10.0	4.9	8	Delphi	0.24	Data Entry	0.18	Software Architecture	0.18	C Programming	0.12	Windows API	0.12	Other Skills	0.18
+doan84	9.0	5.0	104	PHP	0.46	MySQL	0.24	HTML	0.08	XML	0.06	Wordpress	0.06	Other Skills	0.09
+diegosauvalle	15.0	4.9	40	Wordpress	0.16	PHP	0.11	Internet Marketing	0.07	CSS	0.07	HTML	0.07	Other Skills	0.51
+mzaheerabbas	20.0	5.0	11	HTML	0.32	SEO	0.16	Internet Marketing	0.11	Data Entry	0.11	PSD to HTML	0.05	Other Skills	0.26
+wavesl	30.0	5.0	26	System Admin	0.16	Linux	0.14	PHP	0.12	WHMCS	0.11	Web Hosting	0.09	Other Skills	0.39
+wooama	30.0	5.0	2	jQuery / Prototype	0.14	CSS	0.14	backbone.js	0.14	Javascript	0.14	Drupal	0.14	Other Skills	0.29
+woodystables	15.0	4.7	3	Illustration	0.5	Graphic Design	0.33	Illustrator	0.17
+IevgenBaziak	20.0	5.0	11	PHP	0.25	MySQL	0.21	HTML	0.13	Software Architecture	0.13	Javascript	0.08	Other Skills	0.21
+vivi1990	25.0	5.0	4	HTML	1.0
+mohit1427	20.0	5.0	6	Graphic Design	0.2	HTML	0.2	Joomla	0.15	PHP	0.15	Website Design	0.15	Other Skills	0.15
+logonsoftware	6.0	5.0	112	Article Rewriting	0.43	Copywriting	0.27	Translation	0.13	PHP	0.09	Blog	0.05	Other Skills	0.03
+sgsrdeva	20.0	5.0	155	Photoshop	0.33	3D Modelling	0.23	3D Animation	0.13	Video Services	0.12	After Effects	0.07	Other Skills	0.12
+ranganathp	18.0	4.9	53	PHP	0.22	Javascript	0.11	Java	0.1	Graphic Design	0.06	MySQL	0.05	Other Skills	0.47
+WebAart	35.0	5.0	8	PHP	0.19	Social Networking	0.14	Wordpress	0.14	Facebook Marketing	0.14	Javascript	0.1	Other Skills	0.29
+AlexWang218	35.0	5.0	7	Mobile Phone	0.35	iPhone	0.35	Cocoa	0.12	iPad	0.12	Graphic Design	0.06
+assignmentlab	15.0	4.9	9	Academic Writing	0.8	Report Writing	0.1	Creative Writing	0.1
+marcelog4	20.0	4.4	1	Graphic Design	0.67	Logo Design	0.33
+eariass	20.0	4.8	12	Facebook Marketing	0.18	HTML	0.16	Graphic Design	0.13	Social Networking	0.11	PHP	0.11	Other Skills	0.32
+revolancer	30.0	5.0	11	Email Marketing	0.33	Data Processing	0.14	Excel	0.14	Bulk Marketing	0.1	Data Entry	0.1	Other Skills	0.19
+weblogocreatorr	10.0	4.9	43	Logo Design	0.51	Graphic Design	0.49
+FrameArt3D	8.0	4.9	12	3D Modelling	0.3	3D Rendering	0.27	3D Animation	0.18	3ds Max	0.15	Graphic Design	0.06	Other Skills	0.03
+irmina	10.0	5.0	32	Data Entry	0.38	Excel	0.23	Data Processing	0.13	Virtual Assistant	0.07	Copy Typing	0.07	Other Skills	0.12
+darioveruari	10.0	5.0	2	3D Modelling	0.5	3D Rendering	0.5
+hasance06	25.0	4.9	62	Civil Engineering	0.32	Engineering	0.25	Structural Engineering	0.16	AutoCAD	0.07	Materials Engineering	0.05	Other Skills	0.14
+Kang1029	25.0	4.4	4	Android	0.17	Objective C	0.17	C Programming	0.17	iPad	0.17	Mobile Phone	0.17	Other Skills	0.17
+Othello1	12.0	5.0	6	Graphic Design	0.19	Photoshop	0.19	Logo Design	0.19	Caricature &amp; Cartoons	0.13	Photo Editing	0.13	Other Skills	0.19
+Kusmin	10.0	4.9	5	Graphic Design	0.33	Photoshop	0.17	Powerpoint	0.17	Logo Design	0.08	Brochure Design	0.08	Other Skills	0.17
+ras1	6.0	4.7	13	Arabic	0.32	Translation	0.25	Graphic Design	0.11	English (US)	0.11	English (UK)	0.11	Other Skills	0.11
+petric	12.0	4.8	132	Wordpress	0.3	PHP	0.13	CSS	0.12	Website Design	0.11	HTML	0.09	Other Skills	0.24
+nguyenTruong	15.0	4.8	13	3D Animation	0.24	3D Modelling	0.24	3ds Max	0.21	3D Rendering	0.14	Animation	0.07	Other Skills	0.1
+davaidwilliam	20.0	5.0	10	Magento	0.39	Website Design	0.17	HTML	0.09	CSS	0.09	eCommerce	0.09	Other Skills	0.17
+BlaineBowers	45.0	5.0	3	Graphic Design	0.33	Banner Design	0.33	Logo Design	0.17	Website Design	0.17
+AndresCL	20.0	5.0	6	HTML5	0.23	Javascript	0.23	PHP	0.15	jQuery / Prototype	0.15	ASP	0.08	Other Skills	0.15
+MRDzA	15.0	5.0	3	HTML	0.25	Excel	0.13	Wordpress	0.13	PHP	0.13	Website Design	0.13	Other Skills	0.25
+aaressinfomedia	8.0	5.0	14	Website Design	0.29	HTML	0.21	Graphic Design	0.21	Wordpress	0.17	SEO	0.1	Other Skills	0.02
+souravb	10.0	4.8	11	Animation	0.25	After Effects	0.14	Video Services	0.11	3D Animation	0.08	Flash	0.08	Other Skills	0.33
+mdarii	15.0	4.9	9	Linux	0.31	Asterisk PBX	0.23	Web Hosting	0.15	VPS	0.15	VoIP	0.15
+vrcoder	1.0	5.0	216	C Programming	0.33	Engineering	0.33	iPhone	0.29	C++ Programming	0.01	Game Design	0.01	Other Skills	0.02
+kkroz	12.0	5.0	60	Translation	0.38	Articles	0.14	Copywriting	0.14	Article Rewriting	0.06	Italian	0.06	Other Skills	0.23
+PixellePerfect	20.0	5.0	16	Photoshop	0.31	Graphic Design	0.22	Photo Editing	0.17	Photography	0.14	Logo Design	0.08	Other Skills	0.08
+isrijanbamrel	10.0	4.9	17	Graphic Design	0.31	Logo Design	0.12	Flyer Design	0.12	Banner Design	0.1	Photoshop Design	0.07	Other Skills	0.29
+Khiemnm1989	5.0	4.9	8	PSD to HTML	0.33	HTML	0.25	Website Design	0.21	CSS	0.08	WPF	0.04	Other Skills	0.08
+morganaandreea	7.0	5.0	2	Illustration	0.67	Photoshop Design	0.33
+oomayghazala	15.0	5.0	12	Academic Writing	0.26	Powerpoint	0.21	Project Management	0.11	Data Entry	0.05	Articles	0.05	Other Skills	0.32
+oomayghazala	15.0	5.0	12	Academic Writing	0.26	Powerpoint	0.21	Project Management	0.11	Data Entry	0.05	Articles	0.05	Other Skills	0.32
+AbixSoft	22.0	5.0	77	Delphi	0.2	Windows Desktop	0.2	C Programming	0.16	Microsoft	0.12	.NET	0.06	Other Skills	0.27
+NourElDeen	15.0	5.0	43	Microsoft Access	0.4	SQL	0.2	Excel	0.09	MySQL	0.07	.NET	0.06	Other Skills	0.19
+Shaunee	8.0	5.0	8	Articles	0.67	Article Rewriting	0.33
+fapcent	7.0	4.9	179	Articles	0.37	Article Rewriting	0.24	Copywriting	0.2	Blog	0.18	Travel Writing	0.02
+rahulfl	15.0	5.0	27	PHP	0.36	Joomla	0.21	MySQL	0.12	Website Design	0.1	Javascript	0.05	Other Skills	0.16
+iceman4154	17.0	5.0	8	PHP	0.35	MySQL	0.18	Wordpress	0.12	HTML	0.12	Javascript	0.06	Other Skills	0.18
+vsprybhanu	5.0	4.9	7	Data Entry	0.33	Hindi	0.13	Excel	0.13	Translation	0.13	Web Search	0.07	Other Skills	0.2
+thecooldesigner	15.0	5.0	15	Graphic Design	0.29	Logo Design	0.24	Photoshop	0.11	Photoshop Design	0.08	T-Shirts	0.08	Other Skills	0.21
+l2mt	14.0	4.8	9	Bootstrap	0.54	Javascript	0.31	CSS	0.15
+zproduction	25.0	5.0	2	After Effects	0.4	Motion Graphics	0.2	Video Services	0.2	Animation	0.2
+ThesisPaper	45.0	5.0	5	Business Plans	0.22	Copywriting	0.11	Academic Writing	0.11	Technical Writing	0.11	Business Analysis	0.11	Other Skills	0.33
+vladspataroiu	10.0	4.9	10	Graphic Design	0.26	Logo Design	0.26	Articles	0.09	Article Rewriting	0.09	English (US)	0.09	Other Skills	0.22
+brownfreelance	20.0	5.0	12	Website Design	0.24	HTML	0.15	Graphic Design	0.15	CSS	0.12	PSD to HTML	0.09	Other Skills	0.24
+Serious1Gamer	1.0	5.0	4	Logo Design	0.33	Data Entry	0.33	Graphic Design	0.33
+Ferdoushpu	7.0	5.0	104	Data Entry	0.42	SEO	0.13	Excel	0.11	Wordpress	0.08	PDF	0.05	Other Skills	0.22
+elbisnero	15.0	4.8	87	Website Design	0.42	Graphic Design	0.39	Wordpress	0.09	Logo Design	0.07	eCommerce	0.02	Other Skills	0.01
+joracardan1	5.0	4.9	13	Graphic Design	0.4	Logo Design	0.37	Photoshop	0.1	AutoCAD	0.07	Illustrator	0.07
+pawankhurana	10.0	4.7	25	Quickbooks &amp; Quicken	0.2	Excel	0.2	Finance	0.17	Accounting	0.15	Data Entry	0.15	Other Skills	0.15
+ltaylor44	13.0	5.0	4	Creative Writing	0.38	Articles	0.25	Anything Goes	0.13	Data Entry	0.13	Copy Typing	0.13
+byron743	15.0	5.0	15	Graphic Design	0.28	Illustration	0.11	Internet Marketing	0.11	Photoshop Design	0.06	Anything Goes	0.06	Other Skills	0.39
+visualbliss	130.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+keepsucess	25.0	4.8	20	Academic Writing	0.19	Technical Writing	0.19	Copywriting	0.15	Virtual Assistant	0.15	Report Writing	0.07	Other Skills	0.26
+winekah	10.0	4.9	11	Web Search	0.25	Data Entry	0.2	Excel	0.2	Virtual Assistant	0.15	Market Research	0.05	Other Skills	0.15
+SashaPunch	10.0	0.0	0	Audio Services	1.0
+Gengin	10.0	5.0	5	Electrical Engineering	0.23	Microcontroller	0.23	PCB Layout	0.15	Electronics	0.15	C Programming	0.15	Other Skills	0.08
+gwagner007	10.0	5.0	11	Articles	0.31	Article Rewriting	0.17	Technical Writing	0.14	Academic Writing	0.11	Blog	0.11	Other Skills	0.14
+Juanma28	10.0	4.9	18	Translation	0.17	Report Writing	0.13	Legal	0.13	Research	0.13	Legal Research	0.07	Other Skills	0.37
+technomart	10.0	5.0	41	Photoshop	0.3	Graphic Design	0.23	Photo Editing	0.14	Logo Design	0.06	Banner Design	0.06	Other Skills	0.21
+debanjan999	12.0	4.9	23	Animation	0.38	Illustration	0.34	3D Animation	0.14	After Effects	0.1	Video Services	0.03
+malamgir12	15.0	4.6	26	Facebook Marketing	0.23	Social Networking	0.19	Graphic Design	0.15	Twitter	0.08	Logo Design	0.08	Other Skills	0.27
+smartxheikh	8.0	5.0	21	Accounting	0.27	Finance	0.2	Business Analysis	0.11	Academic Writing	0.11	Audit	0.05	Other Skills	0.25
+rapidsolutionpk	25.0	5.0	5	Graphic Design	0.45	Logo Design	0.36	Business Cards	0.09	Website Design	0.09
+wangjeong126	30.0	4.7	12	PHP	0.23	Graphic Design	0.18	Android	0.14	HTML	0.14	jQuery / Prototype	0.09	Other Skills	0.23
+denep	50.0	5.0	25	Perl	0.22	Linux	0.18	Software Architecture	0.17	MySQL	0.15	Web Hosting	0.14	Other Skills	0.14
+airadesign	25.0	4.9	8	3D Modelling	0.19	Product Design	0.19	Solidworks	0.14	Industrial Design	0.14	3D Rendering	0.14	Other Skills	0.19
+Jreis	40.0	4.8	5	Graphic Design	0.5	Logo Design	0.38	Voice Talent	0.13
+lucky42	25.0	4.8	7	Bulk Marketing	0.22	Leads	0.17	Marketing	0.17	Advertising	0.17	Internet Marketing	0.11	Other Skills	0.17
+sm4a	30.0	5.0	9	PHP	0.23	Website Design	0.18	CSS	0.18	HTML5	0.09	HTML	0.09	Other Skills	0.23
+korodirazvan	15.0	5.0	17	Graphic Design	0.31	Photoshop	0.23	Illustrator	0.15	Logo Design	0.08	Photo Editing	0.05	Other Skills	0.18
+salarali360	18.0	5.0	1	HTML	1.0
+mamem	15.0	5.0	5	Graphic Design	0.4	Banner Design	0.1	Caricature &amp; Cartoons	0.1	Photoshop	0.1	Icon Design	0.1	Other Skills	0.2
+pistudio	15.0	5.0	1	3D Animation	0.33	3D Rendering	0.33	3D Modelling	0.33
+arrowgr	15.0	5.0	13	Joomla	0.31	PHP	0.31	HTML	0.19	Javascript	0.12	SEO	0.04	Other Skills	0.04
+joomlaOptimizer	10.0	4.7	8	Joomla	0.29	PHP	0.18	HTML	0.18	Website Design	0.06	Advertising	0.06	Other Skills	0.24
+mepanku	15.0	4.8	121	eBay	0.14	PHP	0.13	Website Design	0.12	HTML	0.12	Software Architecture	0.09	Other Skills	0.4
+adutzu07	20.0	5.0	6	PCB Layout	0.46	Electronics	0.15	Circuit Design	0.08	Microcontroller	0.08	Engineering	0.08	Other Skills	0.15
+greenuniversetec	6.0	4.9	6	Website Design	0.24	Linux	0.12	HTML	0.12	PHP	0.12	System Admin	0.12	Other Skills	0.29
+bbahrami	30.0	4.9	37	Software Architecture	0.38	Windows Desktop	0.21	C# Programming	0.14	Microsoft	0.1	.NET	0.07	Other Skills	0.11
+ivanjorge	15.0	5.0	2	PHP	0.5	Software Architecture	0.25	SQL	0.25
+Luies	5.0	4.8	22	Internet Marketing	0.11	Anything Goes	0.11	Data Entry	0.11	YouTube	0.1	Video Upload	0.1	Other Skills	0.48
+pcranford	35.0	5.0	8	CAD/CAM	0.25	Mechanical Engineering	0.2	AutoCAD	0.15	Solidworks	0.15	Manufacturing Design	0.1	Other Skills	0.15
+SCKRamana	18.0	4.9	18	Academic Writing	0.26	UML Design	0.26	Software Architecture	0.15	Article Rewriting	0.11	Report Writing	0.11	Other Skills	0.11
+iPanda0000	30.0	5.0	2	iPhone	0.5	iPad	0.5
+denisaelena	10.0	4.9	6	Excel	0.21	Data Processing	0.21	Copy Typing	0.21	Word	0.14	Data Entry	0.14	Other Skills	0.07
+Grupo83	40.0	5.0	5	PHP	0.27	Software Architecture	0.18	Linux	0.18	Computer Security	0.09	HTML	0.09	Other Skills	0.18
+bbee2222	5.0	5.0	12	PHP	0.22	Javascript	0.15	HTML	0.11	MySQL	0.11	CSS	0.07	Other Skills	0.33
+SHVRomania	15.0	5.0	18	PHP	0.24	MySQL	0.15	HTML	0.15	CSS	0.12	Wordpress	0.1	Other Skills	0.24
+webdeem	15.0	5.0	18	Website Design	0.24	HTML	0.22	PHP	0.14	Graphic Design	0.12	Wordpress	0.06	Other Skills	0.2
+vividcg	30.0	5.0	9	3D Animation	0.22	3D Rendering	0.22	3D Modelling	0.17	3ds Max	0.11	Animation	0.11	Other Skills	0.17
+zaratustra1988	10.0	5.0	2	Translation	0.67	Polish	0.33
+vijaysairam	3.0	4.9	6	Data Entry	0.27	Web Scraping	0.27	Web Search	0.27	Excel	0.13	Data Processing	0.07
+hatimyal123	3.0	4.9	17	Facebook Marketing	0.38	Internet Marketing	0.18	Social Networking	0.15	Twitter	0.13	Advertising	0.08	Other Skills	0.08
+IAlfonso	13.0	4.2	3	Graphic Design	0.38	Logo Design	0.38	Illustrator	0.13	Photoshop Design	0.13
+Danijelb	15.0	4.9	40	Logo Design	0.48	Photoshop	0.14	Website Design	0.08	Banner Design	0.07	HTML	0.07	Other Skills	0.15
+leandro2219	12.0	5.0	11	PHP	0.26	HTML	0.14	eCommerce	0.11	Graphic Design	0.09	MySQL	0.09	Other Skills	0.31
+WangCheng17	29.0	5.0	6	Mobile Phone	0.46	iPhone	0.23	Android	0.23	Java	0.08
+samzter21	10.0	4.8	7	Graphic Design	0.56	Photoshop	0.33	Brochure Design	0.11
+secom	30.0	4.9	640	PHP	0.38	Perl	0.25	Script Install	0.12	MySQL	0.07	Website Design	0.05	Other Skills	0.13
+Rfynther	20.0	5.0	12	Delphi	0.58	Microsoft	0.21	Windows Desktop	0.21
+otoneto	12.0	4.9	8	Graphic Design	0.32	Website Design	0.28	Photoshop	0.12	Illustrator	0.08	PHP	0.04	Other Skills	0.16
+eica	20.0	4.9	6	PHP	0.27	HTML	0.2	CSS	0.2	Wordpress	0.13	C Programming	0.07	Other Skills	0.13
+Hardworker2k	5.0	5.0	10	Data Entry	0.3	Excel	0.25	Editing	0.15	Research	0.05	Copywriting	0.05	Other Skills	0.2
+ragadabumbum	20.0	5.0	40	Graphic Design	0.33	Photoshop	0.19	Logo Design	0.19	Banner Design	0.08	Corporate Identity	0.05	Other Skills	0.17
+python55	7.0	5.0	6	.NET	0.42	C# Programming	0.33	Visual Basic	0.08	Software Architecture	0.08	ASP	0.08
+colorizedmedia	10.0	4.5	17	HTML	0.3	Website Design	0.24	Wordpress	0.24	Graphic Design	0.12	PSD to HTML	0.03	Other Skills	0.06
+YashiroKagami	15.0	5.0	30	Graphic Design	0.2	3D Rendering	0.17	3D Animation	0.15	3D Modelling	0.08	Animation	0.07	Other Skills	0.32
+rahulrahangdale	6.0	4.8	11	Data Entry	0.39	Virtuemart	0.26	Excel	0.13	Data Processing	0.09	Magento	0.04	Other Skills	0.09
+leowkimwah	25.0	5.0	4	iPhone	0.43	Mobile Phone	0.29	Android	0.14	iPad	0.14
+blogfor	8.0	5.0	4	Logo Design	0.33	Graphic Design	0.33	Banner Design	0.17	Flyer Design	0.08	Brochure Design	0.08
+elscariot	12.0	5.0	8	Translation	0.25	3D Modelling	0.17	Solidworks	0.17	AutoCAD	0.17	Portuguese (Brazil)	0.08	Other Skills	0.17
+glukhouse	12.0	5.0	7	Translation	0.4	English (UK)	0.2	Russian	0.13	Articles	0.13	Finnish	0.07	Other Skills	0.07
+seo2websites	50.0	4.5	12	Website Design	0.25	Graphic Design	0.19	PHP	0.14	HTML	0.14	Photoshop	0.06	Other Skills	0.22
+ayyfoxy	8.0	4.8	10	Articles	0.22	Article Rewriting	0.22	Creative Writing	0.17	Ghostwriting	0.13	Copywriting	0.09	Other Skills	0.17
+carverbell	25.0	5.0	5	Graphic Design	0.4	Banner Design	0.2	Wordpress	0.1	Website Design	0.1	Photoshop	0.1	Other Skills	0.1
+mizanbd2	10.0	5.0	5	Graphic Design	0.4	Photoshop	0.4	Illustrator	0.1	Logo Design	0.1
+YongJa	15.0	4.9	10	Translation	0.53	Japanese	0.26	Korean	0.21
+esourt	15.0	5.0	2	Sales	0.67	Web Hosting	0.33
+kimmat1983	5.0	4.9	10	Wordpress	0.33	CSS	0.28	HTML	0.22	PSD to HTML	0.11	jQuery / Prototype	0.06
+hardikom	15.0	5.0	5	Website Design	0.27	Graphic Design	0.2	PHP	0.13	SEO	0.07	SQL	0.07	Other Skills	0.27
+cristinacroitoru	10.0	4.7	4	Graphic Design	0.38	Photoshop	0.25	Flyer Design	0.25	Logo Design	0.13
+dkouk	12.0	4.7	50	HTML	0.24	PSD to HTML	0.19	CSS	0.18	Website Design	0.12	PHP	0.08	Other Skills	0.19
+emilburzo	35.0	5.0	3	Linux	0.33	C Programming	0.33	System Admin	0.17	Bitcoin	0.17
+PythonCoder	3.0	5.0	3	Web Scraping	1.0
+rkrams1989	15.0	5.0	4	3D Animation	0.67	After Effects	0.17	Animation	0.17
+arial	5.0	5.0	25	Translation	0.59	Greek	0.16	Proofreading	0.06	Data Processing	0.06	Data Entry	0.06	Other Skills	0.06
+laniegajete	3.0	4.5	5	Logo Design	0.25	Photoshop	0.25	Illustrator	0.25	Photoshop Design	0.06	Excel	0.06	Other Skills	0.13
+nasiriq	10.0	5.0	2	Wordpress	1.0
+ChemDash	14.0	5.0	12	Proofreading	0.52	Editing	0.33	Article Rewriting	0.14
+mrn030	13.0	5.0	2	Photoshop	0.67	Photoshop Design	0.33
+ftechnologies	15.0	4.9	11	Website Design	0.29	Graphic Design	0.25	PHP	0.21	Joomla	0.08	Social Networking	0.04	Other Skills	0.13
+sayftheone	30.0	5.0	12	PHP	0.24	HTML	0.24	Javascript	0.19	CSS	0.1	jQuery / Prototype	0.1	Other Skills	0.14
+CreatrixSoftware	45.0	5.0	7	PHP	0.22	Website Design	0.17	Graphic Design	0.13	HTML	0.13	eCommerce	0.04	Other Skills	0.3
+creative4you	27.0	5.0	20	PHP	0.2	Website Design	0.18	HTML	0.14	Graphic Design	0.1	SEO	0.08	Other Skills	0.31
+alincptsl	15.0	4.8	141	PHP	0.29	Website Management	0.09	Logo Design	0.09	Website Design	0.08	MySQL	0.08	Other Skills	0.37
+Lareinne	10.0	5.0	6	Translation	0.4	Spanish	0.27	English (US)	0.2	PDF	0.13
+tampacoder	28.0	4.8	7	PHP	0.25	Logo Design	0.13	Website Design	0.13	Wordpress	0.13	Graphic Design	0.13	Other Skills	0.25
+AffectingRipples	18.0	5.0	3	Ghostwriting	0.25	Press Releases	0.13	Research	0.13	Product Descriptions	0.13	Article Rewriting	0.13	Other Skills	0.25
+wildCat	30.0	4.9	411	PHP	0.6	eCommerce	0.09	Drupal	0.08	CSS	0.06	HTML	0.06	Other Skills	0.12
+amlilui	20.0	5.0	3	Illustrator	0.27	Graphic Design	0.27	Photoshop	0.27	Photoshop Design	0.09	Illustration	0.09
+comet107	25.0	5.0	3	Mobile Phone	0.25	iPhone	0.25	Android	0.25	iPad	0.25
+Martin3D	20.0	4.6	2	3D Animation	0.33	3D Modelling	0.33	3ds Max	0.17	Animation	0.17
+hicotech	20.0	5.0	4	PHP	0.5	Javascript	0.25	MySQL	0.13	HTML	0.13
+joomlaxpart	10.0	4.8	70	Joomla	0.22	HTML	0.19	PHP	0.19	CSS	0.13	Website Design	0.11	Other Skills	0.17
+muha11med	10.0	4.9	18	Graphic Design	0.33	HTML	0.12	Website Design	0.09	Icon Design	0.09	CSS	0.06	Other Skills	0.3
+joomsavvy	50.0	4.8	3	Joomla	0.25	PHP	0.25	HTML	0.17	MySQL	0.08	Software Development	0.08	Other Skills	0.17
+atomixvw	15.0	5.0	11	Logo Design	0.5	Photoshop	0.25	Graphic Design	0.25
+bharat1010	10.0	5.0	8	Excel	0.25	Web Scraping	0.19	Data Processing	0.19	Data Mining	0.19	Virtual Assistant	0.13	Other Skills	0.06
+ukvarious	10.0	4.8	30	Facebook Marketing	0.31	Graphic Design	0.15	Photoshop	0.15	Illustrator	0.05	Photo Editing	0.05	Other Skills	0.28
+yarco	25.0	5.0	15	PHP	0.4	MySQL	0.25	Javascript	0.15	Software Architecture	0.1	XML	0.1
+sharkgraphics	15.0	5.0	1	Graphic Design	1.0
+Yanine04	17.0	5.0	11	Graphic Design	0.38	Logo Design	0.1	Advertisement Design	0.1	Photoshop	0.1	Corporate Identity	0.1	Other Skills	0.24
+saystosimon	8.0	5.0	8	Simplified Chinese (China)	0.37	Translation	0.26	English (US)	0.21	English (UK)	0.16
+atechsworld	10.0	4.6	29	HTML	0.3	Wordpress	0.23	CSS	0.18	Graphic Design	0.14	HTML5	0.05	Other Skills	0.09
+TheVectorminator	50.0	5.0	4	Graphic Design	0.44	Format &amp; Layout	0.11	Infographics	0.11	Logo Design	0.11	InDesign	0.11	Other Skills	0.11
+delcasda	25.0	4.7	5	ActionScript	0.75	Flash	0.25
+webbrisk	15.0	3.9	2	Graphic Design	0.5	Logo Design	0.5
+negetics	35.0	5.0	5	HTML	0.13	Website Design	0.13	German	0.13	CSS	0.13	MySQL	0.06	Other Skills	0.44
+billahdesign	10.0	4.6	3	Logo Design	0.6	Graphic Design	0.4
+sidqulwafa21	10.0	4.3	3	Graphic Design	1.0
+albertgalo	20.0	2.7	7	HTML	0.4	Website Design	0.3	MySQL	0.2	CSS	0.1
+webmentors	20.0	4.6	65	PHP	0.26	Website Design	0.17	HTML	0.09	Graphic Design	0.08	AJAX	0.07	Other Skills	0.33
+webmentors	20.0	4.6	65	PHP	0.26	Website Design	0.17	HTML	0.09	Graphic Design	0.08	AJAX	0.07	Other Skills	0.33
+djdavis	30.0	5.0	47	PHP	0.52	MySQL	0.2	Website Design	0.07	eCommerce	0.05	SQL	0.03	Other Skills	0.13
+WeiDaFu	30.0	4.1	6	iPhone	0.33	iPad	0.25	Objective C	0.25	MySQL	0.08	PHP	0.08
+permana22sl	5.0	4.9	10	Data Entry	0.27	Data Processing	0.2	Virtual Assistant	0.2	Web Search	0.17	Excel	0.17
+fbergmann	21.0	5.0	7	Software Architecture	0.13	Android	0.13	Linux	0.11	Project Management	0.11	Windows Desktop	0.11	Other Skills	0.42
+MrGuder	15.0	5.0	2	Illustration	1.0
+cynax1	10.0	4.8	10	Graphic Design	0.33	Logo Design	0.21	Photoshop	0.17	Illustration	0.08	Photoshop Design	0.04	Other Skills	0.17
+thebigdishman	80.0	5.0	14	Photography	0.38	XXX	0.23	Telemarketing	0.15	Fashion Modeling	0.08	Branding	0.08	Other Skills	0.08
+FernandoJAM	5.0	5.0	5	Graphic Design	0.8	Website Design	0.2
+webkings09	10.0	4.8	10	HTML	0.27	PHP	0.23	Graphic Design	0.2	Website Design	0.1	MySQL	0.07	Other Skills	0.13
+GasArts	10.0	5.0	43	Graphic Design	0.28	Banner Design	0.16	Photoshop	0.1	Brochure Design	0.09	Flash	0.07	Other Skills	0.3
+sicortesjr	65.0	5.0	3	Accounting	0.09	Article Rewriting	0.09	Articles	0.09	Copywriting	0.09	Finance	0.09	Other Skills	0.55
+LaVirtuary	15.0	5.0	4	Graphic Design	0.5	Logo Design	0.5
+arhalaimohammed	10.0	4.5	2	Graphic Design	1.0
+mrplzfrndz	8.0	5.0	5	Transcription	0.6	Translation	0.2	Word	0.2
+hamdaniamin	10.0	5.0	3	Statistics	0.4	Excel	0.2	Academic Writing	0.2	Market Research	0.2
+ate8tree3	8.0	5.0	4	Copy Typing	0.29	Engineering	0.29	Report Writing	0.14	Technical Writing	0.14	Research	0.14
+oskaraqp	30.0	4.9	58	Flash	0.46	ActionScript	0.11	Javascript	0.1	XML	0.08	PHP	0.07	Other Skills	0.18
+jamesrgallagher1	1000.0	4.8	3	HTML	0.4	PHP	0.2	Javascript	0.2	Website Design	0.2
+maxibrain	25.0	5.0	16	C# Programming	0.4	.NET	0.26	Windows Desktop	0.14	WPF	0.11	Software Architecture	0.06	Other Skills	0.03
+SoftwareEngi	15.0	5.0	2	Swedish	0.5	Translation	0.5
+Razaali75	15.0	4.8	19	PHP	0.7	XML	0.1	Website Design	0.05	Wordpress	0.05	CSS	0.05	Other Skills	0.05
+igrowyourbiz	999.0	5.0	43	Flash	0.38	Website Design	0.22	Internet Marketing	0.16	Graphic Design	0.09	Video Services	0.09	Other Skills	0.06
+hungnhay	15.0	4.8	8	PHP	0.24	CSS	0.2	HTML	0.16	Website Design	0.12	jQuery / Prototype	0.12	Other Skills	0.16
+lukenuttall	75.0	4.6	1	.NET	0.5	C# Programming	0.5
+SeizeDesigns	30.0	5.0	3	PHP	0.2	Website Design	0.2	HTML	0.2	Graphic Design	0.2	CSS	0.1	Other Skills	0.1
+webQA	100.0	5.0	5	XXX	0.29	PHP	0.29	Website Design	0.14	Graphic Design	0.14	ASP	0.14
+vw1700222vw	60.0	5.0	8	Sharepoint	0.83	Microsoft	0.17
+WonYY	40.0	4.8	28	Mobile Phone	0.17	iPhone	0.14	PHP	0.11	HTML	0.09	Website Design	0.09	Other Skills	0.4
+sajebhammad	10.0	4.9	19	Data Entry	0.3	Excel	0.17	Data Processing	0.15	Web Search	0.09	SEO	0.06	Other Skills	0.23
+mohammadazmi7	8.0	5.0	1	MySQL	0.33	PHP	0.33	Engineering	0.33
+varticartur	15.0	5.0	5	Microcontroller	0.25	PCB Layout	0.13	Electronics	0.13	Engineering	0.13	Russian	0.13	Other Skills	0.25
+ziashaikh	15.0	5.0	1	HTML	1.0
+xpertswebtech	12.0	5.0	9	Graphic Design	0.24	Website Design	0.24	eCommerce	0.14	Wordpress	0.1	HTML5	0.07	Other Skills	0.21
+alinistratescu	10.0	5.0	5	Android	0.63	Mobile Phone	0.38
+DolphinMedia	10.0	5.0	12	Video Services	0.21	Graphic Design	0.14	Animation	0.1	Website Design	0.1	Audio Services	0.07	Other Skills	0.38
+AnthonyRodden	12.0	5.0	8	Academic Writing	0.36	Articles	0.21	Copywriting	0.14	Report Writing	0.07	Proofreading	0.07	Other Skills	0.14
+razee01	10.0	5.0	3	3D Modelling	0.29	Graphic Design	0.14	3D Rendering	0.14	Photoshop	0.14	3D Animation	0.14	Other Skills	0.14
+hassen125	9.0	4.4	6	Academic Writing	0.25	Mathematics	0.17	Matlab &amp; Mathematica	0.17	Statistics	0.17	Linkedin	0.08	Other Skills	0.17
+ivannightcrawler	15.0	5.0	12	Excel	0.18	CSS	0.14	Translation	0.14	PHP	0.09	Data Entry	0.09	Other Skills	0.36
+tcsvnn	20.0	5.0	5	Graphic Design	0.14	Banner Design	0.14	C# Programming	0.07	HTML	0.07	PHP	0.07	Other Skills	0.5
+reybayubay72	10.0	5.0	9	Video Services	0.46	After Effects	0.23	Final Cut Pro	0.15	Videography	0.15
+ramiropolla	50.0	5.0	3	C++ Programming	0.5	Windows API	0.17	C Programming	0.17	Bitcoin	0.17
+Tiger9620	15.0	5.0	16	PHP	0.5	Javascript	0.19	HTML	0.12	HTML5	0.04	Shopping Carts	0.04	Other Skills	0.12
+LZRoss	15.0	5.0	4	Articles	0.33	Article Rewriting	0.22	Proofreading	0.22	Editing	0.11	Copywriting	0.11
+danglis	3.0	5.0	6	LaTeX	0.63	Greek	0.13	Translation	0.13	English (UK)	0.13
+galihgasendra	6.0	5.0	3	Graphic Design	0.5	Illustrator	0.33	Photoshop	0.17
+nmcdorman	30.0	4.4	1	Microsoft Access	1.0
+ferkaluk	15.0	5.0	3	3D Modelling	0.38	Animation	0.25	3D Animation	0.13	Photoshop	0.13	Commercials	0.13
+sundus94	25.0	4.9	17	Logo Design	0.32	Graphic Design	0.32	Banner Design	0.08	Photoshop	0.06	Illustrator	0.06	Other Skills	0.16
+theresa3953	10.0	5.0	3	eBooks	0.29	Book Writing	0.29	Fiction	0.14	Short Stories	0.14	Articles	0.14
+alexmilano	15.0	5.0	2	Excel	0.67	Web Scraping	0.33
+andravilcu82	10.0	5.0	2	Electronic Forms	1.0
+waferstick	7.0	4.9	9	Graphic Design	0.29	Photoshop	0.21	Caricature &amp; Cartoons	0.13	Illustration	0.13	Arts &amp; Crafts	0.08	Other Skills	0.17
+dannyhearnah	20.0	5.0	7	PHP	0.27	Javascript	0.2	Website Design	0.13	HTML	0.13	CSS	0.13	Other Skills	0.13
+nuevadheli	7.0	5.0	5	Audio Services	0.43	Data Entry	0.29	Music	0.14	Game Design	0.14
+passion5W6	50.0	5.0	25	Technical Writing	0.16	Article Rewriting	0.14	Articles	0.13	Copywriting	0.13	Academic Writing	0.13	Other Skills	0.3
+honeypotant	37.0	4.8	105	Mobile Phone	0.18	iPhone	0.14	PHP	0.09	Android	0.09	iPad	0.07	Other Skills	0.45
+maqroll73	35.0	5.0	2	Editing	0.33	Technical Writing	0.33	Proofreading	0.33
+Apsingh1278	11.0	5.0	2	Joomla	0.4	CSS	0.4	HTML	0.2
+pyrogenix	80.0	5.0	4	PHP	0.43	Apache	0.29	MySQL	0.14	Linux	0.14
+SICS	15.0	4.9	77	PHP	0.2	Website Design	0.14	iPhone	0.08	Joomla	0.08	Mobile Phone	0.07	Other Skills	0.43
+jetfalcon	15.0	5.0	3	PHP	0.33	Wordpress	0.33	Copywriting	0.17	Translation	0.17
+Djulera	10.0	3.6	2	Mobile Phone	0.33	HTML5	0.17	Game Design	0.17	MySQL	0.17	Website Design	0.17
+robaraujo	15.0	5.0	3	PHP	0.29	Software Architecture	0.14	Javascript	0.14	Prestashop	0.14	CSS	0.14	Other Skills	0.14
+AlexPopescuT	15.0	5.0	4	Mechanical Engineering	0.22	3D Rendering	0.22	3D Modelling	0.22	Manufacturing Design	0.11	Product Design	0.11	Other Skills	0.11
+rahulraut89	20.0	5.0	4	Excel	0.24	Data Processing	0.18	Web Scraping	0.18	Data Entry	0.18	Accounting	0.12	Other Skills	0.12
+hitechnologia	11.0	5.0	1	VoIP	0.25	Asterisk PBX	0.25	Windows Server	0.25	DNS	0.25
+mdaamamun	8.0	5.0	6	HTML	0.38	PHP	0.23	Wordpress	0.15	CSS	0.15	PSD to HTML	0.08
+djtriptronick	100.0	4.8	9	Graphic Design	0.29	Logo Design	0.19	Website Design	0.14	PHP	0.1	Photoshop	0.1	Other Skills	0.19
+prilpa	10.0	4.9	17	Anything Goes	0.29	SEO	0.16	Wordpress	0.13	Articles	0.13	Website Design	0.1	Other Skills	0.19
+zhangkangfu	15.0	5.0	9	Video Services	0.38	Powerpoint	0.13	Voice Talent	0.13	Videography	0.13	Excel	0.13	Other Skills	0.13
+ketoevans	25.0	4.8	22	Graphic Design	0.34	Banner Design	0.19	HTML	0.09	Website Design	0.09	Logo Design	0.09	Other Skills	0.21
+hikeno	13.0	5.0	3	Wordpress	0.27	PHP	0.18	HTML	0.18	Web Hosting	0.09	Web Search	0.09	Other Skills	0.18
+GhaziOualha	15.0	5.0	4	.NET	0.5	IIS	0.13	HTML	0.13	jQuery / Prototype	0.13	C# Programming	0.13
+netconnectbvi	45.0	4.6	1	Graphic Design	0.25	PHP	0.25	HTML	0.25	Website Design	0.25
+digitalmind1	10.0	5.0	74	Logo Design	0.6	Graphic Design	0.4
+DaDiablo	40.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+MajdGH	15.0	5.0	1	Graphic Design	1.0
+timoffei	15.0	5.0	2	Logo Design	0.4	Illustration	0.4	Graphic Design	0.2
+mMm24hours	10.0	5.0	3	Photoshop	0.33	Illustration	0.33	Illustrator	0.33
+sadany	20.0	5.0	30	Logo Design	0.42	Graphic Design	0.25	Photoshop	0.22	CSS	0.03	Print	0.03	Other Skills	0.06
+swajantalukdar	10.0	5.0	6	Data Processing	0.2	Data Entry	0.2	Excel	0.2	YouTube	0.13	Video Upload	0.13	Other Skills	0.13
+flashzeus	20.0	4.9	185	PHP	0.45	MySQL	0.23	Website Design	0.11	Flash	0.06	ASP	0.05	Other Skills	0.1
+mysticwanderer70	10.0	4.9	4	Javascript	0.33	HTML	0.22	HTML5	0.22	AJAX	0.11	PHP	0.11
+euripedesrocha	25.0	4.9	11	Verilog / VHDL	0.2	C++ Programming	0.13	Electronics	0.13	Matlab &amp; Mathematica	0.13	PCB Layout	0.13	Other Skills	0.27
+nhamza1988	35.0	5.0	9	Apache	0.21	PHP	0.21	MySQL	0.1	Linux	0.1	Web Security	0.07	Other Skills	0.31
+luheav	25.0	5.0	16	PHP	0.24	MySQL	0.12	HTML	0.12	AJAX	0.07	Javascript	0.07	Other Skills	0.37
+ChuEric	35.0	5.0	3	Maya	0.5	3D Modelling	0.5
+bgdesigner	22.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+Dorfried	20.0	5.0	1	PHP	1.0
+mikipeshevski	20.0	5.0	9	Linux	0.29	Ubuntu	0.1	Amazon Web Services	0.1	MySQL	0.1	System Admin	0.1	Other Skills	0.33
+TaliaP	20.0	4.9	143	Article Rewriting	0.52	Copywriting	0.41	Blog	0.03	Articles	0.02	Editing	0.01	Other Skills	0.01
+stdhtelkom	35.0	4.8	30	PHP	0.3	MySQL	0.23	Javascript	0.19	HTML	0.07	AJAX	0.05	Other Skills	0.16
+goldenpackrw	25.0	5.0	3	iPhone	0.4	iPad	0.4	Graphic Design	0.2
+aaronn99	10.0	3.6	1	Graphic Design	1.0
+AnnaArt	10.0	5.0	9	Photoshop	0.33	Graphic Design	0.24	Illustrator	0.1	Logo Design	0.1	Photoshop Design	0.05	Other Skills	0.19
+linuxien2011	6.0	5.0	18	Linux	0.21	PHP	0.15	Translation	0.12	Software Testing	0.09	MySQL	0.09	Other Skills	0.33
+subirdutta84	10.0	5.0	2	Sound Design	0.17	Photoshop Design	0.17	Photo Editing	0.17	Video Services	0.17	Audio Services	0.17	Other Skills	0.17
+DanielDesign2810	18.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+PilarBerPra	7.0	5.0	4	Video Services	0.57	Animation	0.43
+mirabueno319	5.0	5.0	6	Excel	0.56	Data Entry	0.44
+JViz	15.0	5.0	4	3D Rendering	0.22	3D Modelling	0.22	3ds Max	0.22	Graphic Design	0.11	Interior Design	0.11	Other Skills	0.11
+sathyasingh1991	25.0	4.7	7	Data Processing	0.31	Data Entry	0.31	Graphic Design	0.15	Photoshop	0.15	Excel	0.08
+lynchman100	10.0	5.0	19	Illustration	0.2	Graphic Design	0.14	Animation	0.14	Photoshop	0.14	Illustrator	0.11	Other Skills	0.27
+spirokovac	18.0	5.0	50	Wordpress	0.29	PHP	0.22	HTML	0.18	Website Design	0.14	CSS	0.12	Other Skills	0.05
+claudialeclercq	13.0	5.0	6	Graphic Design	0.21	Illustrator	0.21	Illustration	0.21	Photoshop	0.14	Logo Design	0.07	Other Skills	0.14
+vfeBrian	100.0	5.0	10	Windows Server	0.18	C# Programming	0.18	DNS	0.09	jQuery / Prototype	0.09	Danish	0.09	Other Skills	0.36
+buehlerap	50.0	5.0	6	Voice Talent	1.0
+memegt	20.0	4.7	3	HTML	0.27	PHP	0.18	Website Design	0.18	CSS	0.09	Shopping Carts	0.09	Other Skills	0.18
+siddanixsoft108	10.0	5.0	4	HTML	0.36	PHP	0.36	Website Design	0.18	AJAX	0.09
+smurfette5s	25.0	5.0	3	Voice Talent	0.75	Audio Services	0.25
+iBaciu	30.0	4.8	5	3D Rendering	0.25	3D Modelling	0.17	Building Architecture	0.17	Google SketchUp	0.17	AutoCAD	0.08	Other Skills	0.17
+DesignFramez	8.0	5.0	2	Photoshop	0.33	Graphic Design	0.33	Logo Design	0.33
+kym8701	7.0	4.6	5	Academic Writing	0.67	Articles	0.33
+LouisvilleWeb	50.0	5.0	1	Software Architecture	0.2	SQL	0.2	XML	0.2	C# Programming	0.2	.NET	0.2
+archviewdevelop	25.0	3.8	4	jQuery / Prototype	0.17	Javascript	0.17	HTML	0.17	Web Hosting	0.17	MySQL	0.17	Other Skills	0.17
+doyz	10.0	5.0	7	ASP	0.17	MVC	0.11	.NET	0.11	Software Architecture	0.11	Javascript	0.11	Other Skills	0.39
+waaab	15.0	5.0	13	Graphic Design	0.38	Logo Design	0.31	CSS	0.23	Brochure Design	0.08
+strongsoft	30.0	4.8	9	Android	0.27	Mobile Phone	0.27	iPhone	0.09	AJAX	0.09	iPad	0.09	Other Skills	0.18
+oscarcaldeira	15.0	5.0	2	PHP	0.4	Website Design	0.2	HTML	0.2	Software Architecture	0.2
+dpappu131	10.0	4.7	9	Matlab &amp; Mathematica	0.24	Mathematics	0.18	C Programming	0.18	C++ Programming	0.12	Algorithm	0.12	Other Skills	0.18
+atlantawebco	35.0	4.4	170	PHP	0.44	Website Design	0.11	Joomla	0.1	CSS	0.09	Wordpress	0.06	Other Skills	0.21
+designchest	15.0	5.0	4	Logo Design	0.4	Graphic Design	0.3	Photoshop	0.1	Illustrator	0.1	Banner Design	0.1
+nogoodnameleft	20.0	5.0	1	Linux	0.5	MySQL	0.5
+richardatkinson	25.0	5.0	2	Visual Basic	1.0
+netbih	15.0	5.0	2	Logo Design	0.67	Graphic Design	0.33
+juanjomarnetti	10.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+aethercorp	50.0	5.0	1	Telecommunications Engineering	1.0
+sudhanathan	5.0	5.0	8	Data Processing	0.36	Data Entry	0.29	Bulk Marketing	0.14	Excel	0.14	Photo Editing	0.07
+Milym	7.0	4.8	12	Spanish	0.19	Data Entry	0.14	English (US)	0.14	Word	0.1	Copy Typing	0.1	Other Skills	0.33
+jojohf	15.0	5.0	2	Graphic Design	0.5	Logo Design	0.5
+imakdesigner	10.0	4.8	39	Graphic Design	0.34	Illustrator	0.15	Photoshop	0.1	Logo Design	0.1	Flyer Design	0.05	Other Skills	0.26
+alaaelsisi	25.0	5.0	8	Finite Element Analysis	0.3	Mechanical Engineering	0.22	Structural Engineering	0.17	Materials Engineering	0.09	Engineering	0.09	Other Skills	0.13
+foxhilldesign	25.0	4.9	18	Wordpress	0.23	PHP	0.19	HTML	0.15	Website Design	0.12	Data Entry	0.08	Other Skills	0.23
+CicadaMusic	35.0	5.0	27	Voice Talent	0.35	Video Services	0.27	Audio Services	0.23	Videography	0.08	Music	0.04	Other Skills	0.02
+duytrinhit	15.0	5.0	17	PHP	0.74	Magento	0.26
+Ajooo	6.0	4.4	15	Graphic Design	0.38	Logo Design	0.19	Photoshop	0.13	Illustrator	0.06	Website Design	0.06	Other Skills	0.19
+Mizanurahman1	7.0	5.0	3	MySQL	0.13	Website Design	0.13	jQuery / Prototype	0.13	CSS	0.13	HTML5	0.13	Other Skills	0.38
+desire1184	4.0	5.0	12	PDF	0.16	Italian	0.11	Virtual Assistant	0.11	English (UK)	0.11	Translation	0.11	Other Skills	0.42
+onetenstore	12.0	4.9	12	Graphic Design	0.26	Photoshop	0.21	Illustrator	0.12	Banner Design	0.09	Brochure Design	0.06	Other Skills	0.26
+MaRoQ	25.0	5.0	3	PHP	0.2	Javascript	0.2	Linux	0.2	Website Design	0.2	C++ Programming	0.2
+lauranl	20.0	5.0	3	SEO	0.2	Website Management	0.13	Wordpress	0.13	CSS	0.13	Templates	0.13	Other Skills	0.27
+kangen333	22.0	4.7	14	Article Rewriting	0.33	Articles	0.33	Internet Marketing	0.04	Technical Writing	0.04	Blog	0.04	Other Skills	0.21
+Uplidcoder	15.0	5.0	8	PHP	0.29	Website Design	0.24	Javascript	0.12	eCommerce	0.06	JSP	0.06	Other Skills	0.24
+darefremov	15.0	4.8	5	Graphic Design	0.27	Illustrator	0.2	Photoshop	0.2	Icon Design	0.13	Logo Design	0.07	Other Skills	0.13
+AimanStudio	30.0	5.0	7	Illustration	0.6	Caricature &amp; Cartoons	0.3	Animation	0.1
+takasoft	25.0	5.0	28	.NET	0.65	ASP	0.13	Visual Basic	0.05	SQL	0.05	IIS	0.03	Other Skills	0.1
+piofernandes	9.0	5.0	2	PHP	0.33	Web Hosting	0.17	AJAX	0.17	MySQL	0.17	Javascript	0.17
+chriskerpini	16.0	5.0	45	Excel	0.14	Shell Script	0.14	Software Testing	0.14	Translation	0.13	Visual Basic for Apps	0.07	Other Skills	0.38
+alcarhino	50.0	4.9	3	3D Modelling	0.38	Interior Design	0.13	AutoCAD	0.13	3ds Max	0.13	Building Architecture	0.13	Other Skills	0.13
+Forexcraze	10.0	5.0	1	Marketing	0.5	Leads	0.5
+hariskhan1989	10.0	5.0	1	HTML	0.33	PHP	0.33	MySQL	0.33
+diver23	20.0	5.0	2	PHP	0.5	MySQL	0.5
+mloosevoiceworks	40.0	5.0	7	Voice Talent	1.0
+debdas0278	5.0	4.6	21	Photoshop	1.0
+crdmendoza	60.0	5.0	2	MySQL	0.25	PHP	0.25	HTML5	0.25	Software Architecture	0.25
+DannyCoder	30.0	5.0	22	Software Architecture	0.15	PHP	0.15	C Programming	0.15	Engineering	0.15	Windows Desktop	0.12	Other Skills	0.29
+bqudamith	15.0	5.0	8	PHP	0.21	HTML	0.17	Javascript	0.17	Joomla	0.08	Website Design	0.08	Other Skills	0.29
+ecomscripts	15.0	4.7	20	PHP	0.26	Website Design	0.23	Graphic Design	0.09	.NET	0.09	Flash	0.09	Other Skills	0.26
+samanna	17.0	4.9	9	Web Search	0.42	Graphic Design	0.08	Research	0.08	Leads	0.08	Illustration	0.08	Other Skills	0.25
+traianalex	40.0	5.0	19	PHP	0.22	CSS	0.17	PSD to HTML	0.15	MySQL	0.15	HTML	0.13	Other Skills	0.17
+mithu11112	10.0	5.0	9	YouTube	0.4	Marketing	0.13	Facebook Marketing	0.13	Graphic Design	0.07	Excel	0.07	Other Skills	0.2
+pkcyber	10.0	5.0	29	Excel	0.81	.NET	0.1	Microsoft Access	0.03	Windows Desktop	0.03	Database Administration	0.03
+renatomeneses	15.0	5.0	4	Graphic Design	0.4	3D Modelling	0.2	3D Animation	0.2	Animation	0.2
+timvo	25.0	5.0	4	Voice Talent	0.57	Audio Services	0.43
+theshadowx	20.0	5.0	9	C++ Programming	0.33	Matlab &amp; Mathematica	0.27	Electrical Engineering	0.13	Electronics	0.13	Mathematics	0.07	Other Skills	0.07
+jfreyre	40.0	4.9	341	PHP	0.75	Linux	0.08	Wordpress	0.06	Apache	0.04	SQL	0.03	Other Skills	0.04
+ibisREDibis	32.0	5.0	4	Web Scraping	0.33	Software Development	0.11	Social Networking	0.11	Website Design	0.11	PHP	0.11	Other Skills	0.22
+sowebs	18.0	4.6	12	Website Design	0.28	Video Services	0.21	Graphic Design	0.21	CMS	0.1	eCommerce	0.07	Other Skills	0.14
+Liaata	25.0	5.0	4	Blog	0.18	Articles	0.18	Sports	0.09	Internet Marketing	0.09	Ghostwriting	0.09	Other Skills	0.36
+vtjendra	15.0	4.0	3	Graphic Design	0.67	PHP	0.33
+darker83	6.0	5.0	4	Copy Typing	0.09	Data Entry	0.09	Article Submission	0.09	Articles	0.09	Script Install	0.09	Other Skills	0.55
+sgiacomel	20.0	5.0	2	PHP	0.29	Wordpress	0.14	Software Testing	0.14	Google Adsense	0.14	Virtuemart	0.14	Other Skills	0.14
+deepandulal45	9.0	4.8	4	Data Entry	0.43	Web Search	0.29	Articles	0.14	Web Scraping	0.14
+scarletinfotech	7.0	4.1	6	HTML	0.21	Graphic Design	0.14	PHP	0.14	CSS	0.14	Website Design	0.14	Other Skills	0.21
+roundPx	6.0	5.0	2	3D Modelling	0.4	Photoshop	0.2	3D Design	0.2	3ds Max	0.2
+renardpaul	50.0	5.0	187	Software Architecture	0.18	Engineering	0.16	PHP	0.14	Windows Desktop	0.09	C Programming	0.09	Other Skills	0.33
+mobiledevil	20.0	4.3	2	Android	1.0
+BDSEO	11.0	5.0	9	Articles	0.28	Article Rewriting	0.24	Travel Writing	0.16	Blog	0.12	Reviews	0.08	Other Skills	0.12
+ivanmeer1984	8.0	3.9	2	3ds Max	0.25	Graphic Design	0.25	Photoshop	0.25	3D Modelling	0.25
+karifuentes55	15.0	5.0	2	Graphic Design	0.5	Logo Design	0.5
+karifuentes55	15.0	5.0	2	Graphic Design	0.5	Logo Design	0.5
+STPL2013	5.0	5.0	2	Logo Design	1.0
+mastermontilla	8.0	4.8	6	Graphic Design	0.57	Photoshop	0.29	Visual Basic	0.14
+borboh	12.0	5.0	6	Link Building	0.25	SEO	0.25	Internet Marketing	0.19	HTML	0.06	Website Design	0.06	Other Skills	0.19
+uahmed	7.0	4.9	11	Data Entry	0.38	Excel	0.29	Web Search	0.24	Web Scraping	0.05	Data Processing	0.05
+pixweb	10.0	5.0	4	PHP	0.33	CSS	0.22	Website Design	0.11	Graphic Design	0.11	MySQL	0.11	Other Skills	0.11
+intersinaptico	15.0	3.8	2	PHP	0.29	Drupal	0.14	jQuery / Prototype	0.14	HTML	0.14	Website Design	0.14	Other Skills	0.14
+elninho23	15.0	4.6	16	Internet Marketing	0.22	SEM / Adwords	0.22	Affiliate Marketing	0.22	Project Management	0.11	Sales	0.07	Other Skills	0.15
+ForHighQuality	10.0	3.7	10	Translation	0.17	Academic Writing	0.14	Article Rewriting	0.1	Spanish	0.1	Copywriting	0.1	Other Skills	0.38
+DLSnead	20.0	5.0	4	C++ Programming	0.5	Android	0.13	Python	0.13	Linux	0.13	Java	0.13
+MagicVision	20.0	5.0	2	3D Modelling	0.2	Videography	0.2	Graphic Design	0.2	Post-Production	0.2	Photoshop	0.2
+DWorth	30.0	5.0	4	PHP	0.38	Graphic Design	0.25	HTML	0.25	Visual Basic for Apps	0.13
+AvtomatAK	15.0	4.9	37	Video Services	0.39	Flash	0.15	After Effects	0.1	Animation	0.08	3D Animation	0.08	Other Skills	0.21
+Geniusteam	15.0	5.0	6	iPhone	0.21	Mobile Phone	0.21	PHP	0.16	Android	0.16	iPad	0.16	Other Skills	0.11
+NanyAndGummybear	15.0	5.0	3	Videography	0.2	Video Services	0.2	Caricature &amp; Cartoons	0.2	After Effects	0.2	Illustration	0.2
+AlejandroBenitez	35.0	5.0	1	3D Animation	0.33	3D Rendering	0.33	3D Modelling	0.33
+rogue0823	35.0	5.0	4	Zen Cart	0.25	vBulletin	0.13	Graphic Design	0.13	Website Management	0.13	Shopping Carts	0.13	Other Skills	0.25
+nikosku	15.0	5.0	10	Linux	0.37	System Admin	0.16	VPS	0.16	Wordpress	0.11	Website Management	0.05	Other Skills	0.16
+GandalfTheGrey	50.0	5.0	25	Linux	0.28	MySQL	0.15	PHP	0.15	System Admin	0.13	UNIX	0.06	Other Skills	0.24
+netquart	10.0	4.9	57	PHP	0.26	HTML	0.18	Website Design	0.14	Wordpress	0.09	Graphic Design	0.07	Other Skills	0.26
+yarolinux	20.0	5.0	9	MySQL	0.2	PHP	0.2	Linux	0.15	Web Security	0.1	System Admin	0.1	Other Skills	0.25
+earworm	50.0	5.0	2	Audio Services	0.5	Music	0.5
+Formlessub	20.0	5.0	2	Graphic Design	0.67	Covers &amp; Packaging	0.33
+lamontef	25.0	5.0	3	Editing	0.17	Copywriting	0.17	Script Install	0.17	Publishing	0.17	Wordpress	0.17	Other Skills	0.17
+plesua	12.0	4.6	2	Graphic Design	1.0
+promediabg	5.0	5.0	1	Wordpress	0.33	PHP	0.33	Website Design	0.33
+hirahumayun	10.0	5.0	1	Website Design	0.5	HTML	0.5
+syedumairumar786	15.0	5.0	6	PHP	0.33	Wordpress	0.33	Javascript	0.13	Website Design	0.13	HTML	0.07
+jain08poonam	20.0	4.7	6	Graphic Design	0.5	Logo Design	0.25	Icon Design	0.08	Banner Design	0.08	Stationery Design	0.08
+valyb	20.0	5.0	8	Social Networking	0.3	Facebook Marketing	0.3	User Interface / IA	0.1	Logo Design	0.1	PHP	0.1	Other Skills	0.1
+andrewscm	10.0	5.0	7	Java	0.21	Excel	0.21	Amazon Web Services	0.14	Data Entry	0.14	C++ Programming	0.07	Other Skills	0.21
+elton123	10.0	4.8	96	Graphic Design	0.36	Logo Design	0.35	Website Design	0.08	Photoshop	0.05	Photoshop Design	0.03	Other Skills	0.13
+yogeshsharma91	5.0	5.0	6	Data Entry	0.2	Graphic Design	0.2	Excel	0.2	Logo Design	0.2	Web Search	0.1	Other Skills	0.1
+henky14	7.0	4.8	9	Graphic Design	0.54	Logo Design	0.38	Advertisement Design	0.08
+iwebdesigner4u	18.0	5.0	7	CSS	0.24	HTML	0.19	PHP	0.14	PSD to HTML	0.14	Website Design	0.14	Other Skills	0.14
+eviden	8.0	5.0	1	Photoshop	0.25	Graphic Design	0.25	Photoshop Design	0.25	Logo Design	0.25
+parnell83	30.0	5.0	1	Photoshop	0.5	After Effects	0.5
+allyedrington	40.0	5.0	11	Articles	0.38	Blog	0.19	Product Descriptions	0.12	Press Releases	0.08	Ghostwriting	0.08	Other Skills	0.15
+cristiiordachi	30.0	5.0	2	Wordpress	0.33	HTML	0.17	Graphic Design	0.17	PHP	0.17	Website Design	0.17
+serajgo	35.0	4.7	2	Bulk Marketing	0.5	Email Marketing	0.25	Internet Marketing	0.25
+iglian	15.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+omarfarrag	60.0	5.0	2	Animation	1.0
+sumiya555	5.0	4.8	17	Facebook Marketing	0.39	Social Networking	0.23	Internet Marketing	0.16	Twitter	0.06	Logo Design	0.03	Other Skills	0.13
+SJT18	7.0	5.0	2	Wordpress	0.5	Web Search	0.25	Data Entry	0.25
+bojanbt	6.0	5.0	4	HTML	0.36	Wordpress	0.27	Website Design	0.18	CSS	0.18
+SiliconMind	35.0	4.9	107	PHP	0.28	HTML	0.16	Website Design	0.12	Wordpress	0.12	MySQL	0.07	Other Skills	0.24
+bab55z	20.0	3.5	2	Graphic Design	0.67	Flyer Design	0.33
+shanki161	10.0	4.9	35	Data Entry	0.27	Excel	0.22	Web Search	0.18	Web Scraping	0.11	Social Networking	0.06	Other Skills	0.16
+Rocamora	20.0	5.0	1	Illustrator	0.33	Caricature &amp; Cartoons	0.33	Illustration	0.33
+DonDextrous	10.0	4.6	4	Email Marketing	0.43	Bulk Marketing	0.29	PHP	0.14	MySQL	0.14
+romimardiansl	10.0	5.0	6	PHP	0.2	Anything Goes	0.13	Joomla	0.13	MySQL	0.13	HTML	0.13	Other Skills	0.27
+FMQC	135.0	5.0	4	Project Management	0.4	CSS	0.2	Articles	0.2	Data Entry	0.2
+sautrik	12.0	4.9	72	Graphic Design	0.32	Photoshop	0.09	Logo Design	0.08	Banner Design	0.08	Video Services	0.05	Other Skills	0.39
+jacobszall	9.5	5.0	1	Mobile Phone	0.5	Android	0.5
+khoaht	13.0	5.0	1	C# Programming	0.33	ASP	0.33	.NET	0.33
+anewman15	10.0	5.0	1	Web Search	0.33	Data Entry	0.33	Excel	0.33
+locusolus	15.0	5.0	3	Video Services	0.5	Animation	0.33	After Effects	0.17
+lorenzo88	15.0	4.2	1	Magento	0.33	Data Processing	0.33	Data Entry	0.33
+najamkhurshidi	20.0	3.9	7	PHP	0.22	HTML	0.22	Website Design	0.17	Wordpress	0.11	Graphic Design	0.11	Other Skills	0.17
+cedricpostel	15.0	4.8	1	HTML	1.0
+tapsitiwari	10.0	4.9	5	Java	1.0
+ShieghtunStudios	25.0	5.0	3	C++ Programming	0.5	C Programming	0.5
+OCTAGRAM	10.0	5.0	2	Shell Script	0.33	Assembly	0.33	x86/x64 Assembler	0.33
+vgsitech	20.0	5.0	15	PHP	0.42	Facebook Marketing	0.1	HTML	0.1	MySQL	0.06	Joomla	0.06	Other Skills	0.26
+HaiderShahzad	25.0	5.0	2	iPhone	0.5	iPad	0.5
+FarazAbbas	2.0	5.0	3	CSS	0.27	Website Design	0.18	HTML	0.18	Wordpress	0.09	PHP	0.09	Other Skills	0.18
+Arobit	15.0	5.0	3	MySQL	0.21	PHP	0.21	HTML	0.21	Website Design	0.14	CSS	0.14	Other Skills	0.07
+globalseo711	7.0	4.5	11	Link Building	0.38	SEO	0.33	Internet Marketing	0.29
+Lkannus	15.0	5.0	1	Excel	1.0
+AspenProjects	30.0	5.0	26	HTML	0.18	Magento	0.16	PHP	0.16	CSS	0.13	Website Design	0.13	Other Skills	0.24
+AspenProjects	30.0	5.0	26	HTML	0.18	Magento	0.16	PHP	0.16	CSS	0.13	Website Design	0.13	Other Skills	0.24
+EuropeSoft	40.0	5.0	3	Magento	0.4	eCommerce	0.4	PHP	0.2
+malakoder	35.0	5.0	9	PHP	0.38	Magento	0.13	Javascript	0.13	PSD to HTML	0.13	MySQL	0.13	Other Skills	0.13
+Luxdecore	10.0	5.0	5	3ds Max	0.33	3D Rendering	0.33	AutoCAD	0.22	Building Architecture	0.11
+thegoodmeanings	3.0	5.0	12	Data Entry	0.36	Excel	0.28	Data Processing	0.2	Web Search	0.12	Word	0.04
+gamboy214	20.0	5.0	4	Visual Basic	0.5	Microsoft	0.13	C Programming	0.13	MySQL	0.13	PHP	0.13
+fkahn	5.0	5.0	32	PHP	0.39	Graphic Design	0.33	MySQL	0.24	HTML	0.03
+toplevel	20.0	4.8	7	HTML	0.2	PHP	0.2	Website Design	0.15	Javascript	0.1	CSS	0.1	Other Skills	0.25
+mogidesign	5.0	5.0	3	YouTube	0.33	Powerpoint	0.17	Graphic Design	0.17	Photoshop	0.17	Game Design	0.17
+Faraoon	10.0	4.9	13	Android	0.57	Java	0.43
+lune856	21.0	5.0	1	Audio Services	1.0
+rajawi9999	30.0	4.9	162	PHP	0.56	Javascript	0.12	AJAX	0.08	Website Design	0.06	Joomla	0.04	Other Skills	0.13
+nelsonpires	10.0	4.4	1	Mobile Phone	0.5	Android	0.5
+MustafaShaheen	3.0	4.9	9	PHP	0.36	Word	0.18	MySQL	0.18	Powerpoint	0.09	HTML	0.09	Other Skills	0.09
+nightstarit	5.0	4.9	18	Facebook Marketing	0.52	Twitter	0.24	Internet Marketing	0.19	SEO	0.05
+hungndl	15.0	4.7	38	Android	0.43	Mobile Phone	0.37	iPhone	0.07	Objective C	0.04	Blackberry	0.03	Other Skills	0.06
+babitabubu	5.0	4.7	9	Website Design	0.18	HTML	0.15	Graphic Design	0.15	CSS	0.09	Javascript	0.06	Other Skills	0.36
+ideazjunction	8.0	5.0	7	Graphic Design	0.42	Illustrator	0.17	Logo Design	0.17	Photoshop Design	0.08	Photoshop	0.08	Other Skills	0.08
+yubor	25.0	4.9	45	MySQL	0.26	Software Testing	0.23	SQL	0.15	Visual Basic	0.08	Microsoft	0.08	Other Skills	0.2
+hitcashpk	15.0	4.8	69	Graphic Design	0.17	Website Design	0.14	Wordpress	0.13	PHP	0.11	Templates	0.11	Other Skills	0.34
+freevj	8.0	5.0	1	Website Design	1.0
+dreamdata	19.0	5.0	28	Linux	0.27	System Admin	0.21	Apache	0.14	Web Hosting	0.07	Windows Server	0.07	Other Skills	0.23
+ifiwereking	27.0	5.0	1	Ghostwriting	0.25	Proofreading	0.25	Book Writing	0.25	Editing	0.25
+ruiguimaraes	14.0	5.0	2	Website Design	0.25	Google App Engine	0.25	HTML	0.25	PHP	0.25
+HLea	10.0	4.9	4	Reviews	0.33	Marketing	0.17	Internet Marketing	0.17	Articles	0.17	Blog	0.17
+nareshphuloria	18.0	5.0	3	Visual Basic	0.18	.NET	0.18	ASP	0.09	C# Programming	0.09	SQL	0.09	Other Skills	0.36
+dmitriypanchuk	10.0	5.0	2	After Effects	0.5	Videography	0.25	Animation	0.25
+evilzebra	20.0	5.0	4	Javascript	0.31	HTML5	0.23	CSS	0.15	HTML	0.15	PHP	0.08	Other Skills	0.08
+zhaovw	28.0	5.0	2	Javascript	0.5	PHP	0.5
+visualdesign	50.0	4.9	79	Photoshop	0.32	Graphic Design	0.21	Logo Design	0.2	Windows Desktop	0.13	CSS	0.04	Other Skills	0.1
+fikiwicaksono	35.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+abdulnazar	11.0	5.0	3	HTML	0.38	PHP	0.38	MySQL	0.13	Wordpress	0.13
+rvector	10.0	5.0	26	C# Programming	0.3	.NET	0.18	Visual Basic	0.08	C++ Programming	0.07	Software Architecture	0.07	Other Skills	0.3
+ProfessorA	5.0	4.5	2	Editing	0.25	Article Rewriting	0.25	Amazon Kindle	0.25	Proofreading	0.25
+julesmariano	10.0	5.0	4	Articles	0.4	Travel Writing	0.2	Blog	0.2	Web Search	0.2
+MrTrivial	4.0	5.0	2	Unity 3D	1.0
+agencja	20.0	4.8	2	Graphic Design	0.5	Logo Design	0.25	Photoshop	0.25
+masoodanwar85	30.0	4.2	1	Cold Fusion	1.0
+saratessk	5.0	5.0	3	Reviews	0.25	Ghostwriting	0.25	Blog	0.25	Fiction	0.25
+njman74	25.0	5.0	2	Mechanical Engineering	0.25	Scientific Research	0.25	Project Management	0.25	Report Writing	0.25
+CodingWizerd	12.0	5.0	5	CSS	1.0
+softprize	10.0	4.9	99	Translation	0.27	PHP	0.25	MySQL	0.22	Graphic Design	0.09	Delphi	0.04	Other Skills	0.13
+KGMNA	7.0	4.9	35	Data Entry	0.18	Web Scraping	0.16	Data Mining	0.15	Web Search	0.13	Excel	0.12	Other Skills	0.27
+zainbasharat	5.0	5.0	6	PHP	0.5	HTML	0.25	MySQL	0.13	jQuery / Prototype	0.13
+EuroPenguin	16.01	5.0	15	C++ Programming	0.2	C Programming	0.2	Python	0.16	Mathematics	0.12	Data Mining	0.12	Other Skills	0.2
+jess1990	3.0	5.0	5	Articles	0.33	SEO	0.11	Copywriting	0.11	Excel	0.11	Article Rewriting	0.11	Other Skills	0.22
+Studio7L	10.0	5.0	1	Graphic Design	1.0
+richardmagrath	15.0	5.0	1	HTML	0.33	PHP	0.33	Wordpress	0.33
+attiqe	10.0	4.9	84	Graphic Design	0.32	Photoshop	0.15	Logo Design	0.09	Illustrator	0.08	Photoshop Design	0.04	Other Skills	0.31
+mesrarmohamed	12.0	5.0	1	Video Services	1.0
+andreafalbo	25.0	5.0	4	Video Services	0.25	Graphic Design	0.25	Post-Production	0.13	Photo Editing	0.13	Animation	0.13	Other Skills	0.13
+Crystaliumjmc	7.0	4.8	3	Illustrator	0.25	Caricature &amp; Cartoons	0.25	Logo Design	0.25	Illustration	0.25
+CWedberg	20.0	5.0	1	Illustration	1.0
+plushzillavw	50.0	4.9	154	Article Rewriting	0.15	Academic Writing	0.15	Copywriting	0.13	Technical Writing	0.09	Translation	0.07	Other Skills	0.4
+martiald	10.0	5.0	2	Ghostwriting	0.25	Graphic Design	0.25	Articles	0.25	Logo Design	0.25
+Arts360	15.0	5.0	2	Graphic Design	0.67	Logo Design	0.33
+hedonistu	10.0	5.0	5	Engineering	0.43	Electrical Engineering	0.29	Matlab &amp; Mathematica	0.29
+epotignano	20.0	5.0	1	HTML	0.25	Website Design	0.25	node.js	0.25	Graphic Design	0.25
+JackBradford	45.0	5.0	21	Asterisk PBX	0.32	Excel	0.29	Translation	0.07	VoIP	0.07	Data Processing	0.07	Other Skills	0.18
+workerkmvw	10.0	4.9	44	Article Rewriting	0.27	Academic Writing	0.21	Translation	0.19	Ghostwriting	0.11	Data Entry	0.1	Other Skills	0.13
+NextSolu	20.0	5.0	2	Wordpress	1.0
+parthamikh	12.0	4.9	42	Photoshop	0.18	3D Modelling	0.16	3D Rendering	0.15	Graphic Design	0.12	Illustrator	0.12	Other Skills	0.27
+campiandrea	30.0	5.0	1	Linux	1.0
+slaaxy	45.0	5.0	39	HTML	0.21	PHP	0.16	Javascript	0.14	CSS	0.12	Website Design	0.1	Other Skills	0.27
+nycxav	60.0	4.8	6	Data Entry	0.2	PHP	0.2	Data Processing	0.2	MySQL	0.13	Data Mining	0.07	Other Skills	0.2
+phpdeveloper11	20.0	4.8	23	PHP	0.35	Linux	0.23	HTML	0.13	Website Design	0.08	Graphic Design	0.04	Other Skills	0.17
+raza4075	18.0	4.8	2	C++ Programming	0.5	HTML	0.5
+JoannaSpi	35.0	4.6	1	Music	1.0
+AriannaTamanini	7.0	4.9	2	Spanish (Spain)	0.25	Translation	0.25	Italian	0.25	Spanish	0.25
+mbuchman	50.0	5.0	1	Graphic Design	1.0
+Vee4	5.0	5.0	1	Graphic Design	0.5	Illustration	0.5
+mnadee	12.0	5.0	1	PHP	1.0
+Blissikins	25.0	5.0	2	Graphic Design	0.5	Logo Design	0.5
+IllusionG	10.0	5.0	1	Website Design	0.33	Banner Design	0.33	Graphic Design	0.33
+vcare77	17.0	4.8	9	Web Search	0.38	Excel	0.25	Web Scraping	0.13	Sales	0.13	Data Entry	0.13
+intecinfosys	20.0	4.8	2	PHP	0.33	Wordpress	0.17	CSS	0.17	MySQL	0.17	Joomla	0.17
+rohit28lko	20.0	4.9	73	Articles	0.26	Article Rewriting	0.18	Academic Writing	0.09	Data Entry	0.07	Blog	0.06	Other Skills	0.35
+WVRayDoll	35.0	4.8	5	Illustration	0.33	Engineering Drawing	0.22	CAD/CAM	0.22	AutoCAD	0.11	Mechanical Engineering	0.11
+ahmadlotfy75	10.0	5.0	5	Photoshop	0.67	Graphic Design	0.33
+marcinmigacz	12.0	4.9	2	Metatrader	0.5	C Programming	0.5
+johnsonlav	25.0	4.4	1	Graphic Design	0.5	Stationery Design	0.5
+smaa1	12.0	5.0	1	Polish	0.33	Translation	0.33	Book Writing	0.33
+Max922	13.0	5.0	2	SEO	0.22	Link Building	0.22	Internet Marketing	0.22	SEM / Adwords	0.11	Website Design	0.11	Other Skills	0.11
+Coolsoftec	12.0	5.0	100	Article Rewriting	0.3	Academic Writing	0.27	Copywriting	0.21	Translation	0.08	Blog	0.05	Other Skills	0.09
+silky1284	30.0	5.0	26	PHP	0.41	MySQL	0.15	HTML	0.15	Website Design	0.08	Script Install	0.07	Other Skills	0.15
+ygorghensev	30.0	5.0	2	Audio Services	0.5	Music	0.5
+memoarc1	12.0	5.0	1	3D Modelling	0.33	3D Rendering	0.33	3ds Max	0.33
+Achusmom	10.0	5.0	1	Transcription	0.33	Proofreading	0.33	Editing	0.33
+Ferrarifreelance	10.0	5.0	1	Proofreading	1.0
+viktorzi	10.0	5.0	3	Internet Marketing	0.38	Link Building	0.38	SEO	0.25
+santibatera	60.0	4.6	1	3ds Max	0.33	Photoshop	0.33	3D Rendering	0.33
+riki888vw	15.0	5.0	2	Arduino	0.67	Electronics	0.33
+tilonsoft	33.0	5.0	4	Drupal	0.57	PHP	0.29	HTML	0.14
+michaelyana	3.0	5.0	2	Data Entry	0.4	Excel	0.4	Data Processing	0.2
+TakuyaMuramatsu	25.0	5.0	2	Japanese	1.0
+adelgreeneyes	10.0	4.9	21	HTML	0.22	Website Design	0.18	PHP	0.18	Graphic Design	0.13	Article Rewriting	0.04	Other Skills	0.25
+ArtisanCodesmith	25.0	4.6	3	PHP	0.2	MySQL	0.2	Javascript	0.1	HTML	0.1	Graphic Design	0.1	Other Skills	0.3
+pallieffie	8.0	5.9	7	Translation	0.5	Greek	0.5
+pallieffie	8.0	5.9	7	Translation	0.5	Greek	0.5
+designstudios365	15.0	5.0	2	Banner Design	0.33	Landing Pages	0.17	Photoshop	0.17	Photo Editing	0.17	Logo Design	0.17
+zt1983811	19.0	5.0	1	CakePHP	0.5	MySQL	0.5
+apolizu	12.0	5.0	2	Linux	0.4	Apache	0.2	System Admin	0.2	VPS	0.2
+teofilborconi	6.0	5.0	1	Articles	1.0
+markstraut	10.0	5.0	1	Metatrader	1.0
+ebmedias	60.0	5.0	1	Linux	1.0
+marry2012	12.0	5.0	2	PHP	0.5	HTML	0.25	MySQL	0.25
+rugun	10.0	5.0	5	Logo Design	0.33	Graphic Design	0.33	3D Animation	0.11	3D Rendering	0.11	3D Modelling	0.11
+vmontgomery	30.0	5.0	3	Proofreading	0.67	Copywriting	0.33
+vmontgomery	30.0	5.0	3	Proofreading	0.67	Copywriting	0.33
+bronzel	15.0	5.0	2	Graphic Design	0.4	Flyer Design	0.2	Website Design	0.2	Business Cards	0.2
+sanhez17	10.0	5.0	2	Wordpress	0.5	PHP	0.25	CSS	0.25
+praph	10.0	5.0	26	PHP	0.33	HTML	0.22	CSS	0.15	Wordpress	0.09	Website Design	0.07	Other Skills	0.13
+AureliusSt	10.0	5.0	5	Data Entry	0.5	Excel	0.4	Microsoft Access	0.1
+ninjaios	10.0	5.0	4	Java	0.29	jQuery / Prototype	0.14	MySQL	0.14	XML	0.14	Javascript	0.14	Other Skills	0.14
+dlcrebelo	23.0	4.3	3	Civil Engineering	0.33	Engineering	0.33	Electrical Engineering	0.33
+jobbidders	8.0	5.0	7	PHP	0.3	HTML	0.2	Wordpress	0.1	Linux	0.1	SEO	0.1	Other Skills	0.2
+noersoft	30.0	5.0	1	Magento	1.0
+ABSoftME	10.0	5.0	1	3D Animation	1.0
+zachchilders	17.0	5.0	2	Python	1.0
+grupo123	30.0	5.0	7	Joomla	0.5	PHP	0.33	Website Design	0.17
+BeRaf	80.0	5.0	2	PHP	0.33	HTML	0.33	Graphic Design	0.17	Website Design	0.17
+vw7967858vw	10.0	5.0	4	Photoshop	0.67	Graphic Design	0.33
+QUEENBDC	10.0	5.0	10	Internet Marketing	0.36	Facebook Marketing	0.18	Excel	0.09	SEO	0.09	Social Networking	0.09	Other Skills	0.18
+kayette	2.0	5.0	2	Audio Services	0.33	Virtual Assistant	0.33	Anything Goes	0.33
+denisCh	20.0	5.0	128	PHP	0.39	Translation	0.15	MySQL	0.11	Wordpress	0.1	Javascript	0.06	Other Skills	0.19
+alexandruci	20.0	5.0	1	Graphic Design	0.5	Banner Design	0.5
+stoske	10.0	4.0	1	Graphic Design	0.5	Logo Design	0.5
+kerrisg	20.0	4.8	37	C Programming	0.19	Mac OS	0.16	Cocoa	0.14	Objective C	0.13	Linux	0.1	Other Skills	0.29
+rblumenstein	25.0	5.0	1	3D Modelling	1.0
+Mohamedezz88	5.0	5.0	2	Translation	0.67	Arabic	0.33
+anisoftcorplx	15.0	4.6	30	PHP	0.35	Website Management	0.22	Javascript	0.08	XML	0.08	Java	0.06	Other Skills	0.22
+loki1	10.0	5.0	6	Data Processing	0.38	Data Entry	0.25	Excel	0.25	Data Mining	0.13
+jdsanders24	15.0	4.8	1	Visual Basic	0.5	.NET	0.5
+muazonline	45.0	5.0	1	Concept Design	0.33	Building Architecture	0.33	3D Rendering	0.33
+StefanManu	13.0	5.0	1	Graphic Design	1.0
+jamil2010	1.0	5.0	2	.NET	0.4	C# Programming	0.4	SQL	0.2
+AlamHosen	5.0	5.0	8	Data Entry	0.38	Internet Marketing	0.13	Excel	0.13	Data Processing	0.13	Virtual Assistant	0.13	Other Skills	0.13
+formina	15.0	4.9	42	Flash	0.37	Website Design	0.13	Graphic Design	0.08	Anything Goes	0.08	ActionScript	0.08	Other Skills	0.26
+bluelandb	15.0	5.0	1	Internet Marketing	0.5	SEM / Adwords	0.5
+rana60	50.0	5.0	3	Website Design	0.33	Graphic Design	0.17	Photoshop	0.17	Illustrator	0.17	Logo Design	0.17
+kiresamuel	10.0	5.0	1	HTML	0.5	Spanish	0.5
+dsnejko	35.0	5.0	1	Electronics	0.5	Microcontroller	0.5
+himanshujain0007	20.0	5.0	1	HTML	0.33	PHP	0.33	Website Design	0.33
+shahinakandbd	5.0	5.0	1	Photoshop	1.0
+himanshujain0007	20.0	5.0	1	HTML	0.33	PHP	0.33	Website Design	0.33
+shahinakandbd	5.0	5.0	1	Photoshop	1.0
+viv00	18.0	4.7	4	HTML	0.6	jQuery / Prototype	0.4
+dreamchandra	7.0	5.0	34	Data Entry	0.54	Data Processing	0.22	Excel	0.14	Web Search	0.04	Virtual Assistant	0.02	Other Skills	0.04
+amir2019	10.0	4.3	5	Link Building	0.3	Internet Marketing	0.3	SEO	0.3	Advertising	0.1
+xerobug	6.0	5.0	3	PHP	0.67	Java	0.33
+kgammons	20.0	5.0	3	HTML	0.25	PHP	0.25	Drupal	0.25	Wordpress	0.25
+mediasuds	10.0	5.0	3	Internet Marketing	0.33	SEO	0.17	CSS	0.17	HTML	0.17	Advertising	0.17
+ACardillo	75.0	5.0	15	Voice Talent	1.0
+bidhanbaral	8.0	5.0	3	MySQL	0.33	PHP	0.33	Wordpress	0.33
+mcholick	5.0	5.0	3	Translation	0.67	Internet Marketing	0.33
+sheratsuki	10.0	4.9	6	PHP	0.31	HTML	0.23	Wordpress	0.15	Database Administration	0.08	Software Architecture	0.08	Other Skills	0.15
+grimmdev	15.0	5.0	3	Unity 3D	0.43	iPad	0.14	Javascript	0.14	iPhone	0.14	C# Programming	0.14
+ADDILAB	25.0	5.0	13	Prestashop	0.3	Website Design	0.16	eCommerce	0.16	Shopping Carts	0.14	PHP	0.11	Other Skills	0.14
+cyphercodes24	18.0	5.0	3	PHP	0.5	Asterisk PBX	0.25	MySQL	0.25
+ninam557	2.0	5.0	3	Internet Marketing	0.33	Leads	0.17	Bulk Marketing	0.17	Marketing	0.17	Sales	0.17
+encodion	10.0	5.0	1	Flash	0.5	ActionScript	0.5
+djkerya	10.0	5.0	2	Linux	0.33	VoIP	0.17	UNIX	0.17	Asterisk PBX	0.17	Web Security	0.17
+emmavantaax	10.0	3.0	1	Illustration	0.33	Caricature &amp; Cartoons	0.33	Graphic Design	0.33
+harshalchaudhari	10.0	5.0	2	HTML	0.2	Graphic Design	0.2	PHP	0.2	Website Design	0.2	Moodle	0.1	Other Skills	0.1
+contractA	10.0	4.5	2	Graphic Design	0.5	Photoshop Design	0.5
+DvlaDz	20.0	4.0	1	Illustrator	1.0
+ohboyel	30.0	5.0	1	Metatrader	1.0
+Cleighhall	4.0	4.8	2	Articles	0.33	Article Rewriting	0.33	Copywriting	0.17	Editing	0.17
+ecilveks	20.0	5.0	8	Joomla	0.25	HTML	0.2	PHP	0.2	Website Design	0.2	CSS	0.1	Other Skills	0.05
+TimCodes4U	25.0	5.0	2	HTML	0.5	PHP	0.25	CSS	0.25
+vladislavzalesak	25.0	4.9	7	C# Programming	0.5	.NET	0.25	Android	0.13	Java	0.13
+stefaniaanutoiu	15.0	5.0	3	Articles	0.5	Article Rewriting	0.5
+Ortiga	10.0	5.0	4	Java	0.4	C++ Programming	0.4	C Programming	0.2
+EasierSolutions	30.0	5.0	4	Python	0.75	Linux	0.25
+mayankx	30.0	5.0	16	PHP	0.48	Website Design	0.19	Joomla	0.11	Flash	0.07	Shopping Carts	0.07	Other Skills	0.07
+megangair	14.0	5.0	1	Creative Design	0.2	Virtual Assistant	0.2	Logo Design	0.2	Illustration	0.2	Photoshop	0.2
+Yunas	40.0	4.8	36	Asterisk PBX	0.28	PHP	0.21	VoIP	0.18	MySQL	0.17	Linux	0.08	Other Skills	0.09
+makeshift27015	20.0	5.0	1	3D Modelling	1.0
+techsmithptyltd	25.0	5.0	2	HTML	0.33	PHP	0.33	Wordpress	0.33
+sarhad	2.0	4.4	11	Graphic Design	0.22	Photoshop	0.22	Illustrator	0.13	CSS	0.09	Illustration	0.09	Other Skills	0.26
+basicos	20.0	5.0	5	Software Architecture	0.25	C Programming	0.17	PHP	0.17	Visual Basic	0.17	HTML	0.08	Other Skills	0.17
+i444	19.0	5.0	3	Graphic Design	0.2	Corporate Identity	0.2	Website Design	0.2	Photoshop	0.2	Banner Design	0.2
+minhabk	5.0	5.0	2	Data Entry	0.5	Excel	0.5
+Gmatei	5.0	5.0	2	Data Entry	0.5	Internet Marketing	0.5
+modestasmockus	7.0	4.8	1	MySQL	1.0
+anonymed	20.0	4.8	28	PHP	0.23	Javascript	0.15	Software Architecture	0.13	C# Programming	0.09	Firefox	0.06	Other Skills	0.34
+Skyebug77	20.0	5.0	30	SEO	0.19	Internet Marketing	0.13	Articles	0.13	Link Building	0.11	Article Rewriting	0.07	Other Skills	0.38
+oroborus	10.0	5.0	1	3D Modelling	1.0
+shoiebarshad	25.0	5.0	1	System Admin	0.5	Windows Server	0.5
+ikram013	4.0	5.0	5	Data Entry	0.44	Excel	0.44	Data Processing	0.11
+Biobob	10.0	5.0	2	CSS	0.25	Website Design	0.25	Javascript	0.13	HTML	0.13	PHP	0.13	Other Skills	0.13
+jmoore00	20.0	5.0	3	PHP	0.4	Javascript	0.2	HTML5	0.2	C# Programming	0.2
+gamedesigner3d	10.0	5.0	2	Photoshop	0.14	Graphic Design	0.14	3ds Max	0.14	3D Rendering	0.14	Logo Design	0.14	Other Skills	0.29
+SkyhighBD1	5.0	5.0	3	Classifieds Posting	0.33	Leads	0.33	Internet Marketing	0.22	Data Entry	0.11
+MikeRRR	15.0	4.9	45	Linux	0.33	System Admin	0.18	Asterisk PBX	0.09	Apache	0.07	VoIP	0.07	Other Skills	0.27
+haxalicious	15.0	5.0	1	C++ Programming	1.0
+dreamst0ch	65.0	5.0	11	PHP	0.22	HTML	0.22	Website Design	0.19	Graphic Design	0.13	CSS	0.06	Other Skills	0.19
+StefanMoisac	25.0	5.0	2	Graphic Design	0.29	Logo Design	0.29	Brochure Design	0.14	T-Shirts	0.14	Business Cards	0.14
+w4web	10.0	5.0	168	HTML	0.22	Wordpress	0.22	PHP	0.2	Website Design	0.16	Graphic Design	0.09	Other Skills	0.11
+zwezdan	10.0	5.0	2	Graphic Design	0.4	Photoshop Design	0.2	T-Shirts	0.2	Photoshop	0.2
+seopedia	17.0	4.8	186	Internet Marketing	0.25	Marketing	0.21	SEO	0.19	Sales	0.13	Engineering	0.11	Other Skills	0.1
+ByronBayThreads	25.0	5.0	1	Reviews	1.0
+nstraub	40.0	5.0	1	Javascript	1.0
+point2pont	50.0	5.0	12	Voice Talent	0.52	Audio Services	0.43	Commercials	0.04
+feixiaolong	8.0	5.0	1	Matlab &amp; Mathematica	0.5	Robotics	0.5
+CraiglistExperts	10.0	5.0	42	Classifieds Posting	0.33	Internet Marketing	0.29	Data Entry	0.13	Advertising	0.08	Marketing	0.08	Other Skills	0.08
+Hiranyalp4	15.0	4.9	5	Javascript	0.23	jQuery / Prototype	0.15	PHP	0.15	HTML	0.15	HTML5	0.15	Other Skills	0.15
+akgallentes	7.0	5.0	1	Caricature &amp; Cartoons	0.5	Poster Design	0.5
+humayunsa	20.0	5.0	4	.NET	0.14	ASP	0.14	MySQL	0.07	Javascript	0.07	PHP	0.07	Other Skills	0.5
+alchenergy	10.0	5.0	2	Matlab &amp; Mathematica	0.67	Mechanical Engineering	0.33
+DesignTeam	5.0	3.3	5	Illustrator	0.36	Illustration	0.29	Caricature &amp; Cartoons	0.21	Logo Design	0.07	Game Design	0.07
+waqasalidogarUK	15.0	5.0	45	Graphic Design	0.76	Logo Design	0.24
+i3Dfreak	25.0	5.0	2	3D Rendering	0.33	3D Modelling	0.33	3D Design	0.17	3D Animation	0.17
+TheBrainwiz	20.0	5.0	4	Photoshop	0.25	Graphic Design	0.25	Illustrator	0.13	Logo Design	0.13	Audio Services	0.13	Other Skills	0.13
+GaryDrocella	35.0	4.8	1	PHP	0.5	MySQL	0.5
+hebathomas	20.0	5.0	2	Telemarketing	0.4	Marketing	0.2	Bulk Marketing	0.2	Internet Marketing	0.2
+swteam4	10.0	4.3	23	Java	0.41	Software Architecture	0.15	Javascript	0.09	.NET	0.06	SQL	0.06	Other Skills	0.24
+DeepanjanDatta	25.0	5.0	3	Articles	0.67	Electronics	0.33
+FreeLanceOlga	8.0	5.0	2	HTML	0.33	Travel Writing	0.33	PHP	0.33
+lionlines	6.0	5.0	1	Advertising	0.33	Internet Marketing	0.33	Sales	0.33
+PacketScaper	10.0	4.1	2	Academic Writing	0.33	Cisco	0.33	Telecommunications Engineering	0.33
+Goodmobile	38.0	5.0	4	Android	0.25	Mobile Phone	0.25	C Programming	0.17	iPhone	0.17	Java	0.17
+yevgry	15.0	5.0	1	MySQL	0.5	HTML	0.5
+DimitarOgnev	15.0	5.0	3	Photoshop	0.4	Photo Editing	0.2	Photoshop Design	0.2	3D Modelling	0.2
+leezasantos	8.0	3.8	1	Data Entry	0.5	Research	0.5
+ashishmasih	15.0	5.0	2	Microsoft Exchange	0.4	Microsoft	0.2	System Admin	0.2	HTML	0.2
+dejangolic	10.0	5.0	1	3ds Max	0.25	AutoCAD	0.25	3D Modelling	0.25	Interior Design	0.25
+ralexu94	15.0	5.0	3	PHP	0.33	HTML	0.11	Software Architecture	0.11	Graphic Design	0.11	CSS	0.11	Other Skills	0.22
+mtfox	40.0	5.0	1	Graphic Design	1.0
+brij2103	16.0	5.0	1	PHP	0.5	Software Architecture	0.5
+carlitosG	20.0	5.0	7	PHP	0.19	HTML	0.15	Magento	0.15	eCommerce	0.12	Website Design	0.12	Other Skills	0.27
+WarrEagle	40.0	5.0	4	VPS	0.17	Software Development	0.17	PHP	0.17	Troubleshooting	0.17	Linux	0.17	Other Skills	0.17
+issamelyazidi	10.0	5.0	2	CSS	0.5	PHP	0.25	HTML	0.25
+pixelnpixel	10.0	4.6	2	HTML	0.33	Website Design	0.33	Graphic Design	0.33
+mikelynt	8.0	4.8	25	Logo Design	0.25	Graphic Design	0.24	Photoshop	0.14	Illustration	0.08	Website Design	0.06	Other Skills	0.22
+bmuur	35.0	5.0	1	Photoshop	0.33	Graphic Design	0.33	Logo Design	0.33
+zzeedscaps	6.0	5.0	2	3D Rendering	1.0
+FayP55	20.0	5.0	2	Wordpress	1.0
+Luzdubos	10.0	4.8	1	Graphic Design	1.0
+travelagent	10.0	5.0	24	SEO	0.46	Link Building	0.29	Internet Marketing	0.17	Data Entry	0.09
+jensen73135	10.0	4.4	1	Blog	0.5	Articles	0.5
+pavleska	20.0	4.7	5	Powerpoint	0.2	Report Writing	0.2	Editing	0.2	PDF	0.1	Graphic Design	0.1	Other Skills	0.2
+ladyictus	10.0	5.0	1	Ghostwriting	0.5	Articles	0.5
+JGiles3D	20.0	4.2	1	3D Animation	0.33	Animation	0.33	Maya	0.33
+webdinasty	10.0	5.0	1	SEO	0.5	Joomla	0.5
+ladiemay29	3.0	5.0	2	Blog	0.5	Articles	0.5
+riccardonicolai	25.0	5.0	1	Data Entry	1.0
+one1990	5.0	5.0	1	Reviews	0.25	Copywriting	0.25	Article Rewriting	0.25	Articles	0.25
+vysakhr1982	25.0	5.0	1	Android	1.0
+opie71	20.0	5.0	1	PHP	0.5	SQL	0.5
+AlfredFrancis	14.0	5.0	1	Android	1.0
+JinGe61	25.0	5.0	1	iPad	0.33	Mobile Phone	0.33	iPhone	0.33
+OneidaRob	35.0	5.0	1	Amazon Web Services	0.33	XML	0.33	Software Architecture	0.33
+acovicfx	20.0	5.0	2	Photoshop	0.4	After Effects	0.2	Illustrator	0.2	Animation	0.2
+thesocialboost	10.0	5.0	1	Linux	1.0
+luxeave	20.0	5.0	2	Metatrader	1.0
+andy256	10.0	5.0	3	Facebook Marketing	1.0
+whosham	10.0	5.0	2	System Admin	0.25	Database Administration	0.25	Shell Script	0.25	Red Hat	0.25
+whosham	10.0	5.0	2	System Admin	0.25	Database Administration	0.25	Shell Script	0.25	Red Hat	0.25
+indofxlancer	15.0	5.0	1	Metatrader	1.0
+laurogago	7.0	5.0	2	PHP	0.4	Javascript	0.4	MySQL	0.2
+ohadglaich	10.0	5.0	1	Perl	0.5	Linux	0.5
+v4zer	10.0	5.0	1	C# Programming	0.33	C Programming	0.33	Delphi	0.33
+tekexpert	5.0	5.0	13	PDF	0.75	Editing	0.13	Graphic Design	0.06	Javascript	0.06
+bogdanpeschir	8.0	5.0	1	Python	0.5	Software Architecture	0.5
+arabSquad	10.0	5.0	14	Website Design	0.38	Graphic Design	0.29	Wordpress	0.14	Photoshop Design	0.05	Photoshop	0.05	Other Skills	0.1
+magicfox44	10.0	5.0	4	Email Marketing	0.57	Bulk Marketing	0.43
+workscheduled	12.0	5.0	1	Academic Writing	0.25	Marketing	0.25	Business Analysis	0.25	Business Plans	0.25
+magicfox44	10.0	5.0	4	Email Marketing	0.57	Bulk Marketing	0.43
+workscheduled	12.0	5.0	1	Academic Writing	0.25	Marketing	0.25	Business Analysis	0.25	Business Plans	0.25
+rowens2004	19.0	5.0	1	Data Entry	0.5	Word	0.5
+AdobeDesigneer	10.0	5.0	4	Photoshop	0.36	Graphic Design	0.18	Illustrator	0.18	Photo Editing	0.18	Templates	0.09
+Romka	25.0	4.7	17	System Admin	0.32	Linux	0.29	PHP	0.18	Data Processing	0.07	Script Install	0.07	Other Skills	0.07
+khaledjk	10.0	4.5	3	HTML	0.29	PHP	0.29	CSS	0.29	HTML5	0.14
+hellouniverse	15.0	5.0	3	HTML	0.33	PHP	0.33	Apache	0.33
+asadrana91	15.0	4.9	3	Java	1.0
+kusanovich	12.0	4.9	9	Articles	0.4	Article Rewriting	0.2	Virtual Assistant	0.07	Ghostwriting	0.07	Proofreading	0.07	Other Skills	0.2
+tanzim001	3.33	5.0	7	YouTube	0.23	Facebook Marketing	0.23	Social Networking	0.23	Twitter	0.15	Internet Marketing	0.15
+mdmomenin	10.0	1.1	4	3D Rendering	0.2	Wordpress	0.2	PHP	0.2	HTML	0.2	Website Design	0.2
+chang85	30.0	4.9	4	Animation	0.36	After Effects	0.18	3D Animation	0.18	Graphic Design	0.09	Video Services	0.09	Other Skills	0.09
+CBDerrick	15.0	4.3	2	After Effects	0.33	Editing	0.33	Format &amp; Layout	0.33
+nomi007	12.0	5.0	21	Wordpress	0.29	HTML	0.26	PHP	0.19	Website Design	0.14	Graphic Design	0.07	Other Skills	0.05
+mezbaa	7.0	3.8	2	Marketing	0.25	Internet Marketing	0.25	Data Entry	0.25	Social Networking	0.25
+rohitsinha22	30.0	5.0	1	Wordpress	0.25	PHP	0.25	HTML	0.25	Website Design	0.25
+gastoncs4	30.0	4.0	1	Animation	1.0
+ganeshraje	15.0	4.6	1	MySQL	0.33	ASP	0.33	.NET	0.33
+yadavom1990	10.0	4.4	3	Mechanical Engineering	0.4	AutoCAD	0.2	CAD/CAM	0.2	Matlab &amp; Mathematica	0.2
+Mayday2011	9.0	5.0	1	Excel	1.0
+Mayday2011	9.0	5.0	1	Excel	1.0
+dayondonjunrie22	5.0	5.0	1	Web Search	0.33	Data Entry	0.33	Web Scraping	0.33
+nbowles1993	6.0	5.0	2	Data Entry	0.33	Testing / QA	0.17	Data Processing	0.17	Game Design	0.17	Copy Typing	0.17
+vyastik	20.0	5.0	2	Research	0.5	Web Search	0.5
+FelixCosma	10.0	5.0	1	jQuery / Prototype	0.33	CSS	0.33	HTML	0.33
+NLCPakistan	10.0	5.0	1	Joomla	1.0
+xlab	90.0	5.0	1	Wordpress	1.0
+trzmiel	50.0	5.0	3	3D Animation	0.25	Animation	0.25	Flash	0.25	Graphic Design	0.13	After Effects	0.13
+sagarphp	10.0	4.9	36	PHP	0.32	MySQL	0.25	Website Management	0.19	Joomla	0.09	Javascript	0.05	Other Skills	0.09
+unsasalman	10.0	5.0	4	Academic Writing	0.31	Report Writing	0.15	English (US)	0.08	Business Plans	0.08	Research	0.08	Other Skills	0.31
+AngraMainyu	12.0	5.0	1	Data Processing	0.5	MySQL	0.5
+prissyandchunie	15.0	4.9	30	HTML	0.32	Website Design	0.25	CSS	0.23	Javascript	0.08	jQuery / Prototype	0.03	Other Skills	0.09
+delmargraviato	14.0	5.0	1	PHP	0.5	Wordpress	0.5
+devsanghvi	8.0	5.0	7	Facebook Marketing	0.25	PHP	0.25	Virtual Assistant	0.25	Anything Goes	0.25
+fnorbika	6.0	5.0	1	Wordpress	1.0
+vios	50.0	5.0	21	PHP	0.3	HTML	0.19	Website Design	0.09	HTML5	0.07	MySQL	0.07	Other Skills	0.28
+macielbarraza	6.0	5.0	1	Transcription	1.0
+Cfurku	15.0	4.9	6	PHP	0.43	MySQL	0.21	Software Architecture	0.14	Website Design	0.07	Javascript	0.07	Other Skills	0.07
+ozozguc	20.0	5.0	1	HTML	0.33	Flash	0.33	Website Design	0.33
+ozozguc	20.0	5.0	1	HTML	0.33	Flash	0.33	Website Design	0.33
+muzahidnrl	20.0	5.0	1	HTML	0.25	PHP	0.25	Web Hosting	0.25	Wordpress	0.25
+sokkasystem	10.0	5.0	1	MySQL	0.5	Database Administration	0.5
+likhonbd2012	3.0	5.0	4	Marketing	0.6	Photoshop	0.2	Social Networking	0.2
+Jahed76	5.0	5.0	3	Facebook Marketing	0.21	Social Networking	0.21	Internet Marketing	0.21	Twitter	0.21	YouTube	0.07	Other Skills	0.07
+Mechatronics2	20.0	5.0	2	Engineering Drawing	0.2	Electrical Engineering	0.2	Engineering	0.2	GPS	0.2	Mechanical Engineering	0.2
+kumarseoexpert	5.0	4.7	4	SEO	0.3	Link Building	0.3	Internet Marketing	0.2	Human Resources	0.1	Recruitment	0.1
+Talhaaa	7.0	4.8	17	Matlab &amp; Mathematica	0.29	Engineering	0.13	Electronics	0.13	Mathematics	0.1	Electrical Engineering	0.08	Other Skills	0.27
+junior100507	10.0	5.0	1	C Programming	1.0
+DanTheGrfxMan	35.0	4.2	1	Photoshop Design	0.33	Graphic Design	0.33	Photoshop	0.33
+saifutera	3.0	5.0	1	3D Modelling	0.33	3D Rendering	0.33	3ds Max	0.33
+donjuanin	25.0	5.0	2	Python	1.0
+kantisangma	6.0	5.0	10	Graphic Design	0.41	Banner Design	0.27	Photoshop	0.14	Logo Design	0.09	Illustrator	0.05	Other Skills	0.05
+BenazirBhagad	25.0	5.0	1	Hindi	1.0
+Vicocyt	10.0	4.8	2	Interior Design	0.2	3D Rendering	0.2	AutoCAD	0.2	3ds Max	0.2	3D Modelling	0.2
+Shavell21	4.0	5.0	1	Data Processing	0.5	Data Entry	0.5
+dineshajar	2.0	5.0	1	Internet Marketing	0.5	Data Entry	0.5
+MrDEEB	5.0	5.0	1	Video Services	0.5	After Effects	0.5
+maxaxis	10.0	5.0	1	Web Scraping	1.0
+spkelly16967	35.0	5.0	1	Advertising	1.0
+Aswathi1	20.0	4.6	3	Internet Marketing	0.29	Advertising	0.14	YouTube	0.14	Leads	0.14	Google Plus	0.14	Other Skills	0.14
+moodiedude	5.0	4.8	3	PHP	0.4	MySQL	0.2	HTML	0.2	Linux	0.2
+roselle0712	3.0	5.0	4	Data Entry	0.27	Copy Typing	0.27	Excel	0.27	Data Processing	0.09	Word	0.09
+Zeldaze	25.0	4.9	146	PHP	0.37	OSCommerce	0.11	Shopping Carts	0.09	Joomla	0.07	AJAX	0.05	Other Skills	0.31
+faizigenius	15.0	4.6	53	Graphic Design	0.2	Photoshop	0.1	Illustrator	0.09	Flash	0.09	Animation	0.07	Other Skills	0.44
+happycharle	3.0	5.0	2	Research	1.0
+artyombolshakov	12.0	5.0	1	Articles	0.25	Copywriting	0.25	Russian	0.25	Translation	0.25
+MazayaIT	14.0	5.0	2	Linux	0.67	PHP	0.33
+cazabala	16.0	3.8	4	Android	0.67	Video Services	0.33
+maurojosipovic	5.0	5.0	1	PHP	1.0
+tarik1991	8.0	4.0	1	Articles	0.25	Proofreading	0.25	French	0.25	Editing	0.25
+PurpleWriter	20.0	3.6	1	Creative Writing	0.25	Marketing	0.25	Catch Phrases	0.25	Slogans	0.25
+glassonic	40.0	5.0	1	MySQL	0.2	Wordpress	0.2	PHP	0.2	Software Architecture	0.2	SEO	0.2
+amengual	13.0	5.0	1	Translation	1.0
+hoprocker	18.0	5.0	1	Python	1.0
+rajafaizan	15.0	5.0	4	Excel	0.27	Data Entry	0.18	Word	0.18	Microsoft Access	0.09	PDF	0.09	Other Skills	0.18
+domsob1974	3.0	5.0	8	Articles	0.58	Article Rewriting	0.17	Academic Writing	0.17	Reviews	0.08
+trijulio	20.0	5.0	2	PHP	0.5	Facebook Marketing	0.5
+Aldarund	35.0	5.0	44	PHP	0.16	MySQL	0.14	Software Testing	0.14	Software Architecture	0.14	Web Hosting	0.12	Other Skills	0.3
+saravani20	17.0	4.2	19	MySQL	0.38	Ruby on Rails	0.26	Linux	0.15	Amazon Web Services	0.12	Javascript	0.06	Other Skills	0.03
+arafatantu777	5.0	5.0	9	Facebook Marketing	0.67	Web Search	0.17	Twitter	0.17
+twoeight	15.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+dclary2008	18.0	5.0	4	Graphic Design	0.6	Powerpoint	0.2	Photoshop	0.2
+egoisticum	15.0	4.9	2	CSS	0.33	.NET	0.33	HTML	0.33
+czrain	25.0	4.0	1	UNIX	0.33	System Admin	0.33	Linux	0.33
+Oliva90	30.0	4.9	73	Copywriting	0.41	Articles	0.22	Ghostwriting	0.09	Blog	0.08	Article Rewriting	0.04	Other Skills	0.16
+karachipages	10.0	5.0	1	Articles	0.33	Copywriting	0.33	Data Entry	0.33
+rantistic	12.0	4.9	7	Graphic Design	0.35	Photoshop	0.24	Illustrator	0.12	Stationery Design	0.06	Fashion Design	0.06	Other Skills	0.18
+Aleksandrdev	20.0	5.0	1	PHP	0.5	HTML	0.5
+WebCrows	10.0	5.0	1	MySQL	0.33	PHP	0.33	Linux	0.33
+litonstk79	5.0	4.9	4	Graphic Design	0.33	Facebook Marketing	0.17	Photoshop	0.17	Illustrator	0.17	Data Entry	0.17
+sipo	15.0	5.0	5	Web Scraping	1.0
+harendersingh	3.5	4.9	9	Web Search	0.19	Data Entry	0.19	Advertising	0.1	Internet Marketing	0.1	Virtual Assistant	0.1	Other Skills	0.33
+charmw	10.0	4.9	6	Software Testing	0.12	Software Architecture	0.12	PHP	0.12	MySQL	0.12	Excel	0.09	Other Skills	0.44
+radhika2210	5.0	5.0	2	Data Entry	1.0
+MeganGibbs	12.0	4.2	1	Academic Writing	1.0
+SNSNational	175.0	5.0	1	MySQL	1.0
+ApperioMedia	20.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+robertofalco	7.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+robertbanks	10.0	5.0	2	Photoshop	0.5	Photo Editing	0.25	Graphic Design	0.25
+genieweb	30.0	5.0	1	French	1.0
+fboaventura	25.0	4.8	1	Linux	0.25	PHP	0.25	Shell Script	0.25	System Admin	0.25
+Hussein90	8.0	5.0	3	Wordpress	0.22	Facebook Marketing	0.11	Data Entry	0.11	Web Hosting	0.11	PHP	0.11	Other Skills	0.33
+shef91	25.0	5.0	2	Software Architecture	0.5	PHP	0.25	Delphi	0.25
+leolove110	2.0	5.0	6	VoIP	0.18	Cisco	0.18	Customer Support	0.09	Asterisk PBX	0.09	Linux	0.09	Other Skills	0.36
+OFFLOAD4U	12.0	4.4	1	Excel	0.5	Microsoft Access	0.5
+justbrainatwork	20.0	5.0	2	Anything Goes	0.2	Reviews	0.2	Blog	0.2	Article Rewriting	0.2	Articles	0.2
+ekane2013	15.0	5.0	3	Academic Writing	0.4	Copywriting	0.2	Articles	0.2	Translation	0.2
+jladek	20.0	4.9	6	HTML	0.21	PHP	0.21	MySQL	0.14	Internet Marketing	0.14	Website Design	0.14	Other Skills	0.14
+X4S	5.0	4.8	2	.NET	0.67	C# Programming	0.33
+poporetto	40.0	3.2	1	Graphic Design	1.0
+samthemanlier	9.0	5.0	1	Editing	0.25	Copywriting	0.25	Article Rewriting	0.25	Proofreading	0.25
+gayathrisk	5.0	5.0	1	Facebook Marketing	1.0
+gaborlowy	30.0	5.0	1	Videography	1.0
+vw7902896vw	22.0	2.3	2	Visual Basic for Apps	0.5	PHP	0.5
+nasirzoom	3.0	5.0	2	Data Entry	1.0
+CubexSoftware	15.0	5.0	2	C++ Programming	0.33	PHP	0.33	C# Programming	0.33
+dapeetn	35.0	5.0	3	Translation	0.67	Dutch	0.33
+CruzGallegos17	8.0	5.0	2	Bulk Marketing	0.5	Web Scraping	0.5
+junyao	250.0	2.4	1	HTML	0.2	Logo Design	0.2	PHP	0.2	Zend	0.2	Graphic Design	0.2
+jan222jan	8.0	4.6	2	Articles	0.5	Article Rewriting	0.5
+valentinbereanda	5.0	4.2	1	Photoshop	1.0
+biswanathpanda1	5.0	4.6	2	Article Rewriting	0.33	Technical Writing	0.33	Articles	0.33
+sken	30.0	5.0	2	PHP	0.5	HTML	0.5
+ancy22	15.0	5.0	1	Articles	0.25	Blog	0.25	Article Rewriting	0.25	Ghostwriting	0.25
+XFastSolution	10.0	5.0	2	Javascript	0.33	C# Programming	0.17	Perl	0.17	Python	0.17	Java	0.17
+computingjobs	8.0	5.0	1	Article Rewriting	0.33	Blog	0.33	Articles	0.33
+adityabugalia	3.0	6.6	3	Article Rewriting	0.33	Copywriting	0.33	Articles	0.33
+malik0321	10.0	4.9	17	PHP	0.28	HTML	0.24	Wordpress	0.16	Facebook Marketing	0.12	Joomla	0.08	Other Skills	0.12
+onlyalaa	5.0	5.0	4	.NET	0.5	C# Programming	0.5
+romphp	8.0	4.8	25	Graphic Design	0.36	Logo Design	0.2	Illustrator	0.14	Illustration	0.05	Flyer Design	0.05	Other Skills	0.2
+pzduniak	30.0	4.7	3	Linux	0.67	Python	0.33
+NanoTitanium	15.0	3.5	3	Linux	0.75	Python	0.25
+StanleyV2	5.0	5.0	8	Graphic Design	0.42	Logo Design	0.42	Photoshop	0.16
+linuxsysconfig	10.0	5.0	1	Apache	0.33	Script Install	0.33	System Admin	0.33
+maratziur	15.0	5.0	1	Proofreading	1.0
+mkhasawneh	15.0	4.2	1	Data Processing	1.0
+mahmoudmagdyy	13.0	5.0	1	Ad Planning &amp; Buying	0.33	SEM / Adwords	0.33	Advertising	0.33
+oceanmoon	20.0	5.0	1	Translation	1.0
+samitha98	5.0	5.0	2	Photoshop	0.33	Graphic Design	0.33	Logo Design	0.33
+testEmail	20.0	5.0	6	Academic Writing	0.2	Graphic Design	0.2	Blog	0.1	HTML5	0.1	Translation	0.1	Other Skills	0.3
+netsolve	15.0	4.8	366	PHP	0.52	Shopping Carts	0.13	OSCommerce	0.09	Website Design	0.08	eCommerce	0.04	Other Skills	0.14
+guyme	50.0	5.0	10	System Admin	0.64	Windows Desktop	0.36
+uranus01jamal	9.0	5.0	8	HTML	0.23	Website Design	0.15	CSS	0.15	Joomla	0.12	PSD to HTML	0.08	Other Skills	0.27
+addieprince	13.0	5.0	4	Copywriting	0.5	Proofreading	0.5
+bryanbb	5.0	5.0	2	Articles	0.4	Article Rewriting	0.4	Reviews	0.2
+attilakristo	55.0	5.0	1	Animation	0.25	Video Services	0.25	3ds Max	0.25	3D Rendering	0.25
+SwedenSolutions	14.0	5.0	2	Logo Design	1.0
+snakegi	10.0	5.0	1	PCB Layout	1.0
+Spanic06	18.0	5.0	1	Data Entry	0.5	Customer Support	0.5
+stn50431	20.0	5.0	12	Graphic Design	0.29	Photoshop	0.21	Website Design	0.21	PHP	0.14	HTML	0.07	Other Skills	0.07
+pydev	8.0	5.0	1	PHP	1.0
+AnnaArch	15.0	5.0	1	Google SketchUp	1.0
+doruoct	20.0	5.0	1	Software Testing	0.09	.NET	0.09	Javascript	0.09	PHP	0.09	Website Management	0.09	Other Skills	0.55
+getstartedvw	20.0	4.7	15	Software Testing	1.0
+jvbglobe2	95.0	5.0	1	Research	1.0
+CMSG	11.0	5.0	1	Data Processing	0.5	Telemarketing	0.5
+SGKMMS	25.0	5.0	3	Logo Design	0.33	Website Design	0.33	Graphic Design	0.33
+SinanDira	5.0	5.0	2	Translation	0.33	Proofreading	0.33	Blog	0.33
+SAffan2009	5.0	5.0	2	Data Entry	1.0
+giuliacantarella	10.0	5.0	2	Translation	1.0
+Terry1952	25.0	5.0	1	AutoCAD	0.33	Engineering	0.33	CAD/CAM	0.33
+Matt4822	25.0	5.0	1	Graphic Design	0.5	Animation	0.5
+razvancmr	20.0	5.0	5	Flash	0.5	Graphic Design	0.5
+Qalsoft	11.0	4.9	6	Video Services	0.67	Videography	0.33
+webselfemp	3.0	4.8	1	AJAX	0.25	PHP	0.25	HTML	0.25	Javascript	0.25
+LynkBox	14.0	3.9	5	PHP	0.71	Project Management	0.14	Windows Desktop	0.14
+MagicRabbit	45.0	5.0	19	Arts &amp; Crafts	0.36	Graphic Design	0.32	Photoshop	0.12	Logo Design	0.08	Audio Services	0.04	Other Skills	0.08
+indracorp	10.0	5.0	3	Visual Arts	0.67	Logo Design	0.33
+indracorp	10.0	5.0	3	Visual Arts	0.67	Logo Design	0.33
+deepika1102	10.0	0.0	1	Data Entry	1.0
+mirosvecdesign	10.0	5.0	2	Graphic Design	0.5	Logo Design	0.5
+capstone	13.0	5.0	4	Data Entry	1.0
+Kindland	30.0	5.0	2	Icon Design	0.17	Graphic Design	0.17	Photoshop	0.17	Advertisement Design	0.17	Logo Design	0.17	Other Skills	0.17
+accessideas	10.0	4.9	2	Amazon Kindle	0.67	eBooks	0.33
+aaasssddd	10.0	5.0	1	Article Rewriting	0.33	Articles	0.33	Academic Writing	0.33
+enetsystems	20.0	5.0	3	Graphic Design	0.25	Articles	0.25	HTML	0.25	PHP	0.25
+ITVeda	25.0	5.0	1	HTML	0.33	PHP	0.33	Graphic Design	0.33
+cjuliao	25.0	5.0	10	Animation	0.33	After Effects	0.13	Video Services	0.13	Video Broadcasting	0.07	Flash	0.07	Other Skills	0.27
+cjuliao	25.0	5.0	10	Animation	0.33	After Effects	0.13	Video Services	0.13	Video Broadcasting	0.07	Flash	0.07	Other Skills	0.27
+thealchemist21	25.0	4.6	5	Academic Writing	0.42	Report Writing	0.17	Research	0.17	Technical Writing	0.08	Book Writing	0.08	Other Skills	0.08
+Web4life	15.0	5.0	1	eCommerce	0.25	Website Design	0.25	HTML	0.25	Shopping Carts	0.25
+mmzbr	25.0	4.9	4	iPhone	0.36	Android	0.27	Mobile Phone	0.18	Game Design	0.09	iPad	0.09
+logocreater	10.0	5.0	2	Logo Design	1.0
+janicewatson49	40.0	4.6	4	Graphic Design	0.4	Logo Design	0.2	Corporate Identity	0.1	Business Cards	0.1	Illustrator	0.1	Other Skills	0.1
+Gangwani	15.0	5.0	3	Technical Writing	0.5	Editing	0.33	Project Management	0.17
+myDesignFactory	8.0	5.0	1	Website Design	1.0
+georgepetre	5.0	2.6	3	Prestashop	0.33	Photoshop	0.33	PSD to HTML	0.33
+marijakovic	5.0	5.0	1	Serbian	1.0
+flosee	50.0	5.0	2	eCommerce	0.2	SEO	0.2	CRE Loaded	0.2	Marketing	0.2	Internet Marketing	0.2
+immense1	10.0	5.0	6	Classifieds Posting	0.25	Data Entry	0.17	Data Processing	0.17	Marketing	0.08	Excel	0.08	Other Skills	0.25
+jagrutk	5.0	3.6	1	Mac OS	1.0
+webcoderteam	6.0	5.0	2	Website Design	0.25	PHP	0.25	Joomla	0.25	Wordpress	0.25
+eradaec	25.0	5.0	31	Software Architecture	0.16	Software Testing	0.16	MySQL	0.14	Website Management	0.09	Website Testing	0.09	Other Skills	0.37
+kimo37	12.0	5.0	34	Logo Design	0.38	CSS	0.22	Graphic Design	0.2	Illustration	0.09	Print	0.07	Other Skills	0.04
+zeuner	80.0	5.0	24	PHP	0.28	C Programming	0.16	Linux	0.16	Perl	0.12	Data Processing	0.05	Other Skills	0.23
+viceinternet	999.0	5.0	4	Copywriting	1.0
+ovinobo	25.0	4.9	14	PHP	0.24	AJAX	0.18	Javascript	0.18	Twitter	0.12	Website Design	0.09	Other Skills	0.21
+anylinuxwork	12.0	5.0	7	PHP	0.5	Link Building	0.13	Linux	0.13	AJAX	0.13	Shopping Carts	0.13
+anylinuxwork	12.0	5.0	7	PHP	0.5	Link Building	0.13	Linux	0.13	AJAX	0.13	Shopping Carts	0.13
+challengehunters	10.0	3.7	39	PHP	0.34	Project Management	0.28	Script Install	0.07	.NET	0.07	Windows Desktop	0.05	Other Skills	0.2
+onubhuti	10.0	4.6	12	Data Entry	0.46	Internet Marketing	0.23	Marketing	0.08	Advertising	0.08	Excel	0.08	Other Skills	0.08
+jahangirnism	10.0	4.0	1	Business Analysis	0.33	Accounting	0.33	Excel	0.33
+magicallyinsane	15.0	5.0	1	Computer Graphics	1.0
+mayankksharma	3.0	5.0	1	Data Entry	0.5	Excel	0.5
+calseo	10.0	4.6	1	Link Building	1.0
+asselsolutions	5.0	4.8	66	Software Testing	0.13	PHP	0.13	MySQL	0.13	Software Architecture	0.13	Engineering	0.12	Other Skills	0.36
+Sammy98	20.0	5.0	2	Logo Design	0.67	Photoshop	0.33
+sapram	10.0	4.9	7	Copywriting	0.88	Website Design	0.13
+MalcomMax	8.0	5.0	26	Video Services	1.0
+jarcinfotech	10.0	4.5	9	PHP	0.22	MySQL	0.13	AJAX	0.09	HTML	0.09	Paypal API	0.04	Other Skills	0.43
+Novarg	25.0	5.0	34	Joomla	0.27	PHP	0.25	Website Design	0.16	Javascript	0.07	XML	0.07	Other Skills	0.18
+ahbjee	11.0	4.7	6	Data Entry	0.36	Data Processing	0.27	Excel	0.27	BPO	0.09
+dedicatedfreelan	4.0	4.4	12	Data Entry	0.2	Excel	0.17	Research	0.13	Web Search	0.13	Web Scraping	0.1	Other Skills	0.27
+rahmanfp	10.0	5.0	5	Internet Marketing	0.8	Marketing	0.2
+OhMyCode	25.0	4.9	24	Software Architecture	0.46	PHP	0.28	MySQL	0.2	Javascript	0.04	Script Install	0.02
+sray10	9.0	4.4	2	Website Design	0.25	Graphic Design	0.25	Logo Design	0.13	Photoshop	0.13	HTML	0.13	Other Skills	0.13
+cloudlancer	30.0	5.0	4	Javascript	0.43	PHP	0.29	AJAX	0.14	jQuery / Prototype	0.14
+JAyHeavens	8.0	5.0	1	Illustration	0.25	Logo Design	0.25	Caricature &amp; Cartoons	0.25	Illustrator	0.25
+matinfazli	10.0	5.0	1	Business Cards	0.33	Graphic Design	0.33	Stationery Design	0.33
+clmrogers	60.0	0.0	1	Blog	0.25	Data Entry	0.25	Articles	0.25	Proofreading	0.25
+bender	15.0	4.9	82	Flash	0.41	Website Management	0.35	Photoshop	0.06	XML	0.04	CSS	0.03	Other Skills	0.11
+miabulhassan	15.0	5.0	5	Graphic Design	0.27	Flash	0.27	Website Design	0.27	Logo Design	0.18
+aig	12.0	5.0	6	PHP	0.38	Website Design	0.25	Project Management	0.13	Internet Marketing	0.13	Copywriting	0.13
+coreweb1	50.0	5.0	5	Website Design	1.0
+Utech	5.0	4.9	358	SEO	0.54	Link Building	0.46
+Lana383	12.0	5.0	1	Article Rewriting	1.0
+softengineer2006	15.0	5.0	1	Website Management	0.33	Software Architecture	0.33	Software Testing	0.33
+webmento	10.0	5.0	6	PHP	0.25	Logo Design	0.25	Flash	0.17	Website Design	0.17	Banner Design	0.08	Other Skills	0.08
+Sulpher	30.0	5.0	1	PHP	0.5	Joomla	0.5
+Cherry26	10.0	5.0	34	Photoshop	0.24	Graphic Design	0.2	Logo Design	0.18	Banner Design	0.12	Illustrator	0.1	Other Skills	0.16
+TalentDesigners	10.0	5.0	1	Photoshop	0.5	Illustrator	0.5
+Frech54	15.0	5.0	3	Articles	0.33	Ghostwriting	0.17	Proofreading	0.17	Blog	0.17	Editing	0.17
+HumairCSE	15.0	4.4	1	Logo Design	0.55	Graphic Design	0.45
+JoGraphicDesign	65.0	5.0	1	Logo Design	0.57	Graphic Design	0.43
+droptechnolab	12.0	5.0	1	Zen Cart	0.33	PHP	0.33	eCommerce	0.33
+moizk	8.0	5.0	6	Video Services	0.5	Videography	0.5
+insidestat	25.0	5.0	30	Software Architecture	0.26	Engineering	0.26	Microsoft Access	0.15	Web Hosting	0.06	Excel	0.05	Other Skills	0.22
+petracompany	10.0	0.0	1	Graphic Design	0.5	Banner Design	0.5
+barsikestribu	15.0	5.0	1	Caricature &amp; Cartoons	0.33	Typography	0.33	Illustration	0.33
+num1coder	35.0	4.7	6	PHP	0.3	Graphic Design	0.2	HTML	0.1	Logo Design	0.1	Marketing	0.1	Other Skills	0.2
+arifullancer	10.0	5.0	1	Website Design	1.0
+analyst133	5.0	4.8	138	Data Entry	0.74	Website Design	0.09	Graphic Design	0.05	PHP	0.05	Logo Design	0.03	Other Skills	0.04
+FilipRadenovski	10.0	5.0	3	Graphic Design	0.5	InDesign	0.33	Banner Design	0.17
+Mediamaniac	20.0	5.0	1	Game Design	0.5	3D Rendering	0.5
+qualitywebsol	12.0	4.4	3	Link Building	0.38	SEO	0.25	Internet Marketing	0.25	Data Entry	0.13
+OrionConsulting	45.0	4.9	9	Windows Desktop	0.3	Visual Basic	0.3	.NET	0.13	SQL	0.13	Database Administration	0.09	Other Skills	0.04
+vertex12	10.0	4.9	16	Classifieds Posting	0.3	Internet Marketing	0.2	Leads	0.17	Advertising	0.13	Marketing	0.1	Other Skills	0.1
+GarethJones	65.0	5.0	1	PHP	0.5	Flash	0.5
+umairrazzaq	12.0	3.8	4	Wordpress	0.25	PHP	0.25	HTML	0.25	Website Design	0.25
+ITcomSRL	10.0	5.0	2	PHP	0.29	HTML	0.29	Website Design	0.29	Joomla	0.14
+kristopherdaia	40.0	0.0	1	Photo Editing	0.33	Graphic Design	0.33	Logo Design	0.33
+TechieMae	50.0	5.0	1	.NET	0.5	AJAX	0.5
+dinamicweb	66.0	4.4	1	Internet Marketing	0.5	Advertising	0.5
+mist2drizle	10.0	3.9	7	Data Entry	1.0
+greyowl54	50.0	5.0	7	Voice Talent	0.14	Anything Goes	0.08	Arts &amp; Crafts	0.08	Video Services	0.08	Pre-production	0.08	Other Skills	0.55
+wpelite	20.0	0.0	1	MySQL	1.0
+dhruv19280	20.0	5.0	2	Engineering	0.5	Sales	0.25	Project Management	0.25
+darkoloncar	8.0	5.0	18	PHP	0.18	Software Testing	0.16	MySQL	0.16	Software Architecture	0.16	Anything Goes	0.09	Other Skills	0.25
+ygeproenza	5.0	4.8	9	Spanish	0.23	Word	0.15	Transcription	0.15	English (US)	0.08	Translation	0.08	Other Skills	0.31
+djkkak	175.0	5.0	2	SEO	0.5	Link Building	0.5
+karamoko	20.0	5.0	2	Java	1.0
+infocular	10.0	3.8	43	MySQL	0.45	PHP	0.43	CSS	0.1	Graphic Design	0.02
+Quarrel	600.0	5.0	1	PHP	0.5	C Programming	0.5
+rwijaya	12.0	5.0	14	Graphic Design	0.24	Illustrator	0.15	InDesign	0.07	Photoshop	0.07	Logo Design	0.07	Other Skills	0.39
+falconeyas	10.0	4.0	1	Articles	0.33	Copywriting	0.33	Ghostwriting	0.33
+webmobi	5.0	5.0	1	Video Broadcasting	0.33	Linux	0.33	Video Services	0.33
+xhzad	6.0	4.4	3	Graphic Design	0.75	Logo Design	0.25
+codenamevvw	50.0	4.8	51	PHP	0.38	Website Management	0.21	ASP	0.13	.NET	0.1	Project Management	0.09	Other Skills	0.09
+djadjat2012	20.0	5.0	6	Anything Goes	0.71	Indonesian	0.14	Translation	0.14
+marabel68	4.0	5.0	1	Research	0.5	Virtual Assistant	0.5
+Eulogik	18.0	5.0	1	HTML	0.2	AJAX	0.2	PHP	0.2	MySQL	0.2	Website Design	0.2
+innovativeWork	35.0	4.8	116	PHP	0.29	Software Architecture	0.17	Software Testing	0.16	Java	0.07	Linux	0.05	Other Skills	0.25
+Rocket976	80.0	5.0	1	Internet Marketing	0.5	SEO	0.5
+eurodevteams	31.0	4.8	3	C Programming	0.22	Engineering	0.22	C# Programming	0.11	Windows Desktop	0.11	Data Processing	0.11	Other Skills	0.22
+Kingcraft	5.0	5.0	15	Data Entry	0.37	Web Search	0.24	Excel	0.16	Data Processing	0.11	Web Scraping	0.05	Other Skills	0.08
+ETNASoftware	24.0	5.0	1	Financial Markets	0.2	Web Scraping	0.2	PHP	0.2	Software Architecture	0.2	C Programming	0.2
+dero123	9.99	4.9	18	Graphic Design	0.23	Logo Design	0.19	Photoshop	0.16	Banner Design	0.12	Website Design	0.11	Other Skills	0.19
+AnitaWhittle	20.0	5.0	2	Academic Writing	0.17	Proofreading	0.17	Travel Writing	0.17	Article Rewriting	0.17	Articles	0.17	Other Skills	0.17
+kkolukul	8.0	4.9	4	Data Entry	0.43	Oracle	0.29	Data Processing	0.14	Excel	0.14
+mainulislam85	10.0	4.8	35	Logo Design	0.16	Caricature &amp; Cartoons	0.16	Graphic Design	0.15	Photoshop	0.14	Illustration	0.12	Other Skills	0.26
+olehmelnyk	25.0	5.0	1	3ds Max	0.33	Graphic Design	0.33	3D Rendering	0.33
+cleichty	15.0	5.0	1	Copywriting	0.5	Research	0.5
+hilaryisabel	10.0	4.5	3	Articles	0.33	Copywriting	0.33	Ghostwriting	0.33
+Linsam	12.0	5.0	19	Linux	0.5	HTML	0.5
+quer17iron	20.0	4.8	13	Wordpress	0.17	eCommerce	0.17	XML	0.17	Website Design	0.08	Javascript	0.08	Other Skills	0.33
+quer17iron	20.0	4.8	13	Wordpress	0.17	eCommerce	0.17	XML	0.17	Website Design	0.08	Javascript	0.08	Other Skills	0.33
+Cuberuler	20.0	4.8	2	Articles	0.4	Copywriting	0.2	Article Rewriting	0.2	Editing	0.2
+codingsolutionlx	8.0	5.0	1	C# Programming	0.25	.NET	0.25	Website Testing	0.25	SQL	0.25
+xixoseven	18.0	4.2	9	Graphic Design	0.36	Illustration	0.24	Caricature &amp; Cartoons	0.16	Illustrator	0.12	Photoshop	0.08	Other Skills	0.04
+fretchey	5.0	4.0	1	Transcription	1.0
+andreygordeev	17.0	4.8	7	Software Architecture	0.5	Windows Desktop	0.38	Microsoft Access	0.13
+marinpurgar	20.0	5.0	1	Zend	1.0
+Aliraza170	12.0	3.5	3	PHP	0.5	Website Management	0.5
+Mdav123	25.0	4.4	1	Graphic Design	0.5	Photography	0.5
+unixworld	20.0	5.0	1	Web Security	0.33	PHP	0.33	System Admin	0.33
+TMG	30.0	4.9	7	Research	1.0
+WebdesignerPRO	30.0	5.0	10	Graphic Design	0.25	Website Design	0.21	PHP	0.13	Flash	0.13	Photoshop	0.08	Other Skills	0.21
+FastAndReliable	15.0	5.0	6	Copywriting	0.71	Proofreading	0.14	Research	0.14
+davedjh	15.0	5.0	19	Translation	0.54	Data Entry	0.25	Audio Services	0.13	Data Processing	0.08
+Wadjet	10.0	4.9	30	C Programming	0.45	C++ Programming	0.18	Java	0.18	Objective C	0.06	Algorithm	0.06	Other Skills	0.06
+easyhotdesigns	5.0	5.0	3	Photoshop	0.3	Graphic Design	0.3	Banner Design	0.2	Website Design	0.2
+Kzafar	10.0	4.9	4	Data Entry	0.5	Excel	0.25	Data Processing	0.25
+esoftsolz	2.0	4.9	79	Anything Goes	0.44	Data Entry	0.13	Graphic Design	0.12	PHP	0.08	Website Design	0.06	Other Skills	0.18
+earthdesigner	45.0	4.9	9	CSS	0.38	Website Design	0.19	Graphic Design	0.14	Javascript	0.1	Templates	0.05	Other Skills	0.14
+Artoj	40.0	5.0	1	Graphic Design	1.0
+valdemarUK	36.0	5.0	1	3D Rendering	0.5	Animation	0.5
+friendzsoft	32.0	5.0	6	PHP	0.2	CSS	0.2	Wordpress	0.16	PSD2CMS	0.16	HTML	0.16	Other Skills	0.12
+Stevok	9.0	5.0	4	Graphic Design	0.38	Website Design	0.25	Photoshop	0.13	Javascript	0.13	Powerpoint	0.13
+andiwibowo	20.0	5.0	1	Banner Design	0.5	Logo Design	0.5
+danielalmeida	12.0	0.0	1	jQuery / Prototype	0.2	AJAX	0.2	PHP	0.2	MySQL	0.2	Javascript	0.2
+at0S	40.0	5.0	1	Amazon Web Services	1.0
+megasoftcr	12.0	4.9	16	Website Design	0.23	Wordpress	0.18	PHP	0.18	HTML	0.14	iPhone	0.05	Other Skills	0.23
+offloadprojects	10.0	4.3	12	Website Testing	0.12	Web Hosting	0.1	Anything Goes	0.1	Software Testing	0.1	Website Management	0.1	Other Skills	0.48
+cyb1n	25.0	5.0	2	MySQL	0.33	PHP	0.33	Cold Fusion	0.33
+vijaykumar1990	5.0	0.0	1	Excel	1.0
+Skiven	60.0	4.6	2	Audio Services	0.5	Copywriting	0.5
+Atif222	10.0	4.7	26	Javascript	0.25	.NET	0.25	ASP	0.19	Visual Basic	0.13	Windows Desktop	0.06	Other Skills	0.13
+letichev	5.0	5.0	4	PHP	0.33	Engineering	0.33	MySQL	0.22	Electronics	0.11
+MoatazRaafat	15.0	4.9	47	Software Architecture	0.18	Software Testing	0.18	Logo Design	0.15	Photoshop	0.12	Website Testing	0.09	Other Skills	0.28
+itsazzad	20.0	5.0	2	PHP	0.5	MySQL	0.5
+Vallerie	20.0	5.0	9	Translation	0.8	Editing	0.1	Proofreading	0.1
+ammitssharma	10.0	5.0	4	CSS	0.18	PHP	0.18	AJAX	0.18	Javascript	0.09	Website Design	0.09	Other Skills	0.27
+smpLeader	22.0	5.0	21	Joomla	0.44	PHP	0.26	HTML	0.06	MySQL	0.06	CMS	0.03	Other Skills	0.15
+viceroid	7.0	5.0	2	Wordpress	1.0
+lucasarts	35.0	5.0	1	Graphic Design	0.25	PHP	0.25	CMS	0.25	Website Design	0.25
+vcompany	4.0	5.0	2	Classifieds Posting	0.33	Advertising	0.33	Forum Posting	0.33
+gillsoft	10.0	5.0	1	C# Programming	0.33	ASP	0.33	.NET	0.33
+trafficmaster1	10.0	0.0	1	AJAX	0.06	Copywriting	0.06	Website Design	0.06	PHP	0.06	jQuery / Prototype	0.06	Other Skills	0.71
+Okalayci	10.0	5.0	2	PHP	1.0
+vw7560630vw	10.0	3.4	2	Windows Desktop	1.0
+codetiburon	25.0	5.0	16	MySQL	0.12	Software Architecture	0.12	Engineering	0.12	PHP	0.12	Software Testing	0.12	Other Skills	0.4
+dizzyaddy	6.0	5.0	17	Anything Goes	0.67	Virtual Assistant	0.33
+roboracle	30.0	4.0	2	Graphic Design	0.5	Invitation Design	0.5
+PatWms	10.0	0.0	0	Catch Phrases	0.5	Slogans	0.5
+Zelechka	5.0	5.0	1	Translation	1.0
+diyamathur	10.0	4.8	256	SEO	0.64	Internet Marketing	0.27	PHP	0.05	Marketing	0.03	SEM / Adwords	0.0	Other Skills	0.0
+gulsarrays	12.0	5.0	127	PHP	0.71	Project Management	0.24	Javascript	0.02	Internet Marketing	0.01	ASP	0.01
+ramsankar1984	15.0	5.0	37	PHP	0.95	XML	0.03	Javascript	0.03
+Ecotone	25.0	5.0	4	Graphic Design	0.75	Logo Design	0.25
+pedroschneider	6.0	5.0	2	PHP	0.67	ASP	0.33
+boduweb	35.0	5.0	8	Website Design	0.33	Wordpress	0.24	CMS	0.1	Graphic Design	0.1	Facebook Marketing	0.05	Other Skills	0.19
+CodeRush	20.0	5.0	19	HTML	0.25	.NET	0.25	C# Programming	0.21	Graphic Design	0.17	CSS	0.08	Other Skills	0.04
+CristinaTM	10.0	0.0	1	Blog	0.5	Articles	0.5
+expertsandy	10.0	4.2	1	.NET	0.5	Project Management	0.5
+bpo0995	5.0	5.0	2	Telemarketing	1.0
+jrobertsa	25.0	5.0	1	Game Design	0.33	Java	0.33	Android	0.33
+anicolada	40.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+anicolada	40.0	5.0	1	Graphic Design	0.5	Logo Design	0.5
+ultramarinedc	28.0	4.9	2	Illustration	1.0
+developernumber1	14.0	5.0	1	.NET	0.5	C# Programming	0.5
+ultimated	15.0	0.0	0	Photoshop	0.33	Graphic Design	0.33	Logo Design	0.33
+rchaplin	30.0	4.6	30	PHP	0.49	Website Design	0.16	XML	0.09	Linux	0.07	MySQL	0.07	Other Skills	0.12
+wmas	20.0	5.0	2	Flash	0.33	Graphic Design	0.33	Logo Design	0.33
+Softmania	25.0	4.6	451	PHP	0.54	Flash	0.13	CSS	0.09	XML	0.05	Photoshop	0.05	Other Skills	0.13
+iLoveCoding	25.0	4.9	81	Engineering	0.52	Windows Desktop	0.18	Visual Basic	0.12	.NET	0.08	Excel	0.08	Other Skills	0.02
+SSayeed	4.0	4.9	21	Data Entry	0.69	Data Processing	0.28	SEO	0.03
+desertship	12.0	5.0	52	PHP	0.38	Wordpress	0.21	Joomla	0.15	Website Design	0.13	Graphic Design	0.04	Other Skills	0.08
+kazibwe	10.0	4.9	5	Proofreading	0.22	Editing	0.22	Ghostwriting	0.11	Technical Writing	0.11	Copywriting	0.11	Other Skills	0.22
+optimizareseo	35.0	5.0	1	SEO	0.5	Link Building	0.5
+animactiongroup	25.0	5.0	3	Magento	0.11	Logo Design	0.11	Format &amp; Layout	0.11	Graphic Design	0.11	eCommerce	0.11	Other Skills	0.44
+ciphe	30.0	4.8	8	Java	0.33	Computer Security	0.22	Cryptography	0.11	C++ Programming	0.06	Algorithm	0.06	Other Skills	0.22
+clockworksol	15.0	5.0	8	Customer Support	0.27	Data Entry	0.18	Virtual Assistant	0.18	Data Processing	0.18	Technical Support	0.09	Other Skills	0.09
+OceanusWeb	30.0	5.0	3	PHP	0.3	HTML	0.3	CSS	0.2	Dreamweaver	0.1	Javascript	0.1
+chirag89	15.0	5.0	1	HTML	1.0
+ekkovw	20.0	5.0	11	Web Hosting	0.11	MySQL	0.11	Software Testing	0.11	PHP	0.11	Perl	0.11	Other Skills	0.46
+welawrites	5.0	5.0	3	Academic Writing	0.5	Article Rewriting	0.5
+gooliver	30.0	5.0	1	Translation	1.0
+clicon212	35.0	5.0	1	Business Analysis	0.33	Finance	0.33	Financial Markets	0.33
+cloudlancer	30.0	5.0	4	Javascript	0.43	PHP	0.29	AJAX	0.14	jQuery / Prototype	0.14
+JAyHeavens	8.0	5.0	1	Illustration	0.25	Logo Design	0.25	Caricature &amp; Cartoons	0.25	Illustrator	0.25
+matinfazli	10.0	5.0	1	Business Cards	0.33	Graphic Design	0.33	Stationery Design	0.33
+clmrogers	60.0	0.0	1	Blog	0.25	Data Entry	0.25	Articles	0.25	Proofreading	0.25
+bender	15.0	4.9	82	Flash	0.41	Website Management	0.35	Photoshop	0.06	XML	0.04	CSS	0.03	Other Skills	0.11
+miabulhassan	15.0	5.0	5	Graphic Design	0.27	Flash	0.27	Website Design	0.27	Logo Design	0.18
+aig	12.0	5.0	6	PHP	0.38	Website Design	0.25	Project Management	0.13	Internet Marketing	0.13	Copywriting	0.13
+coreweb1	50.0	5.0	5	Website Design	1.0
+Utech	5.0	4.9	358	SEO	0.54	Link Building	0.46
+Mdav123	25.0	4.4	1	Graphic Design	0.5	Photography	0.5
+unixworld	20.0	5.0	1	Web Security	0.33	PHP	0.33	System Admin	0.33
+TMG	30.0	4.9	7	Research	1.0
+FastAndReliable	15.0	5.0	6	Copywriting	0.71	Proofreading	0.14	Research	0.14
+davedjh	15.0	5.0	19	Translation	0.54	Data Entry	0.25	Audio Services	0.13	Data Processing	0.08
+Wadjet	10.0	4.9	30	C Programming	0.45	C++ Programming	0.18	Java	0.18	Objective C	0.06	Algorithm	0.06	Other Skills	0.06
+easyhotdesigns	5.0	5.0	3	Photoshop	0.3	Graphic Design	0.3	Banner Design	0.2	Website Design	0.2
+Kzafar	10.0	4.9	4	Data Entry	0.5	Excel	0.25	Data Processing	0.25
+esoftsolz	2.0	4.9	79	Anything Goes	0.44	Data Entry	0.13	Graphic Design	0.12	PHP	0.08	Website Design	0.06	Other Skills	0.18
+saurabhmca2003	10.0	5.0	1	PHP	0.5	HTML	0.5
+rchaplin	30.0	4.6	30	PHP	0.49	Website Design	0.16	XML	0.09	Linux	0.07	MySQL	0.07	Other Skills	0.12
+wmas	20.0	5.0	2	Flash	0.33	Graphic Design	0.33	Logo Design	0.33
+creativemessiah	76.0	4.9	17	Copywriting	0.28	Articles	0.16	Marketing	0.12	Internet Marketing	0.12	SEO	0.08	Other Skills	0.24
+Softmania	25.0	4.6	451	PHP	0.54	Flash	0.13	CSS	0.09	XML	0.05	Photoshop	0.05	Other Skills	0.13
+iLoveCoding	25.0	4.9	81	Engineering	0.52	Windows Desktop	0.18	Visual Basic	0.12	.NET	0.08	Excel	0.08	Other Skills	0.02
+SSayeed	4.0	4.9	21	Data Entry	0.69	Data Processing	0.28	SEO	0.03
+desertship	12.0	5.0	2	PHP	0.38	Wordpress	0.21	Joomla	0.15	Website Design	0.13	Graphic Design	0.04	Other Skills	0.08
+kazibwe	10.0	4.9	5	Proofreading	0.22	Editing	0.22	Ghostwriting	0.11	Technical Writing	0.11	Copywriting	0.11	Other Skills	0.22
+optimizareseo	35.0	5.0	1	SEO	0.5	Link Building	0.5
+Massil	15.0	5.0	1	Video Services	1.0
+silvioq	30.0	5.0	7	Linux	0.15	UNIX	0.11	MySQL	0.11	PHP	0.11	Shell Script	0.11	Other Skills	0.41
+coreions	12.0	5.0	1	CMS	0.33	PHP	0.33	Javascript	0.33
+slk	25.0	5.0	19	Linux	0.34	System Admin	0.22	Script Install	0.16	Apache	0.09	Plesk	0.06	Other Skills	0.13
+myramnath	25.0	5.0	3	PHP	0.38	MySQL	0.25	HTML	0.13	AJAX	0.13	Javascript	0.13
