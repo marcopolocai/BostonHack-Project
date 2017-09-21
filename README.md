@@ -19,7 +19,9 @@ This repo consists of three notebook files, which shall be run in order:
 3. **constraint_Kmeans**
 
 ### Todo lists
-* new test data for (3)
+* new test data for (3), add error measurement
+* change distance function
+* consider prefixed group without projects
 
 ## Authors
 * **Marco Cai** 
