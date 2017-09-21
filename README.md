@@ -1,6 +1,6 @@
 # BostonHack-Project
 * Provide recommendation for team formation, given tasks data, people profiles, and team constraints
-* A write-up of the algorithm is included(update needed)
+* A write-up[https://www.overleaf.com/read/nngzfjvyxdyv] of the algorithm is included(update needed)
 
 ### Prerequisites
 
@@ -24,3 +24,4 @@ This repo consists of three notebook files, which shall be run in order:
 ## Authors
 * **Marco Cai** 
 ## Acknowledgments
+*
