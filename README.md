@@ -19,11 +19,12 @@ This repo consists of three notebook files, which shall be run in order:
 3. **constraint_Kmeans**
 
 ### Todo lists
-* new test data for (3), add error measurement
+* new test data for (3), add error measurement, or use sample data from fiona
 * change distance function
 * consider prefixed group without projects
 
 ## Authors
 * **Marco Cai** 
 ## Acknowledgments
-*
+* constraint Kmeans: http://www.cs.utexas.edu/~ml/papers/semi-icml-02.pdf
+* Linear Programing: https://pdfs.semanticscholar.org/b82e/1986a639efb69c379e87450aa5decfac5e79.pdf
