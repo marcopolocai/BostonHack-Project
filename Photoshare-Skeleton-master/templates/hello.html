@@ -1,0 +1,28 @@
+<!-- author ben lawson (balawson@bu.edu) -->
+<!doctype html>
+{% if message %}
+  <h1>{{message}}!</h1>
+{% endif %}
+<title>Team Foramtion</title>
+
+
+<!-- {% if message is none %}
+  <p>You should <a href='/login'>login!</a></p>
+{% else %}
+  <p> Go to <a href='/profile'>profile?</a></p>
+{% endif %} -->
+
+<ul>
+<li><a href='/register'>Enter participants information</a> </li> 
+<li><a href='/task'>Begin a new task</a></li>
+<li><a href='/'>Home</a></li>
+</ul>
+
+{% if participants %}
+<h3>All participants</h3>
+    <ul>
+    {% for p in participants %}
+        <li><b>{{p[1]}} {{p[2]}}:  </b></li>{{p[3]}} ;
+    {% endfor %}
+    </ul>
+{% endif %}

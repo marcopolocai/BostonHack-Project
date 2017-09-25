@@ -1,0 +1,26 @@
+<!-- author ben lawson balawson@bu.edu -->
+<head>
+    <title>Enter task inforamtion</title>
+</head>
+    <body>
+        <div class="title">
+            <h2>Enter a set of skills that the task requires</h2>
+        </div>
+        <div id="content">
+            <form method="post" action="{{ url_for('task') }}">
+                <label for="name">Enter task name:</label>
+                <input type="name" name="name" /><br />
+                <label for="skills">Enter  skills (separated by ','):</label>
+                <input type="skills" name="skills" /><br />
+                <input type="submit" />
+            </form>
+         </div>
+    </body>
+
+{% if message%}
+  <p>You should <a href='/login'>login!</a></p>
+{% else %}
+  <p> Go to <a href='/profile'>profile?</a></p>
+{% endif %}
+
+<a href='/'>Home</a>

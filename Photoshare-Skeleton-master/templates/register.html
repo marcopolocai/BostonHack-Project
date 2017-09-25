@@ -1,0 +1,26 @@
+<!-- author ben lawson balawson@bu.edu -->
+<head>
+    <title>Enter paticipants inforamtion</title>
+</head>
+{%if not supress%}
+<h1> Email already in use! Use another one or try <a href="/edit">edit</a></h1>
+{% endif %}
+    <body>
+        <div class="title">
+            <h2>Enter your information below</h2>
+        </div>
+        <div id="content">
+            <form method="post" action="{{ url_for('register_user') }}">
+                <label for="email">Enter your email:</label>
+                <input type="email" name="email" /><br />
+                <label for="fname">Enter your first name:</label>
+                <input type="fname" name="fname" /><br />
+                <label for="lname">Enter your last name:</label>
+                <input type="lname" name="lname" /><br />
+                <label for="skills">Enter your skills (separated by ','):</label>
+                <input type="skills" name="skills" /><br />
+                <input type="submit" />
+            </form>
+         </div>
+    </body>
+<a href='/'>Home</a>
